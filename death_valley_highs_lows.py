@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 
-filename = "data/sitka_weather_2018_simple.csv"
+filename = "data/death_valley_2018_simple.csv"
 with open(filename) as f:
     reader = csv.reader(f)
     header_row = next(reader)
@@ -13,10 +13,9 @@ with open(filename) as f:
     for index, column_header in enumerate(header_row):
         header_dict[index] = column_header
         print(index, column_header)
-    print(header_dict)
-    print(header_dict[1])
 
     # Looping through the heather_dict to get position of TMAX and TMIN
+
     for index in header_dict:
         if header_dict[index] == "TMIN":
             TMIN_index = index
@@ -29,11 +28,15 @@ with open(filename) as f:
     dates, highs, lows = [], [], []
     for row in reader:
         current_date = datetime.strptime(row[DATE_index], "%Y-%m-%d")
-        high = int(row[TMAX_index])
-        low = int(row[TMIN_index])
-        dates.append(current_date)
-        highs.append(high)
-        lows.append(low)
+        try:
+            high = int(row[TMAX_index])
+            low = int(row[TMIN_index])
+        except ValueError:
+            print(f"Missing data for {current_date}")
+        else:
+            dates.append(current_date)
+            highs.append(high)
+            lows.append(low)
 
 # print(highs)
 
@@ -46,7 +49,8 @@ plt.fill_between(dates, highs, lows, facecolor="blue", alpha=0.1)
 
 
 # Format plot
-plt.title("Daily high and low temperature - 2018", fontsize=24)
+title = "Daily high and low temperature - 2018\nDeath Valley ,CA"
+plt.title(title, fontsize=20)
 plt.xlabel("", fontsize=16)
 fig.autofmt_xdate()
 plt.ylabel("Temperature (F)", fontsize=16)
