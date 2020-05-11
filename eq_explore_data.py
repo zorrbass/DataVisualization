@@ -3,7 +3,7 @@ from plotly.graph_objs import Scattergeo, Layout
 from plotly import offline
 
 # Explore the structure of the data
-filename = "data/eq_data_30_day_m1.json"
+filename = "data/myquery3.json"
 with open(filename) as f:
     all_eq_data = json.load(f)
 
@@ -22,7 +22,7 @@ data = [{
     "lat": lats,
     "text": hover_texts,
     "marker": {
-        "size": [3*mag for mag in mags],
+        "size": [2*mag for mag in mags],
         "color": mags,
         "colorscale": "Viridis",
         "reversescale": True,

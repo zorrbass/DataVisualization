@@ -1,0 +1,1109 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2004-12-31T23:22:42.100Z,-31.356,-68.915,150,3.6,md,16,138.5,,,us,usp000dcaw,2014-11-07T01:24:28.153Z,"San Juan, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-31T23:05:23.030Z,13.208,92.474,30,4.3,mb,8,175.2,,1.31,us,usp000dcav,2014-11-07T01:24:28.152Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-31T22:23:35.230Z,51.383,15.967,5,2.9,ml,14,187.3,,1.23,us,usp000dcau,2014-11-07T01:24:28.149Z,"Poland",earthquake,,,,,reviewed,us,zamg
+2004-12-31T22:13:09.000Z,-32.481,-70.191,110.1,4.6,mb,27,125,,,us,usp000dcat,2014-11-07T01:24:28.146Z,"Valparaiso, Chile",earthquake,,,,2,reviewed,guc,us
+2004-12-31T22:09:27.360Z,9.435,93.895,44.1,5.3,mwc,92,51.4,,1.03,us,usp000dcas,2016-11-10T00:57:22.344Z,"Nicobar Islands, India region",earthquake,,14.3,,,reviewed,us,hrv
+2004-12-31T22:05:49.410Z,12.436,92.746,30,4.5,mb,12,177.6,,0.6,us,usp000dcar,2014-11-07T01:24:28.136Z,"Andaman Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-31T21:03:07.440Z,-53.124,140.534,10,4.8,mb,16,145.1,,1.72,us,usp000dcaq,2014-11-07T01:24:28.133Z,"west of Macquarie Island",earthquake,,,,10,reviewed,us,us
+2004-12-31T21:01:04.380Z,8.208,94.001,30,4.5,mb,6,184.5,,1.41,us,usp000dcap,2014-11-07T01:24:28.132Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-31T20:43:25.800Z,37.32,20.19,8,3.6,md,4,257.6,,,us,usp000dcan,2014-11-07T01:24:28.131Z,"Ionian Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-31T20:13:49.460Z,36.857,140.835,89.6,5.1,mwc,188,109.9,,0.71,us,usp000dcam,2016-11-10T00:57:21.863Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2004-12-31T20:01:23.380Z,51.383,16.072,5,2.7,m,9,240.2,,1.02,us,usp000dcak,2014-11-07T01:24:28.113Z,"Poland",earthquake,,,,,reviewed,us,war
+2004-12-31T19:06:18.480Z,34.707,33.438,5,3.1,ml,6,217.7,,,us,usp000dcaj,2014-11-07T01:24:28.112Z,"Cyprus region",earthquake,,,,,reviewed,nic,nic
+2004-12-31T18:59:05.500Z,41.752,13.891,12.3,2.7,md,11,90.7,,,us,usp000dcah,2014-11-07T01:24:28.110Z,"southern Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-31T18:07:42.280Z,28.058,53.393,40,4.6,mb,10,216.3,,0.95,us,usp000dcag,2014-11-07T01:24:28.108Z,"southern Iran",earthquake,,,,8,reviewed,us,us
+2004-12-31T18:01:58.780Z,7.019,92.596,11.3,5,mwc,59,102.5,,0.62,us,usp000dcaf,2016-11-10T00:57:21.358Z,"Nicobar Islands, India region",earthquake,,21.9,,,reviewed,us,hrv
+2004-12-31T17:48:05.740Z,4.73,95.14,49,5.9,mwc,311,59.8,,0.82,us,usp000dcae,2020-01-04T03:37:18.646Z,"northern Sumatra, Indonesia",earthquake,,9.5,,,reviewed,us,hrv
+2004-12-31T17:30:05.170Z,-20.581,-178.645,542.4,4.5,mb,34,130.7,,1.15,us,usp000dcad,2014-11-07T01:24:28.076Z,"Fiji region",earthquake,,14.7,,15,reviewed,us,us
+2004-12-31T17:18:51.550Z,8.883,92.794,30,4.4,mb,9,265.4,,1.47,us,usp000dcac,2014-11-07T01:24:28.075Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-31T16:57:57.600Z,37.862,13.174,10,2.5,md,6,148.2,,,us,usp000dcab,2014-11-07T01:24:28.073Z,"Sicily, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-31T16:37:32.900Z,51.68,-174.513,34.4,2.5,ml,5,256.6,,,us,usp000dcaa,2019-02-13T02:13:08.328Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-31T16:15:43.540Z,7.663,94.025,17.1,4.9,mwc,105,54.8,,0.71,us,usp000dca9,2016-11-10T00:57:20.388Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-31T16:03:25.100Z,38.44,19.75,12,3.4,md,4,250.3,,,us,usp000dca8,2014-11-07T01:24:28.062Z,"Ionian Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-31T16:01:06.620Z,13.615,93.623,30,4.4,mb,9,177.1,,1.23,us,usp000dca7,2014-11-07T01:24:28.061Z,"Andaman Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-31T15:58:17.520Z,5.268,94.325,30,4.6,mb,11,186.8,,0.71,us,usp000dca6,2014-11-07T01:24:28.059Z,"northern Sumatra, Indonesia",earthquake,,,,7,reviewed,us,us
+2004-12-31T15:02:04.810Z,14.521,93.473,26.7,4.8,mb,27,199,,0.89,us,usp000dca4,2014-11-07T01:24:28.053Z,"Andaman Islands, India region",earthquake,,66.5,,13,reviewed,us,us
+2004-12-31T14:54:43.460Z,4.246,92.843,35.8,4.7,mb,29,170.3,,0.92,us,usp000dca3,2014-11-07T01:24:28.048Z,"off the west coast of northern Sumatra",earthquake,,,,21,reviewed,us,us
+2004-12-31T14:38:46.620Z,5.113,94.857,49.4,5.4,mwc,320,59.7,,0.72,us,usp000dca2,2016-11-10T00:57:19.897Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-31T14:29:28.300Z,40.49,22.38,32,3.3,md,10,77.4,,,us,usp000dca1,2014-11-07T01:24:27.967Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-31T14:27:26.040Z,60.8125,-151.793,73.3,2.7,ml,,,,0.88,ak,ak004gtj6xjw,2019-02-13T02:12:57.668Z,"Kenai Peninsula, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2004-12-31T14:23:56.380Z,7.15,91.977,37.8,4.6,mb,33,131.4,,0.65,us,usp000dc9z,2014-11-07T01:24:27.961Z,"Nicobar Islands, India region",earthquake,,,,21,reviewed,us,us
+2004-12-31T14:16:05.120Z,13.646,93.62,30,4.3,mb,10,93.5,,0.51,us,usp000dc9y,2014-11-07T01:24:27.959Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-31T13:59:59.900Z,37.11,28.24,18,4.1,mb,16,102.7,,,us,usp000dc9x,2014-11-07T01:24:27.957Z,"western Turkey",earthquake,,,,2,reviewed,ath,us
+2004-12-31T13:59:30.570Z,8.515,93.756,30,4.6,mb,16,214.6,,0.65,us,usp000dc9w,2014-11-07T01:24:27.955Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-31T13:41:48.780Z,3.173,95.267,33,5.4,mwc,184,59.7,,0.85,us,usp000dc9v,2016-11-10T00:57:19.386Z,"off the west coast of northern Sumatra",earthquake,,15.8,,,reviewed,us,hrv
+2004-12-31T13:17:01.330Z,4.994,94.032,30,4.5,mb,11,191.5,,1.04,us,usp000dc9u,2014-11-07T01:24:27.937Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-31T13:09:59.850Z,5.519,94.385,50.5,4.7,mb,40,113.7,,0.52,us,usp000dc9t,2014-11-07T01:24:27.933Z,"northern Sumatra, Indonesia",earthquake,,12.3,,26,reviewed,us,us
+2004-12-31T12:50:28.040Z,19.3918333,-155.245,2.296,2.54,ml,28,50,,0.1,hv,hv5412078,2020-03-31T16:09:05.270Z,"Hawaii region, Hawaii",earthquake,0.23,0.34,0.12,7,reviewed,hv,hv
+2004-12-31T12:45:59.440Z,3.265,96.072,41.3,4.9,mb,32,119.9,,0.97,us,usp000dc9s,2014-11-07T01:24:27.928Z,"northern Sumatra, Indonesia",earthquake,,,,25,reviewed,us,us
+2004-12-31T12:05:14.600Z,42.68,-1.11,10,2.7,ml,37,48.5,,,us,usp000dc9r,2014-11-07T01:24:27.913Z,"Pyrenees",earthquake,,,,,reviewed,str,str
+2004-12-31T12:04:57.520Z,6.204,92.913,11,6,mwb,247,54.8,,0.72,us,usp000dc9q,2016-11-10T00:57:18.890Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+2004-12-31T11:30:31.440Z,50.019,18.493,5,2.6,m,8,147.6,,0.62,us,usp000dc9p,2014-11-07T01:24:27.882Z,"Poland",earthquake,,,,,reviewed,us,war
+2004-12-31T11:27:48.870Z,51.289,-174.182,15.3,5,mwc,92,199.2,,0.62,us,usp000dc9n,2019-02-13T02:12:55.952Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,8.1,,,reviewed,us,hrv
+2004-12-31T10:58:21.470Z,5.03,94.834,13,5.2,mwc,242,60.1,,0.77,us,usp000dc9m,2016-11-10T00:57:17.864Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-31T10:15:54.400Z,-36.161,-71.357,78.6,3,md,7,217.1,,,us,usp000dc9k,2014-11-07T01:24:27.855Z,"Maule, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-31T09:57:00.020Z,7.636,93.947,22.2,5.6,mwb,258,54.6,,0.94,us,usp000dc9j,2016-11-10T00:57:17.375Z,"Nicobar Islands, India region",earthquake,,13.2,,,reviewed,us,us
+2004-12-31T09:51:10.050Z,9.589,93.637,30,4.8,mb,23,201.5,,0.72,us,usp000dc9h,2014-11-07T01:24:27.832Z,"Nicobar Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-31T08:59:33.500Z,-30.979,-71.267,56.2,2.8,md,5,188.3,,,us,usp000dc9g,2014-11-07T01:24:27.831Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-31T08:55:22.050Z,36.663,-9.629,0,3.9,m,9,304.7,,,us,usp000dc9f,2014-11-07T01:24:27.829Z,"west of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-12-31T08:52:21.150Z,5.904,93.28,13.3,4.9,mwc,81,102.2,,0.71,us,usp000dc9e,2016-11-09T05:28:09.093Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-31T08:34:58.450Z,7.126,94.609,16.3,4.8,mb,46,101,,0.64,us,usp000dc9d,2014-11-07T01:24:27.817Z,"Nicobar Islands, India region",earthquake,,21.7,,25,reviewed,us,us
+2004-12-31T08:30:25.160Z,39.964,142.163,67.3,4.3,mwr,33,173,,0.52,us,usp000dc9c,2014-11-07T01:24:27.814Z,"near the east coast of Honshu, Japan",earthquake,,6.1,,,reviewed,us,nied
+2004-12-31T07:58:57.700Z,-32.49,-70.002,128.5,2.9,md,19,129,,,us,usp000dc9b,2014-11-07T01:24:27.811Z,"Mendoza, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-31T07:56:47.600Z,8.837,92.458,51.3,4.6,mb,16,124.5,,0.85,us,usp000dc9a,2014-11-07T01:24:27.809Z,"Nicobar Islands, India region",earthquake,,17.7,,14,reviewed,us,us
+2004-12-31T07:45:59.400Z,7.004,94.366,30,4.8,mb,20,162.4,,0.65,us,usp000dc99,2014-11-07T01:24:27.807Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-31T07:38:18.670Z,4.513,94.667,30,4.6,mb,9,209.6,,0.71,us,usp000dc98,2014-11-07T01:24:27.806Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-31T07:26:37.170Z,4.321,95.194,46.6,5.2,mwc,54,80.6,,0.89,us,usp000dc97,2016-11-10T00:57:16.862Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-31T07:01:00.400Z,43.25,2.9,10,2.7,ml,32,83.8,,,us,usp000dc96,2014-11-07T01:24:27.794Z,"France",earthquake,,,,,reviewed,str,str
+2004-12-31T06:51:56.120Z,52.227,-167.737,15.5,2.5,ml,5,293.9,,,us,usp000dc95,2019-02-13T02:13:01.849Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-31T06:50:26.947Z,60.3311,-147.7982,24.2,2.5,ml,,,,0.65,ak,ak004gteke92,2019-02-13T02:12:54.401Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2004-12-31T06:30:05.430Z,35.882,-4.69,81.6,3.4,m,45,243.8,,,us,usp000dc94,2014-11-07T01:24:27.787Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-12-31T06:26:21.190Z,-37.838,-73.539,30,4,mb,15,178.6,,1.13,us,usp000dc93,2014-11-07T01:24:27.786Z,"Bio-Bio, Chile",earthquake,,0,,2,reviewed,us,us
+2004-12-31T06:26:14.200Z,3.239,93.747,28.7,4.8,mb,52,152.9,,1.16,us,usp000dc92,2014-11-07T01:24:27.781Z,"off the west coast of northern Sumatra",earthquake,,,,24,reviewed,us,us
+2004-12-31T06:08:11.750Z,7.355,92.502,30,4.8,mb,10,182.9,,0.76,us,usp000dc91,2014-11-07T01:24:27.779Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-31T05:53:55.940Z,11.083,91.988,27.3,5.1,mwc,124,57.5,,0.82,us,usp000dc90,2016-11-10T00:57:16.354Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-31T05:53:01.430Z,53.871,-163.866,33,2.5,ml,8,255.4,,,us,usp000dc8z,2019-02-13T02:13:01.455Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-31T05:04:12.440Z,37.597,-118.832,6.567,2.84,md,38,71,0.007207,0.04,nc,nc21431140,2017-01-10T01:06:47.860Z,"Long Valley area, California",earthquake,0.22,0.33,0.13,53,reviewed,nc,nc
+2004-12-31T05:02:59.300Z,37.04,28.63,34,3.1,md,4,270.8,,,us,usp000dc8y,2014-11-07T01:24:27.765Z,"western Turkey",earthquake,,,,,reviewed,ath,ath
+2004-12-31T05:00:46.100Z,37,28.67,20,3.1,md,4,273,,,us,usp000dc8x,2014-11-07T01:24:27.764Z,"western Turkey",earthquake,,,,,reviewed,ath,ath
+2004-12-31T04:58:53.200Z,37.07,28.57,18,3.3,md,4,267.5,,,us,usp000dc8w,2014-11-07T01:24:27.763Z,"western Turkey",earthquake,,,,,reviewed,ath,ath
+2004-12-31T04:27:02.280Z,51.493,16.065,5,3.1,ml,11,255.8,,0.8,us,usp000dc8v,2014-11-07T01:24:27.760Z,"Poland",earthquake,,,,,reviewed,us,zamg
+2004-12-31T04:24:50.310Z,40.348,32.948,17.2,3.3,md,14,47.4,,,us,usp000dc8u,2014-11-07T01:24:27.758Z,"central Turkey",earthquake,,,,,reviewed,isk,isk
+2004-12-31T04:02:50.930Z,50.175,18.442,5,3.7,ml,24,80.2,,1.11,us,usp000dc8t,2014-11-07T01:24:27.755Z,"Poland",earthquake,,,,,reviewed,us,grf
+2004-12-31T03:52:59.150Z,10.736,91.863,30,4.6,mb,10,115.1,,0.57,us,usp000dc8s,2014-11-07T01:24:27.753Z,"Andaman Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-31T03:29:59.020Z,50.322,18.83,5,2.9,ml,15,170.1,,1.16,us,usp000dc8r,2014-11-07T01:24:27.751Z,"Poland",earthquake,,,,,reviewed,us,zamg
+2004-12-31T03:23:17.000Z,35.62,23.23,2,3.2,md,6,208.9,,,us,usp000dc8q,2014-11-07T01:24:27.749Z,"Crete, Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-31T03:18:01.700Z,2.067,126.671,50,4.7,mb,22,134.6,,0.72,us,usp000dc8p,2014-11-07T01:24:27.747Z,"Molucca Sea",earthquake,,,,19,reviewed,us,us
+2004-12-31T03:08:18.400Z,4.915,93.086,24.6,4.8,mb,26,134.9,,0.74,us,usp000dc8n,2014-11-07T01:24:27.723Z,"off the west coast of northern Sumatra",earthquake,,35.9,,16,reviewed,us,us
+2004-12-31T03:05:01.576Z,57.2587,-155.557,70.7,2.5,ml,,,,0.63,ak,ak004gtcie99,2019-02-13T02:13:00.024Z,"Alaska Peninsula",earthquake,,7.2,,,reviewed,ak,ak
+2004-12-31T02:50:23.740Z,50.252,18.794,5,2.5,m,10,178.1,,1.32,us,usp000dc8m,2014-11-07T01:24:27.721Z,"Poland",earthquake,,,,,reviewed,us,war
+2004-12-31T02:32:45.800Z,42.673,15.604,10,3,ml,32,138.3,,,us,usp000dc8k,2014-11-07T01:24:27.717Z,"Adriatic Sea",earthquake,,,,,reviewed,rom,ldg
+2004-12-31T02:24:00.520Z,7.12,92.533,14,6.1,mwc,347,52.8,,0.92,us,usp000dc8j,2016-11-10T00:57:15.840Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-31T01:30:47.960Z,3.661,93.203,30,4.6,mb,8,291.9,,0.92,us,usp000dc8h,2014-11-07T01:24:27.682Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-31T01:20:25.540Z,10.603,91.492,25.5,4.8,mb,20,158.2,,0.65,us,usp000dc8g,2014-11-07T01:24:27.679Z,"Andaman Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-31T01:12:28.890Z,49.199,156.057,28.8,4.8,mb,68,176,,0.55,us,usp000dc8f,2014-11-07T01:24:27.674Z,"Kuril Islands",earthquake,,14,,39,reviewed,us,us
+2004-12-31T00:32:05.260Z,8.493,94.132,30,4.8,mb,16,124.3,,0.71,us,usp000dc8e,2014-11-07T01:24:27.672Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-31T00:29:19.560Z,4.667,95.008,30,4.8,mb,16,183.1,,0.86,us,usp000dc8d,2014-11-07T01:24:27.670Z,"northern Sumatra, Indonesia",earthquake,,,,9,reviewed,us,us
+2004-12-31T00:18:52.200Z,-38.31,177.1,51,3.8,ml,31,53.4,,,us,usp000dc8c,2014-11-07T01:24:27.667Z,"North Island of New Zealand",earthquake,,,,,reviewed,wel,wel
+2004-12-30T23:54:42.640Z,20.951,97.758,20.1,5.1,mb,41,97.1,,1.21,us,usp000dc8b,2014-11-07T01:24:27.663Z,"Myanmar",earthquake,,22.8,,30,reviewed,us,us
+2004-12-30T23:42:27.382Z,61.6194,-149.9864,40,2.9,ml,,,,0.69,ak,ak004gs13pci,2019-02-13T02:12:41.552Z,"Southern Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2004-12-30T23:37:48.500Z,-30.799,-71.403,40.4,3.3,md,4,232.9,,,us,usp000dc89,2014-11-07T01:24:27.656Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T23:32:41.500Z,38.54,24.43,44,3.3,md,10,113.8,,,us,usp000dc88,2014-11-07T01:24:27.654Z,"Aegean Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-30T23:32:05.540Z,19.216,-67.029,71.8,2.8,md,7,315,,,us,usp000dc87,2014-11-07T01:24:27.653Z,"Puerto Rico region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-30T23:12:26.200Z,37.54,20.74,23,3.6,ml,9,235.1,,,us,usp000dc86,2014-11-07T01:24:27.652Z,"Ionian Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-30T23:05:16.400Z,41.916,15.696,7.2,2.5,md,4,237.2,,,us,usp000dc85,2014-11-07T01:24:27.650Z,"southern Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-30T23:04:55.440Z,5.353,94.485,30,4.9,mwc,51,168.1,,0.89,us,usp000dc84,2016-11-10T00:57:11.710Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-30T22:24:09.050Z,8.556,93.731,30,4.5,mb,14,208.8,,1.44,us,usp000dc83,2014-11-07T01:24:27.643Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-30T22:21:58.700Z,-33.403,-68.59,4.7,4.3,ml,19,113.7,,,us,usp000dc82,2014-11-07T01:24:27.641Z,"Mendoza, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-30T22:17:56.020Z,-6.124,-106.842,10,4.7,mb,28,150.7,,1.28,us,usp000dc81,2014-11-07T01:24:27.637Z,"central East Pacific Rise",earthquake,,,,19,reviewed,us,us
+2004-12-30T21:37:51.991Z,67.5557,-158.459,10,3,ml,,,,0.84,ak,ak004grzvtgf,2019-02-13T02:12:51.622Z,"northern Alaska",earthquake,,0,,,reviewed,ak,ak
+2004-12-30T21:36:01.870Z,5.287,94.538,30,5.4,mwc,157,59.4,,0.75,us,usp000dc7z,2016-11-10T00:57:11.204Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-30T21:32:38.160Z,53.774,-165.18,54.1,2.6,ml,19,217.6,,,us,usp000dc7y,2019-02-13T02:12:39.889Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-30T21:09:19.700Z,-32.78,-71.611,56.8,3.3,md,21,189.1,,,us,usp000dc7x,2014-11-07T01:24:27.615Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T21:00:40.850Z,-16.613,-175.835,218.2,4.5,mb,26,183.7,,1.26,us,usp000dc7w,2014-11-07T01:24:27.610Z,"Tonga",earthquake,,15.1,,8,reviewed,us,us
+2004-12-30T20:50:28.790Z,51.498,16.198,5,3.1,ml,20,129.4,,1.01,us,usp000dc7v,2014-11-07T01:24:27.607Z,"Poland",earthquake,,,,,reviewed,us,zamg
+2004-12-30T20:40:41.400Z,43.263,13.547,5,3.2,ml,81,123.8,,,us,usp000dc7u,2014-11-07T01:24:27.599Z,"central Italy",earthquake,,,,,reviewed,rom,ldg
+2004-12-30T20:30:02.710Z,46.1993333,-122.1896667,-1.604,2.5,md,10,106,0.002846,0.33,uw,uw10646408,2016-07-23T03:07:48.390Z,"Mount St. Helens area, Washington",earthquake,0.085,0.19,0.04,4,reviewed,uw,uw
+2004-12-30T19:40:25.360Z,46.117,15.219,10,2.6,ml,12,69,,0.62,us,usp000dc7t,2014-11-07T01:24:27.597Z,"Slovenia",earthquake,,,,,reviewed,us,zamg
+2004-12-30T19:18:04.220Z,2.698,94.389,30,4.9,mwc,81,66.2,,0.92,us,usp000dc7s,2016-11-10T00:57:10.696Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-30T19:16:50.780Z,51.393,-178.288,11.5,2.7,ml,13,342.1,,,us,usp000dc7r,2019-02-13T02:12:39.484Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-30T18:30:18.200Z,40.78,9.952,10,2.6,ml,10,329.8,,,us,usp000dc7p,2014-11-07T01:24:27.582Z,"Sardinia, Italy",earthquake,,,,,reviewed,ldg,ldg
+2004-12-30T18:27:37.250Z,-15.411,167.982,4.6,5,mwc,41,130.2,,0.85,us,usp000dc7n,2016-11-10T00:57:10.191Z,"Vanuatu",earthquake,,52.6,,,reviewed,us,hrv
+2004-12-30T18:00:14.000Z,15.974,-100.542,15,3.8,md,6,294.3,,,us,usp000dc7m,2014-11-07T01:24:27.576Z,"off the coast of Guerrero, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-30T17:58:11.190Z,12.237,92.515,30,5.7,mwc,197,44.4,,0.96,us,usp000dc7k,2016-11-10T00:57:09.659Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-30T17:34:42.320Z,6.76,92.906,14.1,5.4,mwb,156,54,,0.98,us,usp000dc7j,2016-11-10T00:57:09.157Z,"Nicobar Islands, India region",earthquake,,19.4,,,reviewed,us,us
+2004-12-30T16:48:07.510Z,-18.189,-177.901,486,4.4,mb,16,122.6,,0.99,us,usp000dc7g,2014-11-07T01:24:27.536Z,"Fiji region",earthquake,,15.8,,13,reviewed,us,us
+2004-12-30T16:20:05.594Z,62.6454,-151.1314,85.9,3.1,ml,,,,0.77,ak,ak004grwswof,2019-02-13T02:12:36.033Z,"Central Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2004-12-30T16:18:32.690Z,7.449,94.042,30,4.5,mb,14,166.5,,1.2,us,usp000dc7e,2014-11-07T01:24:27.530Z,"Nicobar Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-30T16:16:12.290Z,7.686,93.61,30,4.6,mb,13,199.6,,1.35,us,usp000dc7d,2014-11-07T01:24:27.528Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-30T15:15:21.400Z,-34.53,-71.033,85.7,3.7,md,19,121.7,,,us,usp000dc7c,2014-11-07T01:24:27.525Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T15:02:18.200Z,9.522,-74.966,42.9,4.8,mb,73,74.5,,1.18,us,usp000dc7b,2014-11-07T01:24:27.517Z,"northern Colombia",earthquake,,11.9,,52,reviewed,us,us
+2004-12-30T14:57:25.760Z,8.118,93.694,30,4.6,mb,22,101.1,,1.35,us,usp000dc7a,2014-11-07T01:24:27.514Z,"Nicobar Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-30T13:29:45.170Z,38.921,141.493,70.8,5,mwc,125,113.1,,0.78,us,usp000dc78,2016-11-10T00:57:08.652Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2004-12-30T12:54:13.700Z,-32.201,-71.003,91.3,3.1,md,7,276.7,,,us,usp000dc77,2014-11-07T01:24:27.452Z,"Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T11:34:14.890Z,6.384,92.864,30,4.5,mb,13,91.7,,1.22,us,usp000dc76,2014-11-07T01:24:27.450Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-30T11:26:41.420Z,5.085,94.69,30,4.8,mb,22,168.2,,0.87,us,usp000dc75,2014-11-07T01:24:27.448Z,"northern Sumatra, Indonesia",earthquake,,,,19,reviewed,us,us
+2004-12-30T10:59:36.180Z,13.249,92.031,30,4.7,mb,20,155.1,,1.14,us,usp000dc74,2014-11-07T01:24:27.446Z,"Andaman Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-30T10:32:00.300Z,37.03,28.13,26,3.7,md,6,183.7,,,us,usp000dc73,2014-11-07T01:24:27.445Z,"western Turkey",earthquake,,,,,reviewed,ath,ath
+2004-12-30T10:21:44.230Z,53.102,-166.826,11.8,2.9,ml,13,252.3,,,us,usp000dc72,2019-02-13T02:12:32.566Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-30T10:17:26.710Z,-2.349,68.756,10,4.5,mb,11,89.4,,1.62,us,usp000dc71,2014-11-07T01:24:27.441Z,"Carlsberg Ridge",earthquake,,,,12,reviewed,us,us
+2004-12-30T09:53:53.350Z,11.35,91.858,3,4.8,mb,30,78.4,,1.06,us,usp000dc70,2014-11-07T01:24:27.438Z,"Andaman Islands, India region",earthquake,,26,,26,reviewed,us,us
+2004-12-30T09:40:58.920Z,38.389,135.46,359.3,4.6,mwr,115,76.7,,0.72,us,usp000dc6z,2014-11-07T01:24:27.429Z,"Sea of Japan",earthquake,,3.9,,,reviewed,us,nied
+2004-12-30T09:29:55.500Z,52.596,-169.203,56.7,3.1,ml,15,210.8,,,us,usp000dc6y,2019-02-13T02:12:32.207Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-30T08:55:19.600Z,24.567,142.769,66.4,4.6,mb,29,92.2,,1.14,us,usp000dc6x,2014-11-07T01:24:27.424Z,"Volcano Islands, Japan region",earthquake,,43.5,,23,reviewed,us,us
+2004-12-30T08:53:59.300Z,8.432,92.359,30,4.7,mb,15,116.8,,1.02,us,usp000dc6w,2014-11-07T01:24:27.422Z,"Nicobar Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-30T08:45:23.000Z,37.08,28.56,36,3.1,md,4,267.1,,,us,usp000dc6v,2014-11-07T01:24:27.421Z,"western Turkey",earthquake,,,,,reviewed,ath,ath
+2004-12-30T08:19:02.260Z,9.322,93.767,30,4.5,mb,11,98.6,,1.53,us,usp000dc6u,2014-11-07T01:24:27.419Z,"Nicobar Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-30T08:12:26.770Z,9.537,94.207,30,4.9,mb,13,109,,1.13,us,usp000dc6t,2014-11-07T01:24:27.417Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-30T07:57:30.250Z,19.351,-67.842,44.5,2.9,md,4,331.4,,,us,usp000dc6s,2014-11-07T01:24:27.416Z,"Mona Passage",earthquake,,,,,reviewed,rspr,rspr
+2004-12-30T07:35:35.500Z,39.12,22.29,98,4.4,md,54,41.3,,,us,usp000dc6r,2014-11-07T01:24:27.410Z,"Greece",earthquake,,,,,reviewed,ath,pdg
+2004-12-30T07:27:36.300Z,-32.765,-71.187,53.8,3.7,md,18,112.8,,,us,usp000dc6q,2014-11-07T01:24:27.407Z,"Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T07:23:05.790Z,3.489,95.59,30,4.9,mb,18,73.4,,1.2,us,usp000dc6p,2014-11-07T01:24:27.403Z,"off the west coast of northern Sumatra",earthquake,,,,33,reviewed,us,us
+2004-12-30T06:38:19.990Z,9.013,92.331,30,4.8,mwc,59,85.6,,0.75,us,usp000dc6n,2016-11-10T00:57:08.162Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-30T06:27:42.930Z,46.2021667,-122.1863333,-1.615,2.5,md,13,58,0.002005,0.17,uw,uw10646158,2016-07-23T03:07:45.770Z,"Mount St. Helens area, Washington",earthquake,0.042,0.06,0.04,6,reviewed,uw,uw
+2004-12-30T06:15:55.880Z,9.291,93.021,30,4.5,mb,7,111.1,,0.59,us,usp000dc6m,2014-11-07T01:24:27.396Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-30T05:40:58.260Z,7.579,92.379,30,4.5,mb,9,170,,0.81,us,usp000dc6k,2014-11-07T01:24:27.394Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-30T05:17:37.030Z,5.658,94.12,30,4.7,mb,17,151.9,,1.33,us,usp000dc6j,2014-11-07T01:24:27.392Z,"northern Sumatra, Indonesia",earthquake,,,,16,reviewed,us,us
+2004-12-30T04:27:36.730Z,5.535,94.299,30,5.2,mwb,182,63.6,,0.83,us,usp000dc6h,2016-11-10T00:57:07.645Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2004-12-30T04:04:50.300Z,36.877,14.68,15.1,3.9,ml,31,137.3,,,us,usp000dc6g,2014-11-07T01:24:27.373Z,"Sicily, Italy",earthquake,,,,,reviewed,rom,ldg
+2004-12-30T04:03:38.900Z,39.23,19.98,18,3.2,md,4,188.4,,,us,usp000dc6f,2014-11-07T01:24:27.372Z,"Greece-Albania border region",earthquake,,,,,reviewed,ath,ath
+2004-12-30T03:50:47.272Z,60.7228,-152.0535,80.3,2.8,ml,,,,0.81,ak,ak004grp8sif,2019-02-13T02:12:31.191Z,"Southern Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2004-12-30T03:42:16.640Z,5.768,94.403,19.9,5.1,mwc,31,91.8,,0.9,us,usp000dc6d,2016-11-10T00:57:07.134Z,"northern Sumatra, Indonesia",earthquake,,26.1,,,reviewed,us,hrv
+2004-12-30T03:30:24.500Z,-34.964,-70.541,0,2.6,ml,8,312.8,,,us,usp000dc6b,2014-11-07T01:24:27.361Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-30T03:28:57.660Z,34.977,-2.965,10.7,3.7,m,13,276.5,,,us,usp000dc6a,2014-11-07T01:24:27.358Z,"Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-30T03:25:53.400Z,38.39,14.771,109.6,2.6,md,7,195.1,,,us,usp000dc69,2014-11-07T01:24:27.357Z,"Sicily, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-30T03:25:07.000Z,-35.044,-70.492,0,4,mb,24,103,,,us,usp000dc68,2014-11-07T01:24:27.353Z,"Maule, Chile",earthquake,,,,2,reviewed,guc,us
+2004-12-30T03:12:46.500Z,9.033,92.532,19.3,4.9,mwc,38,68.3,,0.88,us,usp000dc67,2016-11-10T00:57:06.598Z,"Nicobar Islands, India region",earthquake,,24.5,,,reviewed,us,hrv
+2004-12-30T03:00:56.740Z,6.551,91.837,30,4.8,mb,18,133.8,,1.17,us,usp000dc66,2014-11-07T01:24:27.345Z,"Nicobar Islands, India region",earthquake,,,,17,reviewed,us,us
+2004-12-30T02:45:41.420Z,9.003,92.669,96.8,4.6,mb,13,130.1,,0.87,us,usp000dc65,2014-11-07T01:24:27.343Z,"Nicobar Islands, India region",earthquake,,17.9,,11,reviewed,us,us
+2004-12-30T02:35:55.980Z,14.362,146.785,44.7,4.9,mwc,25,70.1,,0.81,us,usp000dc64,2016-11-10T00:57:06.103Z,"Rota region, Northern Mariana Islands",earthquake,,18.9,,,reviewed,us,hrv
+2004-12-30T02:12:53.440Z,-13.55,167.133,244.9,4.6,mb,35,73,,0.97,us,usp000dc63,2014-11-07T01:24:27.334Z,"Vanuatu",earthquake,,28.3,,18,reviewed,us,us
+2004-12-30T01:53:34.860Z,37.897,140.798,111.1,4.3,mb,32,179.9,,0.88,us,usp000dc62,2014-11-07T01:24:27.331Z,"eastern Honshu, Japan",earthquake,,8,,23,reviewed,us,us
+2004-12-30T01:48:53.690Z,8.15,93.864,30,4.7,mb,23,79.5,,0.85,us,usp000dc61,2014-11-07T01:24:27.328Z,"Nicobar Islands, India region",earthquake,,,,21,reviewed,us,us
+2004-12-30T01:43:12.500Z,37.068,28.264,5.4,4.1,mb,40,46.6,,,us,usp000dc60,2014-11-07T01:24:27.324Z,"western Turkey",earthquake,,,,4,reviewed,isk,us
+2004-12-30T01:43:05.360Z,4.221,94.263,30,4.8,mwc,69,59.9,,0.78,us,usp000dc5z,2016-11-10T00:57:05.593Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-30T01:37:44.140Z,37.2843333,-119.3768333,31.481,3.27,ml,108,54,0.182,0.1,nc,nc21430897,2018-07-09T18:38:40.879Z,"Central California",earthquake,0.17,0.38,,15,reviewed,nc,nc
+2004-12-30T01:35:03.610Z,40.341,32.976,6.9,3.2,ml,18,64.5,,,us,usp000dc5x,2014-11-07T01:24:27.286Z,"central Turkey",earthquake,,,,,reviewed,isk,isk
+2004-12-30T01:28:13.760Z,4.158,94.203,30,4.8,mb,22,97.6,,0.99,us,usp000dc5w,2014-11-07T01:24:27.284Z,"off the west coast of northern Sumatra",earthquake,,,,20,reviewed,us,us
+2004-12-30T01:26:34.100Z,38.83,21.18,21,2.9,md,4,127.3,,,us,usp000dc5v,2014-11-07T01:24:27.283Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-30T01:13:48.560Z,19.922,95.955,51.6,5,mb,83,105.5,,0.78,us,usp000dc5u,2014-11-07T01:24:27.276Z,"Myanmar",earthquake,,8.3,,47,reviewed,us,us
+2004-12-30T01:09:36.580Z,19.82,95.872,16.3,4.6,mb,21,93,,0.87,us,usp000dc5t,2014-11-07T01:24:27.274Z,"Myanmar",earthquake,,26.8,,20,reviewed,us,us
+2004-12-30T01:04:51.820Z,4.232,94.217,16.6,5.2,mwb,158,59.1,,0.83,us,usp000dc5s,2016-11-10T00:57:05.094Z,"off the west coast of northern Sumatra",earthquake,,14.2,,,reviewed,us,us
+2004-12-30T01:01:13.800Z,41.802,14.683,10,2.6,md,5,170.3,,,us,usp000dc5r,2014-11-07T01:24:27.254Z,"southern Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-30T00:49:31.500Z,-47.98,165.54,12,3.8,ml,7,335.4,,,us,usp000dc5q,2014-11-07T01:24:27.253Z,"off the west coast of the South Island of New Zealand",earthquake,,,,,reviewed,wel,wel
+2004-12-30T00:32:35.110Z,52.521,-34.9,10,4.4,mb,13,148.9,,1.02,us,usp000dc5p,2014-11-07T01:24:27.251Z,"Reykjanes Ridge",earthquake,,,,11,reviewed,us,us
+2004-12-29T23:26:50.010Z,9.046,94.102,30,4.4,mb,7,278.2,,1.15,us,usp000dc5n,2014-11-07T01:24:27.250Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-29T23:14:05.970Z,7.861,92.072,26.3,5.2,mwc,80,66.6,,1.12,us,usp000dc5m,2016-11-10T00:57:00.945Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T23:08:40.000Z,8.369,93.675,30,4.5,mb,9,99.1,,1.32,us,usp000dc5k,2014-11-07T01:24:27.240Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-29T22:55:43.610Z,7.666,93.79,43.9,4.8,mwc,41,112.7,,0.9,us,usp000dc5j,2016-11-10T00:57:00.428Z,"Nicobar Islands, India region",earthquake,,11.1,,,reviewed,us,hrv
+2004-12-29T22:40:35.790Z,45.724,10.875,10,3.8,ml,107,47.9,,1.17,us,usp000dc5h,2014-11-07T01:24:27.224Z,"northern Italy",earthquake,,,,,reviewed,us,zamg
+2004-12-29T22:35:42.900Z,17.329,-94.679,155.4,3.8,md,4,316.5,,,us,usp000dc5g,2014-11-07T01:24:27.223Z,"Veracruz, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-29T22:30:03.900Z,-32.509,-70.045,118.1,3.3,md,13,215.2,,,us,usp000dc5f,2014-11-07T01:24:27.221Z,"Mendoza, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-29T22:22:19.750Z,40.365,32.935,5,4.2,mb,72,38.6,,,us,usp000dc5e,2014-11-07T01:24:27.216Z,"central Turkey",earthquake,,,,18,reviewed,isk,us
+2004-12-29T22:11:09.700Z,-32.224,-71.826,37.4,4.2,md,23,213.1,,,us,usp000dc5d,2014-11-07T01:24:27.213Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T22:01:00.720Z,32.295,-115.232,0.237,2.63,ml,13,223,0.4896,0.43,ci,ci10070345,2016-02-16T18:21:27.887Z,"8km SSW of Delta, B.C., MX",earthquake,2.81,7.02,0.329,14,reviewed,ci,ci
+2004-12-29T21:32:01.150Z,46.1913333,-122.1861667,-0.853,2.8,md,14,65,,0.05,uw,uw10645963,2016-07-23T03:07:42.940Z,"Mount St. Helens area, Washington",earthquake,0.156,0.16,0.04,6,reviewed,uw,uw
+2004-12-29T21:12:59.470Z,5.23,94.625,29.5,5.6,mwb,308,59.5,,0.98,us,usp000dc5b,2016-11-10T00:56:58.010Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2004-12-29T21:11:47.900Z,48.225,-0.4,4,2.5,ml,18,74.8,,,us,usp000dc5a,2014-11-07T01:24:27.180Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2004-12-29T20:14:43.830Z,5.649,94.559,30,4.8,mb,27,175.1,,0.65,us,usp000dc59,2014-11-07T01:24:27.177Z,"northern Sumatra, Indonesia",earthquake,,,,14,reviewed,us,us
+2004-12-29T19:51:16.460Z,9.184,93.626,30,4.6,mb,7,278.6,,1.16,us,usp000dc58,2014-11-07T01:24:27.176Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-29T19:32:07.730Z,16.129,-47.184,10,5,mb,100,44.9,,0.58,us,usp000dc57,2014-11-07T01:24:27.169Z,"northern Mid-Atlantic Ridge",earthquake,,,,60,reviewed,us,us
+2004-12-29T19:05:16.920Z,5.27,92.761,30,4.3,mb,9,220,,1.37,us,usp000dc56,2014-11-07T01:24:27.167Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-29T18:50:21.360Z,5.531,94.277,47.7,5.7,mwb,180,62.5,,0.85,us,usp000dc55,2016-11-10T00:56:57.483Z,"northern Sumatra, Indonesia",earthquake,,8.2,,,reviewed,us,us
+2004-12-29T18:49:42.590Z,18.988,-64.865,24.9,3.1,md,7,327.1,,,us,usp000dc54,2014-11-07T01:24:27.151Z,"Virgin Islands region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-29T18:35:51.630Z,11.296,92.201,30,4.5,mb,7,110,,0.91,us,usp000dc53,2014-11-07T01:24:27.150Z,"Andaman Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-29T18:31:08.240Z,28.967,130.59,45.6,5.4,mwr,16,133.8,,0.95,us,usp000dc52,2014-11-07T01:24:27.148Z,"Ryukyu Islands, Japan",earthquake,,29.8,,,reviewed,us,nied
+2004-12-29T18:29:10.300Z,36.04,24.12,21,3.3,md,5,111.5,,,us,usp000dc51,2014-11-07T01:24:27.147Z,"southern Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-29T17:56:02.120Z,5.325,94.414,30,4.6,mb,14,186.1,,1.04,us,usp000dc50,2014-11-07T01:24:27.145Z,"northern Sumatra, Indonesia",earthquake,,,,9,reviewed,us,us
+2004-12-29T17:51:58.440Z,13.405,92.984,30,4.3,mb,7,109.3,,1.09,us,usp000dc4z,2014-11-07T01:24:27.144Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-29T17:29:35.000Z,19.844,-105.625,60.5,4.8,mb,81,211.7,,0.96,us,usp000dc4y,2014-11-07T01:24:27.137Z,"offshore Jalisco, Mexico",earthquake,,5.7,,32,reviewed,us,us
+2004-12-29T17:25:48.350Z,38.8083333,-122.7918333,1.022,3.1,md,50,33,0.002703,0.07,nc,nc21430821,2017-01-10T00:57:21.090Z,"Northern California",earthquake,0.13,0.18,0.09,36,reviewed,nc,nc
+2004-12-29T17:12:36.910Z,10.327,93.693,29.2,5.3,mwc,66,79.9,,1.04,us,usp000dc4w,2016-11-10T00:56:56.955Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T17:04:14.830Z,7.774,94.674,18,4.8,mb,20,112.2,,0.84,us,usp000dc4v,2014-11-07T01:24:27.127Z,"Nicobar Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-29T16:47:50.810Z,3.492,94.292,30,4.7,mb,12,104.6,,0.7,us,usp000dc4u,2014-11-07T01:24:27.126Z,"off the west coast of northern Sumatra",earthquake,,,,11,reviewed,us,us
+2004-12-29T16:44:26.100Z,-33.146,-70.242,5.6,3.4,ml,9,229.7,,,us,usp000dc4t,2014-11-07T01:24:27.125Z,"Region Metropolitana, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T16:42:15.830Z,4.425,94.886,30,4.7,mb,13,181,,1.41,us,usp000dc4s,2014-11-07T01:24:27.123Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-29T16:33:19.500Z,-31.749,-71.148,87.7,3.4,md,6,173.4,,,us,usp000dc4r,2014-11-07T01:24:27.122Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T16:03:23.600Z,34.95,24.9,28,3.7,md,8,189.3,,,us,usp000dc4q,2014-11-07T01:24:27.120Z,"Crete, Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-29T15:50:04.360Z,5.455,94.661,38.7,5.1,mwc,177,62.4,,0.82,us,usp000dc4p,2016-11-10T00:56:56.461Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-29T15:36:28.770Z,11.33,92.209,26.6,4.8,mb,50,84.8,,0.9,us,usp000dc4n,2014-11-07T01:24:27.101Z,"Andaman Islands, India region",earthquake,,,,24,reviewed,us,us
+2004-12-29T15:33:07.790Z,3.202,94.355,30,4.4,mb,8,191.4,,1.5,us,usp000dc4m,2014-11-07T01:24:27.100Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-29T15:25:40.920Z,4.376,93.264,30,4.2,mb,7,215.9,,0.68,us,usp000dc4k,2014-11-07T01:24:27.098Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-29T15:17:41.300Z,35.96,27.5,52,3.2,md,4,150.8,,,us,usp000dc4j,2014-11-07T01:24:27.097Z,"Dodecanese Islands, Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-29T14:46:41.350Z,44.218,-130.466,10,3.8,mb,33,294.7,,0.6,us,usp000dc4h,2014-11-07T01:24:27.094Z,"off the coast of Oregon",earthquake,,,,1,reviewed,us,us
+2004-12-29T14:34:02.290Z,13.247,92.581,18.2,4.8,mb,42,82.9,,1.07,us,usp000dc4g,2014-11-07T01:24:27.091Z,"Andaman Islands, India region",earthquake,,,,26,reviewed,us,us
+2004-12-29T14:03:22.810Z,3.111,93.876,26.8,5.1,mwc,98,73.1,,0.99,us,usp000dc4f,2016-11-10T00:56:55.976Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-29T13:58:50.260Z,38.455,142.018,44.5,5.7,mwc,190,105,,0.93,us,usp000dc4e,2020-01-04T03:37:04.455Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,hrv
+2004-12-29T13:50:36.670Z,8.796,93.82,42,4.8,mb,29,84.7,,1.34,us,usp000dc4d,2014-11-07T01:24:27.055Z,"Nicobar Islands, India region",earthquake,,20.8,,21,reviewed,us,us
+2004-12-29T13:20:29.280Z,28.919,130.444,38,5.7,mwb,159,65.4,,1.02,us,usp000dc4c,2016-11-10T00:56:54.922Z,"Ryukyu Islands, Japan",earthquake,,7.3,,,reviewed,us,us
+2004-12-29T12:32:05.540Z,8.554,93.778,30,4.1,mb,7,107.3,,0.77,us,usp000dc4b,2014-11-07T01:24:27.032Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-29T12:20:31.400Z,38.67,24.88,38,3,md,6,295.7,,,us,usp000dc4a,2014-11-07T01:24:27.031Z,"Aegean Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-29T12:10:58.193Z,60.0614,-153.543,164.5,3,ml,,,,0.67,ak,ak004gq6tsnv,2019-02-13T02:12:20.054Z,"Southern Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2004-12-29T12:01:09.900Z,-32.131,-70.164,114.2,3.6,md,12,235.3,,,us,usp000dc48,2014-11-07T01:24:27.015Z,"San Juan, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-29T11:58:42.630Z,13.745,93.13,20.7,5.2,mwc,94,76.5,,1.05,us,usp000dc47,2016-11-10T00:56:54.417Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T11:13:27.000Z,-35.231,-71.737,65.6,2.8,md,4,218.8,,,us,usp000dc46,2014-11-07T01:24:27.005Z,"Maule, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T10:52:52.000Z,2.799,95.566,23.2,5.4,mwc,78,59.9,,0.97,us,usp000dc45,2016-11-09T05:27:40.745Z,"Simeulue, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-29T10:36:42.470Z,46.2003333,-122.1791667,-1.524,2.5,md,12,71,,0.11,uw,uw10645463,2016-07-23T03:07:39.190Z,"Mount St. Helens area, Washington",earthquake,0.028,0.04,0.05,7,reviewed,uw,uw
+2004-12-29T10:27:57.480Z,5.372,94.167,30,4.9,mb,22,182.5,,0.51,us,usp000dc44,2014-11-07T01:24:26.962Z,"northern Sumatra, Indonesia",earthquake,,,,15,reviewed,us,us
+2004-12-29T10:24:02.300Z,8.885,92.397,29.2,4.9,mb,38,174.4,,0.81,us,usp000dc43,2014-11-07T01:24:26.958Z,"Nicobar Islands, India region",earthquake,,,,19,reviewed,us,us
+2004-12-29T10:09:25.300Z,7.673,93.762,37.7,5,mwc,92,62.2,,0.87,us,usp000dc42,2016-11-10T00:56:53.932Z,"Nicobar Islands, India region",earthquake,,16.3,,,reviewed,us,hrv
+2004-12-29T09:55:39.780Z,19.038,-65.848,41.6,3,md,8,289.5,,,us,usp000dc41,2014-11-07T01:24:26.949Z,"Puerto Rico region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-29T09:42:31.579Z,51.2062,-177.994,15.9,2.9,ml,,,,0.27,ak,ak004gq58aph,2019-02-13T02:12:19.649Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2004-12-29T08:36:44.530Z,34.845,32.55,20,2.8,ml,5,175.4,,,us,usp000dc40,2014-11-07T01:24:26.947Z,"Cyprus region",earthquake,,,,,reviewed,nic,nic
+2004-12-29T07:52:51.710Z,5.14,94.901,30,5.3,mwc,46,70.2,,0.76,us,usp000dc3z,2016-11-10T00:56:53.407Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-29T07:46:44.630Z,4.379,93.637,31.9,5,mb,63,71.1,,1.03,us,usp000dc3y,2014-11-07T01:24:26.937Z,"off the west coast of northern Sumatra",earthquake,,18.9,,26,reviewed,us,us
+2004-12-29T06:54:06.150Z,37.255,-9.42,0,4.1,m,19,267.2,,,us,usp000dc3x,2014-11-07T01:24:26.934Z,"Portugal",earthquake,,,,,reviewed,mdd,mdd
+2004-12-29T06:35:44.440Z,9.358,93.145,48.7,5,mwc,60,93.1,,0.75,us,usp000dc3w,2016-11-10T00:56:52.926Z,"Nicobar Islands, India region",earthquake,,8.8,,,reviewed,us,hrv
+2004-12-29T06:34:09.500Z,59.86,10.975,0.1,2.6,ml,10,183.7,,,us,usp000dc3v,2014-11-07T01:24:26.926Z,"southern Norway",earthquake,,,,,reviewed,ber,nao
+2004-12-29T06:30:43.260Z,13.236,92.691,30,5.4,mwc,101,68.3,,0.85,us,usp000dc3u,2016-11-10T00:56:52.438Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T06:28:49.180Z,12.935,92.622,29,4.6,mb,24,70.4,,1.05,us,usp000dc3t,2014-11-07T01:24:26.915Z,"Andaman Islands, India region",earthquake,,22.8,,8,reviewed,us,us
+2004-12-29T06:19:05.790Z,9.606,93.602,30,5.4,mwc,71,185.8,,0.88,us,usp000dc3s,2016-11-10T00:56:51.941Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T06:05:16.760Z,8.822,93.088,30,5.9,mwc,277,58.5,,0.93,us,usp000dc3r,2016-11-10T00:56:51.255Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T05:56:47.540Z,8.791,93.198,12,6.2,mwb,364,58.8,,0.97,us,usp000dc3q,2020-04-16T17:34:00.657Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+2004-12-29T05:51:59.510Z,9.12,93.747,21.6,4.5,mb,13,111.4,,1.54,us,usp000dc3p,2014-11-07T01:24:26.839Z,"Nicobar Islands, India region",earthquake,,61,,8,reviewed,us,us
+2004-12-29T05:33:54.160Z,35,-3.08,0,4.4,m,43,258.9,,,us,usp000dc3n,2014-11-07T01:24:26.834Z,"Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-29T04:57:21.350Z,4.094,95.664,30,4.6,mb,10,119.1,,1.41,us,usp000dc3m,2014-11-07T01:24:26.832Z,"northern Sumatra, Indonesia",earthquake,,,,10,reviewed,us,us
+2004-12-29T04:46:14.000Z,7.4,92.703,39.4,4.7,mb,28,169.7,,0.87,us,usp000dc3k,2014-11-07T01:24:26.830Z,"Nicobar Islands, India region",earthquake,,16.5,,19,reviewed,us,us
+2004-12-29T04:35:15.300Z,42.03,12.657,10,2.5,md,5,252.8,,,us,usp000dc3j,2014-11-07T01:24:26.828Z,"central Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-29T04:23:08.100Z,-32.917,-72.07,10.5,2.7,ml,12,244.7,,,us,usp000dc3h,2014-11-07T01:24:26.826Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T04:11:25.500Z,-32.676,-71.72,27.2,2.5,ml,9,211.3,,,us,usp000dc3g,2014-11-07T01:24:26.824Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-29T03:50:43.370Z,46.1951667,-122.1831667,-1.491,2.7,md,18,51,,0.19,uw,uw10645248,2016-07-23T03:07:34.550Z,"Mount St. Helens area, Washington",earthquake,0.057,0.07,0.06,7,reviewed,uw,uw
+2004-12-29T03:44:01.990Z,12.773,92.651,30,4.5,mb,8,106.5,,1.53,us,usp000dc3e,2014-11-07T01:24:26.821Z,"Andaman Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-29T03:03:06.950Z,-28.98,-68.298,92.1,4.7,mb,42,84.9,,1.16,us,usp000dc3d,2014-11-07T01:24:26.816Z,"La Rioja, Argentina",earthquake,,7,,13,reviewed,us,us
+2004-12-29T02:13:28.350Z,13.3,92.66,30,5.4,mb,113,57.7,,1.08,us,usp000dc3c,2014-11-07T01:24:26.808Z,"Andaman Islands, India region",earthquake,,,,49,reviewed,us,us
+2004-12-29T01:50:52.570Z,9.109,93.756,8,6.1,mwb,442,51.7,,0.9,us,usp000dc3b,2016-11-10T00:56:50.749Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+2004-12-29T01:39:41.240Z,8.378,93.156,34,5.9,mwc,292,59.6,,1.01,us,usp000dc3a,2020-04-16T17:34:04.006Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-29T01:36:27.550Z,10.063,93.28,30,4.7,mb,16,103.1,,0.98,us,usp000dc39,2014-11-07T01:24:26.742Z,"Andaman Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-29T01:05:05.820Z,35.728,0.51,10,3.8,m,12,293.5,,0.64,us,usp000dc38,2014-11-07T01:24:26.740Z,"northern Algeria",earthquake,,,,,reviewed,us,mdd
+2004-12-29T00:49:04.070Z,-16.318,-74.04,26,5.3,mwc,43,120.9,,1.09,us,usp000dc37,2016-11-10T00:56:49.729Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,hrv
+2004-12-29T00:41:35.720Z,13.33,93.167,30,4.4,mb,10,116.6,,1.39,us,usp000dc36,2014-11-07T01:24:26.734Z,"Andaman Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-29T00:32:25.220Z,8.943,93.634,30,4.5,mb,12,125.8,,1.14,us,usp000dc35,2014-11-07T01:24:26.732Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-29T00:25:06.060Z,13.528,93.092,30,4.1,mb,8,200.6,,1.28,us,usp000dc34,2014-11-07T01:24:26.731Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-29T00:19:46.220Z,65.8823,-150.5523,18.6,2.8,ml,,,,0.89,ak,ak004gpzqhxa,2019-02-13T02:12:17.409Z,"northern Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2004-12-29T00:14:23.200Z,-20.221,-177.892,400,4.4,mb,14,163.8,,1.16,us,usp000dc32,2014-11-07T01:24:26.727Z,"Fiji region",earthquake,,,,10,reviewed,us,us
+2004-12-28T23:46:35.150Z,9.344,93.052,30,5,mb,16,188.8,,0.8,us,usp000dc31,2014-11-07T01:24:26.725Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-28T23:39:59.420Z,11.076,92.122,24.7,5,mwc,39,100.5,,0.73,us,usp000dc30,2016-11-10T00:56:46.121Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T23:35:16.690Z,9.081,93.457,28.5,4.9,mb,41,204.2,,0.89,us,usp000dc2z,2014-11-07T01:24:26.717Z,"Nicobar Islands, India region",earthquake,,,,24,reviewed,us,us
+2004-12-28T23:07:53.120Z,6.718,93.004,30,5.2,mwc,44,108.7,,0.89,us,usp000dc2y,2016-11-10T00:56:45.641Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T22:16:54.640Z,13.847,92.846,23.7,5.1,mwc,36,102.7,,1.09,us,usp000dc2x,2016-11-10T00:56:45.151Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T21:51:54.040Z,3.61,94.403,30,5,mwc,67,110.1,,1.09,us,usp000dc2w,2016-11-10T00:56:44.647Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-28T21:47:27.420Z,8.955,93.77,13.3,5.4,mwc,136,52.1,,0.91,us,usp000dc2v,2016-11-10T00:56:44.132Z,"Nicobar Islands, India region",earthquake,,17.6,,,reviewed,us,hrv
+2004-12-28T21:27:46.510Z,53.972,-164.69,62.1,3.2,ml,17,214,,,us,usp000dc2u,2019-02-13T02:12:06.567Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-28T21:09:05.370Z,3.711,94.61,30,5.1,mwc,21,74,,1.23,us,usp000dc2t,2016-11-10T00:56:43.610Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-28T21:07:36.250Z,53.216,-173.795,252.7,5.8,mwb,391,52.6,,0.96,us,usp000dc2s,2019-02-13T02:12:06.069Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,us
+2004-12-28T20:58:33.840Z,9.205,94.027,30,4.7,mb,20,248.1,,0.81,us,usp000dc2r,2014-11-07T01:24:26.628Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-28T20:48:25.380Z,4.949,93.789,30,4.8,mb,19,142.3,,0.7,us,usp000dc2q,2014-11-07T01:24:26.626Z,"off the west coast of northern Sumatra",earthquake,,,,15,reviewed,us,us
+2004-12-28T20:44:53.318Z,62.2,-148.5656,11.8,2.7,ml,,,,0.52,ak,ak004goo96z7,2019-02-13T02:12:05.625Z,"Central Alaska",earthquake,,2.5,,,reviewed,ak,ak
+2004-12-28T20:41:55.900Z,10.064,93.159,30,5,mwc,25,73.3,,1.29,us,usp000dc2n,2016-11-10T00:56:42.482Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T20:34:12.770Z,36.996,28.267,16.2,4.5,mb,90,39.4,,1.18,us,usp000dc2m,2014-11-07T01:24:26.611Z,"Dodecanese Islands, Greece",earthquake,,6.9,,42,reviewed,us,us
+2004-12-28T19:55:11.770Z,9.488,93.699,30,5.2,mwc,157,50.9,,0.95,us,usp000dc2k,2016-11-10T00:56:41.990Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T17:46:20.670Z,8.296,92.265,28.6,4.9,mwc,49,104.3,,1.25,us,usp000dc2h,2016-11-10T00:56:41.419Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T17:11:16.620Z,9.937,93.801,51.8,5.4,mwc,164,59,,1.2,us,usp000dc2g,2016-11-10T00:56:40.921Z,"Nicobar Islands, India region",earthquake,,16.1,,,reviewed,us,hrv
+2004-12-28T16:58:02.910Z,19.572,-68.204,22.9,3.9,md,11,287,,,us,usp000dc2f,2014-11-07T01:24:26.558Z,"Dominican Republic region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-28T16:46:31.700Z,-34.032,-70.956,75.8,2.6,md,8,96.5,,,us,usp000dc2e,2014-11-07T01:24:26.557Z,"Region Metropolitana, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-28T15:40:44.000Z,60.98,-138.33,1,4,ml,12,128.2,,,us,usp000dc2d,2019-02-13T02:12:04.948Z,"Southern Yukon Territory, Canada",earthquake,,,,,reviewed,pgc,pgc
+2004-12-28T15:37:55.900Z,37.08,28.23,20,4.3,mb,47,68.7,,,us,usp000dc2c,2014-11-07T01:24:26.550Z,"western Turkey",earthquake,,,,20,reviewed,ath,us
+2004-12-28T15:30:25.981Z,63.1541,-151.316,5.6,2.8,ml,,,,0.94,ak,ak004gol6yti,2019-02-13T02:12:04.630Z,"Central Alaska",earthquake,,2.5,,,reviewed,ak,ak
+2004-12-28T15:19:37.300Z,-34.1,-72.255,39.7,3.7,md,8,285.8,,,us,usp000dc2a,2014-11-07T01:24:26.547Z,"offshore Libertador O'Higgins, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-28T14:48:30.080Z,3.372,93.761,29.5,4.9,mwc,80,71.4,,1.07,us,usp000dc29,2016-11-10T00:56:40.409Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-28T14:45:18.770Z,-9.75,-78.9,33,4.5,mb,13,104,,,us,usp000dc28,2014-11-07T01:24:26.535Z,"near the coast of northern Peru",earthquake,,,,9,reviewed,lim,us
+2004-12-28T14:37:40.490Z,32.1025,-115.8801667,5.787,2.98,ml,15,251,0.5444,0.33,ci,ci10070173,2016-04-01T21:31:12.516Z,"60km SSW of Progreso, B.C., MX",earthquake,2.27,31.61,0.283,16,reviewed,ci,ci
+2004-12-28T14:34:58.300Z,-33.046,-71.074,58.8,2.8,md,13,104.8,,,us,usp000dc26,2014-11-07T01:24:26.531Z,"Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-28T14:30:42.290Z,4.691,95.261,47,5,mwc,31,115.1,,1.09,us,usp000dc25,2016-11-10T00:56:39.919Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-28T14:11:27.400Z,18.019,-100.479,60,4,md,7,123.1,,,us,usp000dc24,2014-11-07T01:24:26.524Z,"Guerrero, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-28T14:08:43.630Z,10.419,93.023,30,5.2,mb,68,59.8,,0.84,us,usp000dc23,2014-11-07T01:24:26.518Z,"Andaman Islands, India region",earthquake,,,,41,reviewed,us,us
+2004-12-28T14:02:22.800Z,-32.908,-71.579,58.9,3.4,md,20,169.9,,,us,usp000dc22,2014-11-07T01:24:26.515Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-28T13:48:05.192Z,59.0014,-151.5145,60.9,2.5,ml,,,,0.46,ak,ak004gok3ww7,2019-02-13T02:12:04.299Z,"Kenai Peninsula, Alaska",earthquake,,18.1,,,reviewed,ak,ak
+2004-12-28T13:46:02.750Z,5.113,96.162,30,5.1,mwc,48,79.4,,1.38,us,usp000dc21,2016-11-10T00:56:39.409Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-28T13:39:31.220Z,38.434,-1.142,0,2.7,mblg,18,103.3,,,us,usp000dc20,2014-11-07T01:24:26.507Z,"Spain",earthquake,,,,,reviewed,mdd,mdd
+2004-12-28T13:06:42.060Z,6.703,93.005,20.4,4.8,mwc,36,113.9,,0.83,us,usp000dc1z,2016-11-10T00:56:38.886Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T11:57:43.700Z,15.846,-92.869,166.5,4.4,md,17,127.5,,,us,usp000dc1y,2014-11-07T01:24:26.498Z,"Chiapas, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-28T11:55:30.320Z,4.183,93.946,27.5,4.9,mwc,40,111.8,,0.66,us,usp000dc1x,2016-11-10T00:56:38.397Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-28T11:17:43.870Z,4.732,95.205,36,5.8,mwb,308,59.9,,0.76,us,usp000dc1w,2020-01-04T03:36:51.094Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2004-12-28T11:05:09.200Z,-30.833,-71.451,60.7,3.9,md,19,218.1,,,us,usp000dc1v,2014-11-07T01:24:26.412Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-28T10:51:58.300Z,-44,169.33,5,3.9,ml,14,140.3,,,us,usp000dc1u,2014-11-07T01:24:26.410Z,"South Island of New Zealand",earthquake,,,,,reviewed,wel,wel
+2004-12-28T10:51:47.310Z,10.546,92.353,30,5.3,mwc,43,97.2,,1.13,us,usp000dc1t,2016-11-10T00:56:37.318Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T10:25:11.280Z,41.685,0.881,0,2.6,ml,11,93.6,,,us,usp000dc1s,2014-11-07T01:24:26.403Z,"Spain",earthquake,,,,,reviewed,mdd,ldg
+2004-12-28T09:30:40.220Z,37.239,138.787,35.8,4.8,mwc,137,113.6,,0.85,us,usp000dc1r,2016-11-10T00:56:36.797Z,"near the west coast of Honshu, Japan",earthquake,,6.1,,,reviewed,us,hrv
+2004-12-28T08:19:50.890Z,5.795,93.276,24.5,4.8,mb,23,128.1,,0.86,us,usp000dc1q,2014-11-07T01:24:26.353Z,"off the west coast of northern Sumatra",earthquake,,,,14,reviewed,us,us
+2004-12-28T08:10:15.669Z,61.5451,-151.6869,87.1,2.5,ml,,,,0.31,ak,ak004gogwmgu,2019-02-13T02:12:02.800Z,"Southern Alaska",earthquake,,6.4,,,reviewed,ak,ak
+2004-12-28T07:47:09.460Z,18.018,120.405,17.3,4.7,mb,15,122.5,,1.47,us,usp000dc1p,2014-11-07T01:24:26.351Z,"Luzon, Philippines",earthquake,,47.5,,11,reviewed,us,us
+2004-12-28T07:21:17.730Z,51.556,16.113,5,2.5,ml,6,214.4,,0.87,us,usp000dc1n,2014-11-07T01:24:26.350Z,"Poland",earthquake,,,,,reviewed,us,brg
+2004-12-28T07:20:59.330Z,11.39,92.883,30,4.8,mb,33,88,,1.13,us,usp000dc1m,2014-11-07T01:24:26.347Z,"Andaman Islands, India region",earthquake,,,,22,reviewed,us,us
+2004-12-28T06:58:48.100Z,37.98,20.49,3,3.3,md,5,244.9,,,us,usp000dc1k,2014-11-07T01:24:26.346Z,"Ionian Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-28T06:58:22.510Z,41.144,34.432,5.4,3.2,md,11,63.9,,,us,usp000dc1j,2014-11-07T01:24:26.344Z,"central Turkey",earthquake,,,,,reviewed,isk,isk
+2004-12-28T06:28:12.810Z,5.398,94.489,30,4.9,mb,12,191.2,,1,us,usp000dc1h,2014-11-07T01:24:26.342Z,"northern Sumatra, Indonesia",earthquake,,,,7,reviewed,us,us
+2004-12-28T05:36:12.940Z,9.45,93.711,30,5.4,mwc,137,58.9,,0.96,us,usp000dc1g,2016-11-10T00:56:36.300Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T05:15:50.243Z,62.1759,-150.1624,10.4,2.6,ml,,,,0.55,ak,ak004gof5gwg,2019-02-13T02:12:01.939Z,"Central Alaska",earthquake,,10.4,,,reviewed,ak,ak
+2004-12-28T05:03:26.723Z,62.5115,-150.7848,75.4,3.3,ml,,,,0.51,ak,ak004gof2uhs,2019-02-13T02:12:01.423Z,"Central Alaska",earthquake,,17.5,,,reviewed,ak,ak
+2004-12-28T04:36:28.610Z,13.863,93.412,30,4.8,mb,23,107.5,,1.38,us,usp000dc1d,2014-11-07T01:24:26.322Z,"Andaman Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-28T04:34:06.088Z,61.8983,-147.6808,29.3,2.8,ml,,,,0.48,ak,ak004goeo0hs,2019-02-13T02:12:01.077Z,"Southern Alaska",earthquake,,8.3,,,reviewed,ak,ak
+2004-12-28T04:16:58.010Z,53.417,-163.366,15.5,3.4,ml,19,244.4,,,us,usp000dc1b,2019-02-13T02:12:00.762Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-28T03:52:59.230Z,2.805,95.512,24.9,5,mb,19,106.8,,1.01,us,usp000dc1a,2014-11-07T01:24:26.314Z,"Simeulue, Indonesia",earthquake,,,,18,reviewed,us,us
+2004-12-28T03:20:18.840Z,6.82,92.813,13.2,5,mwc,102,105.2,,0.82,us,usp000dc19,2016-11-10T00:56:35.779Z,"Nicobar Islands, India region",earthquake,,18,,,reviewed,us,hrv
+2004-12-28T03:01:09.050Z,5.322,92.733,30,4.8,mb,7,256.8,,0.8,us,usp000dc18,2014-11-07T01:24:26.302Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-28T02:52:42.280Z,3.354,93.733,29,4.8,mb,18,144.7,,1.08,us,usp000dc17,2014-11-07T01:24:26.300Z,"off the west coast of northern Sumatra",earthquake,,,,14,reviewed,us,us
+2004-12-28T02:49:13.230Z,35.051,-119.0333333,9.415,2.58,ml,42,59,0.08729,0.35,ci,ci10070125,2016-04-02T19:51:01.366Z,"15km NW of Grapevine, CA",earthquake,0.44,2.08,0.272,33,reviewed,ci,ci
+2004-12-28T02:05:14.850Z,13.867,93.361,30,4.8,mb,18,88.8,,1.17,us,usp000dc15,2014-11-07T01:24:26.297Z,"Andaman Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-28T02:02:16.100Z,40.4,20.55,10,3.3,md,6,154.5,,,us,usp000dc14,2014-11-07T01:24:26.295Z,"Albania",earthquake,,,,,reviewed,ath,ath
+2004-12-28T01:06:03.610Z,35.066,30.875,25,3.5,ml,6,345.8,,,us,usp000dc13,2014-11-07T01:24:26.294Z,"eastern Mediterranean Sea",earthquake,,,,,reviewed,nic,nic
+2004-12-28T00:59:22.400Z,45.651,10.475,7.2,2.6,md,7,140.4,,,us,usp000dc12,2014-11-07T01:24:26.293Z,"northern Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-28T00:39:23.700Z,15.826,-96.288,36.6,4.4,md,24,179,,,us,usp000dc11,2014-11-07T01:24:26.289Z,"Oaxaca, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-28T00:37:51.040Z,7.655,94.135,22.2,5.5,mwc,159,63.1,,1.01,us,usp000dc10,2016-11-10T00:56:35.248Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-28T00:15:47.690Z,4.72,93.519,30,4.7,mb,9,142.8,,1.3,us,usp000dc0z,2014-11-07T01:24:26.275Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-28T00:04:48.640Z,8.738,92.646,30,5.1,mwc,12,158.6,,1.19,us,usp000dc0y,2016-11-10T00:56:34.760Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T23:59:01.700Z,41.3378333,-122.6171667,8.578,2.5,md,13,184,0.1297,0.07,nc,nc21430561,2017-01-10T00:47:55.251Z,"Northern California",earthquake,0.75,1.84,0.08,16,reviewed,nc,nc
+2004-12-27T23:58:00.490Z,7.994,91.89,8.3,5.4,mwc,109,64.9,,0.95,us,usp000dc0x,2016-11-10T00:56:25.517Z,"Nicobar Islands, India region",earthquake,,17.4,,,reviewed,us,hrv
+2004-12-27T23:56:44.030Z,3.082,94.203,30,4.5,mb,13,115.9,,1,us,usp000dc0w,2014-11-07T01:24:26.259Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T23:40:31.290Z,14.473,93.668,30,4.2,mb,26,93.3,,0.94,us,usp000dc0v,2014-11-07T01:24:26.257Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T23:34:42.900Z,43.058,-0.087,10,2.6,ml,23,80,,,us,usp000dc0u,2014-11-07T01:24:26.253Z,"Pyrenees",earthquake,,,,,reviewed,ldg,ldg
+2004-12-27T23:27:19.000Z,56.39,-120.74,10,3.7,ml,13,81.3,,,us,usp000dc0t,2014-11-07T01:24:26.251Z,"British Columbia, Canada",earthquake,,,,,reviewed,pgc,pgc
+2004-12-27T23:24:14.090Z,5.754,93.34,30,4.3,mb,30,81.2,,0.93,us,usp000dc0s,2014-11-07T01:24:26.248Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T23:20:07.750Z,9.779,92.985,31.1,5,mwc,65,73.1,,0.78,us,usp000dc0r,2016-11-10T00:56:24.542Z,"Nicobar Islands, India region",earthquake,,18.5,,,reviewed,us,hrv
+2004-12-27T23:13:58.980Z,-24.275,-67.098,176.6,3.9,mb,11,150.9,,0.9,us,usp000dc0q,2014-11-07T01:24:26.240Z,"Salta, Argentina",earthquake,,9.4,,2,reviewed,us,us
+2004-12-27T23:12:39.410Z,5.151,94.666,30,4.4,mb,12,183.2,,0.58,us,usp000dc0p,2014-11-07T01:24:26.238Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-27T23:08:47.030Z,36.1831667,-120.3058333,9.617,2.74,md,33,101,0.1027,0.08,nc,nc30506667,2017-01-10T00:47:32.018Z,"Central California",earthquake,0.37,0.23,0.1,39,automatic,nc,nc
+2004-12-27T23:08:02.470Z,4.633,93.849,26.2,4.7,mb,25,133.5,,1.09,us,usp000dc0n,2014-11-07T01:24:26.235Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T23:05:48.730Z,3.349,93.87,30,4.9,mwc,41,82.8,,0.88,us,usp000dc0m,2016-11-10T00:56:23.523Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T23:04:36.960Z,4.967,93.429,30,4,mb,7,217.6,,0.58,us,usp000dc0j,2014-11-07T01:24:26.176Z,"off the west coast of northern Sumatra",earthquake,,,,1,reviewed,us,us
+2004-12-27T23:02:00.670Z,9.8,93.702,23.2,4.9,mb,55,74.5,,0.88,us,usp000dc0h,2014-11-07T01:24:26.171Z,"Nicobar Islands, India region",earthquake,,17.9,,18,reviewed,us,us
+2004-12-27T22:58:10.500Z,12.746,93.19,30,4.6,mb,14,185.2,,0.93,us,usp000dc0g,2014-11-07T01:24:26.170Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T22:49:13.410Z,13.583,92.889,30,4.5,mb,15,176.1,,0.92,us,usp000dc0f,2014-11-07T01:24:26.168Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T22:46:17.450Z,3.677,96.721,30,4.3,mb,10,118.9,,1.33,us,usp000dc0e,2014-11-07T01:24:26.166Z,"northern Sumatra, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-12-27T22:35:10.300Z,46.1973333,-122.1866667,-1.821,2.5,md,11,58,,0.22,uw,uw10643608,2016-07-23T03:04:15.930Z,"Mount St. Helens area, Washington",earthquake,0.058,0.06,0.05,3,reviewed,uw,uw
+2004-12-27T22:33:12.160Z,7.734,92.396,30,4.1,mb,10,189.6,,0.92,us,usp000dc0d,2014-11-07T01:24:26.165Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T22:19:41.610Z,12.027,92.423,30,4.7,mb,27,96,,1.17,us,usp000dc0c,2014-11-07T01:24:26.162Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T22:15:07.180Z,8.454,93.524,30,4.4,mb,14,180.8,,0.81,us,usp000dc0b,2014-11-07T01:24:26.160Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T22:12:59.580Z,4.476,96.304,30,4.5,mb,9,187.3,,1.07,us,usp000dc0a,2014-11-07T01:24:26.158Z,"northern Sumatra, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-12-27T22:10:21.020Z,6.956,91.846,30,4.4,mb,20,179.5,,0.56,us,usp000dc09,2014-11-07T01:24:26.155Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T22:09:18.580Z,7.167,93.147,30,4.7,mb,22,131,,0.79,us,usp000dc08,2014-11-07T01:24:26.152Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T22:03:01.220Z,6.391,92.164,30,5.2,mwc,28,123.6,,0.78,us,usp000dc07,2016-11-10T00:56:22.483Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T22:02:46.960Z,8.011,93.527,30,4.9,mb,39,107.7,,1.24,us,usp000dc06,2014-11-07T01:24:26.144Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-27T22:02:39.300Z,8.285,93.768,30,4.5,mb,21,103.6,,0.91,us,usp000dc05,2014-11-07T01:24:26.141Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T22:02:20.100Z,40.0356667,-123.8358333,21.592,2.61,md,14,231,0.1928,0.51,nc,nc21430541,2017-01-10T00:47:11.720Z,"Northern California",earthquake,4.91,3.07,0.11,14,reviewed,nc,nc
+2004-12-27T21:57:52.400Z,9.16,93.403,30,4.1,mb,11,201.2,,0.74,us,usp000dc04,2014-11-07T01:24:26.139Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T21:56:14.850Z,-20.283,-178.712,623.3,4.7,mb,67,59.1,,0.79,us,usp000dc03,2014-11-07T01:24:26.133Z,"Fiji region",earthquake,,14.7,,16,reviewed,us,us
+2004-12-27T21:55:54.990Z,38.979,74.033,159.6,4,mb,10,261.3,,0.54,us,usp000dc02,2014-11-07T01:24:26.131Z,"Tajikistan-Xinjiang border region",earthquake,,23.7,,1,reviewed,us,us
+2004-12-27T21:53:45.240Z,8.941,93.876,30,4.7,mb,46,88,,0.79,us,usp000dc01,2014-11-07T01:24:26.127Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-27T21:46:05.050Z,8.344,93.972,30,4.4,mb,26,88.4,,0.76,us,usp000dc00,2014-11-07T01:24:26.125Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T21:44:07.710Z,8.578,93.699,26,4.8,mb,44,93.5,,0.85,us,usp000dbzz,2014-11-07T01:24:26.121Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-27T21:42:06.930Z,8.34,93.564,30,4.3,mb,17,180.8,,0.88,us,usp000dbzy,2014-11-07T01:24:26.119Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T21:40:02.170Z,9.006,92.023,30,4.1,mb,15,186.6,,0.64,us,usp000dbzx,2014-11-07T01:24:26.117Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T21:29:50.820Z,7.884,92.349,29.3,4.2,mb,22,178.4,,1.06,us,usp000dbzw,2014-11-07T01:24:26.114Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T21:24:42.750Z,13.55,92.943,35.8,4.8,mb,57,90,,0.76,us,usp000dbzv,2014-11-07T01:24:26.110Z,"Andaman Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-27T21:23:58.850Z,17.02,93.654,25,4.1,mb,12,99.4,,1.34,us,usp000dbzu,2014-11-07T01:24:26.108Z,"Bay of Bengal",earthquake,,0,,2,reviewed,us,us
+2004-12-27T21:18:47.870Z,6.861,92.998,37.9,4.3,mb,16,144.1,,0.9,us,usp000dbzt,2014-11-07T01:24:26.106Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T21:17:22.400Z,6.939,91.91,23.2,4.3,mb,14,140.2,,1.36,us,usp000dbzs,2014-11-07T01:24:26.104Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T21:13:00.500Z,6.525,94.722,30,3.9,mb,15,181.7,,0.63,us,usp000dbzr,2014-11-07T01:24:26.102Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T21:04:50.550Z,5.2,94.797,30,4.1,mb,10,189.9,,0.37,us,usp000dbzq,2014-11-07T01:24:26.101Z,"northern Sumatra, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-12-27T21:04:36.500Z,-35.168,-70.593,0,3.3,ml,8,316.8,,,us,usp000dbzp,2014-11-07T01:24:26.099Z,"Maule, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-27T20:58:15.370Z,15.815,-61.746,19,4.8,mb,66,63.4,,0.7,us,usp000dbzn,2014-11-07T01:24:26.094Z,"Guadeloupe region, Leeward Islands",earthquake,,23,,21,reviewed,us,us
+2004-12-27T20:52:06.860Z,7.225,92.791,30,4.6,mb,26,112.6,,1.19,us,usp000dbzm,2014-11-07T01:24:26.091Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T20:49:59.840Z,8,92.045,30,4.7,mb,19,105.5,,0.86,us,usp000dbzk,2014-11-07T01:24:26.089Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T20:47:49.730Z,8.277,93.528,30,4.7,mb,25,99.9,,0.98,us,usp000dbzj,2014-11-07T01:24:26.087Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T20:41:45.570Z,8.814,93.528,30,4.6,mb,23,179.9,,1.01,us,usp000dbzh,2014-11-07T01:24:26.085Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T20:41:06.760Z,9.089,93.856,30,4.9,mb,79,77.4,,0.89,us,usp000dbzg,2014-11-07T01:24:26.079Z,"Nicobar Islands, India region",earthquake,,,,21,reviewed,us,us
+2004-12-27T20:37:20.630Z,5.868,93.124,30,5,mb,41,132.4,,0.97,us,usp000dbzf,2014-11-07T01:24:26.075Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T20:36:18.800Z,8.948,93.682,30,5.3,mwc,165,51.9,,0.83,us,usp000dbze,2016-11-10T00:56:21.471Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T20:34:43.410Z,5.069,95.89,30,3.8,mb,16,125.8,,1.1,us,usp000dbzd,2014-11-07T01:24:26.060Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-27T20:31:18.930Z,7.185,91.936,30,4.5,mb,26,75.2,,1.05,us,usp000dbzc,2014-11-07T01:24:26.058Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T20:23:44.610Z,7.064,91.786,28.7,5.7,mwc,73,49.8,,0.89,us,usp000dbzb,2016-11-10T00:56:20.428Z,"Nicobar Islands, India region",earthquake,,16,,,reviewed,us,hrv
+2004-12-27T20:23:02.660Z,5.287,94.354,30,4.7,mb,19,183.3,,0.71,us,usp000dbza,2014-11-07T01:24:26.049Z,"northern Sumatra, Indonesia",earthquake,,,,6,reviewed,us,us
+2004-12-27T20:16:50.080Z,8.412,93.66,27.7,4.8,mb,33,111.1,,1.02,us,usp000dbz9,2014-11-07T01:24:26.046Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T20:10:51.310Z,2.93,95.606,28.9,5.8,mwc,271,39.5,,0.87,us,usp000dbz8,2020-01-04T03:36:37.902Z,"Simeulue, Indonesia",earthquake,,11.8,,,reviewed,us,hrv
+2004-12-27T20:08:14.820Z,13.491,92.8,30,4.3,mb,23,115.8,,0.53,us,usp000dbz7,2014-11-07T01:24:26.005Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T20:05:33.700Z,8.697,92.936,30,4.4,mb,22,181,,1.08,us,usp000dbz6,2014-11-07T01:24:26.003Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-27T19:58:32.200Z,15.965,-97.888,17.9,4,md,9,199.3,,,us,usp000dbz5,2014-11-07T01:24:26.000Z,"offshore Oaxaca, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-27T19:50:14.330Z,6.696,92.699,44,4.5,mb,26,149.8,,0.99,us,usp000dbz4,2014-11-07T01:24:25.996Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T19:46:33.340Z,4.947,94.46,30,4.6,mb,33,183.6,,1,us,usp000dbz3,2014-11-07T01:24:25.991Z,"off the west coast of northern Sumatra",earthquake,,,,12,reviewed,us,us
+2004-12-27T19:40:38.040Z,2.634,94.298,28.2,4.6,mb,22,111.4,,0.76,us,usp000dbz1,2014-11-07T01:24:25.884Z,"off the west coast of northern Sumatra",earthquake,,,,5,reviewed,us,us
+2004-12-27T19:28:52.280Z,8.547,93.686,27.5,5.3,mwc,120,52.6,,0.86,us,usp000dbz0,2016-11-09T05:27:00.389Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T19:28:38.630Z,9.706,92.59,28.1,4.9,mb,30,123.6,,1.22,us,usp000dbyz,2014-11-07T01:24:25.824Z,"Nicobar Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-27T19:26:58.120Z,7.814,92.151,41.8,5.2,mwc,112,53.5,,0.81,us,usp000dbyy,2016-11-10T00:56:17.877Z,"Nicobar Islands, India region",earthquake,,11.5,,,reviewed,us,hrv
+2004-12-27T19:18:26.230Z,8.971,92.36,30.8,5,mwc,65,49.5,,0.76,us,usp000dbyx,2016-11-10T00:56:16.875Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T19:16:06.960Z,11.489,92.494,28.3,5.1,mb,42,70.5,,0.71,us,usp000dbyw,2014-11-07T01:24:25.792Z,"Andaman Islands, India region",earthquake,,,,23,reviewed,us,us
+2004-12-27T19:13:18.850Z,11.586,92.499,25.8,5.5,mwc,160,45.6,,0.79,us,usp000dbyv,2020-04-16T17:34:07.350Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T19:10:09.100Z,37.887,17.647,10,3.1,md,10,264.9,,,us,usp000dbyt,2014-11-07T01:24:25.775Z,"Ionian Sea",earthquake,,,,,reviewed,rom,rom
+2004-12-27T19:08:18.660Z,-0.206,125.33,53.4,4.3,mb,16,130.1,,0.91,us,usp000dbys,2014-11-07T01:24:25.773Z,"Molucca Sea",earthquake,,51.8,,5,reviewed,us,us
+2004-12-27T19:06:06.960Z,8.801,92.195,30,4.6,mb,24,159.5,,0.71,us,usp000dbyr,2014-11-07T01:24:25.771Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T19:03:22.190Z,4.535,94.932,54.9,4.8,mb,19,183.6,,1.06,us,usp000dbyq,2014-11-07T01:24:25.768Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T18:40:02.250Z,38.381,139.799,138.9,4.1,mb,27,120.4,,0.85,us,usp000dbyp,2014-11-07T01:24:25.765Z,"near the west coast of Honshu, Japan",earthquake,,7.3,,11,reviewed,us,us
+2004-12-27T18:37:53.020Z,3.317,93.811,28.2,5.4,mwc,96,60,,0.67,us,usp000dbyn,2016-11-10T00:56:14.786Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T18:35:06.410Z,3.455,94.058,30,4.1,mb,14,179.2,,0.83,us,usp000dbym,2014-11-07T01:24:25.752Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T18:31:04.850Z,8.975,92.287,31.2,4.5,mb,14,181.3,,0.43,us,usp000dbyk,2014-11-07T01:24:25.750Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T18:24:05.780Z,9.298,93.817,39.1,5,mwc,52,69.2,,1.07,us,usp000dbyj,2016-11-10T00:56:13.786Z,"Nicobar Islands, India region",earthquake,,10.6,,,reviewed,us,hrv
+2004-12-27T18:20:25.620Z,8.007,91.89,30,4.3,mb,15,134.5,,0.71,us,usp000dbyh,2014-11-07T01:24:25.744Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T18:14:14.600Z,7.706,93.005,30,4.4,mb,10,182,,1.25,us,usp000dbyg,2014-11-07T01:24:25.742Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T18:12:18.500Z,37.16,22.09,4,3.2,md,9,139.8,,,us,usp000dbyf,2014-11-07T01:24:25.741Z,"southern Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-27T18:09:33.730Z,2.754,94.631,42.3,5.3,mwc,83,53.5,,0.99,us,usp000dbyd,2016-11-10T00:56:12.780Z,"off the west coast of northern Sumatra",earthquake,,10.9,,,reviewed,us,hrv
+2004-12-27T18:06:50.790Z,5.054,92.865,30,3.9,mb,10,153.7,,0.66,us,usp000dbyc,2014-11-07T01:24:25.730Z,"off the west coast of northern Sumatra",earthquake,,,,1,reviewed,us,us
+2004-12-27T18:06:14.270Z,53.082,-166.734,20.3,2.7,ml,10,255.4,,,us,usp000dbyb,2019-02-13T02:11:46.324Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-27T17:59:24.220Z,6.935,94.373,30,4.3,mb,16,101.6,,0.75,us,usp000dbya,2014-11-07T01:24:25.726Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T17:52:38.580Z,7.352,91.44,30,4.1,mb,9,204.8,,1.14,us,usp000dby9,2014-11-07T01:24:25.725Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T17:50:57.750Z,6.63,94.756,30,4,mb,9,181.6,,0.78,us,usp000dby8,2014-11-07T01:24:25.724Z,"Nicobar Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T17:48:45.770Z,4.275,93.556,30,4.4,mb,16,102.4,,1.04,us,usp000dby7,2014-11-07T01:24:25.722Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T17:45:51.180Z,4.646,93.986,28.8,4.5,mb,30,96.6,,0.51,us,usp000dby6,2014-11-07T01:24:25.719Z,"off the west coast of northern Sumatra",earthquake,,,,10,reviewed,us,us
+2004-12-27T17:42:33.470Z,11.838,91.798,22.8,4.9,mb,36,47.5,,0.63,us,usp000dby5,2014-11-07T01:24:25.715Z,"Andaman Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-27T17:40:03.630Z,5.597,93.156,20.2,5.2,mwc,165,34.5,,0.77,us,usp000dby4,2016-11-10T00:56:11.789Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T17:35:37.500Z,21.609,143.105,290,3.8,mb,19,127.2,,0.56,us,usp000dby3,2014-11-07T01:24:25.698Z,"Mariana Islands region",earthquake,,24.7,,3,reviewed,us,us
+2004-12-27T17:32:31.220Z,7.542,94.224,22.8,4.4,mb,25,111.1,,1.19,us,usp000dby2,2014-11-07T01:24:25.696Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-27T17:31:20.300Z,-34.944,-70.538,0,2.6,ml,10,295.6,,,us,usp000dby1,2014-11-07T01:24:25.694Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-27T17:27:24.790Z,11.279,92.546,30,4,mb,9,178.7,,0.86,us,usp000dby0,2014-11-07T01:24:25.693Z,"Andaman Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T17:23:40.310Z,13.598,92.789,30,4.1,mb,13,154.8,,0.95,us,usp000dbxz,2014-11-07T01:24:25.691Z,"Andaman Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T17:21:38.300Z,7.996,94.046,30,4.3,mb,12,102.7,,1.4,us,usp000dbxy,2014-11-07T01:24:25.689Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T17:16:30.410Z,6.584,94.709,23.7,4.8,mb,41,87.7,,0.81,us,usp000dbxx,2014-11-07T01:24:25.686Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-27T17:13:11.620Z,13.234,92.391,30,4.2,mb,20,155.5,,0.93,us,usp000dbxw,2014-11-07T01:24:25.684Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T17:08:59.800Z,10.337,93.143,30,4.3,mb,15,179.2,,0.92,us,usp000dbxv,2014-11-07T01:24:25.682Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T16:58:21.330Z,51.505,16.078,5,2.8,ml,13,158.8,,0.71,us,usp000dbxs,2014-11-07T01:24:25.676Z,"Poland",earthquake,,,,,reviewed,us,zamg
+2004-12-27T16:54:43.420Z,5.588,93.266,32.9,4.3,mb,20,102.6,,0.61,us,usp000dbxq,2014-11-07T01:24:25.673Z,"off the west coast of northern Sumatra",earthquake,,33.8,,4,reviewed,us,us
+2004-12-27T16:52:09.100Z,49.39,6.91,1,3,ml,27,78.8,,,us,usp000dbxp,2014-11-07T01:24:25.669Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2004-12-27T16:48:51.430Z,36.4721667,-121.0398333,0.744,2.57,md,30,73,0.04775,0.07,nc,nc21430499,2017-01-10T00:46:05.067Z,"Central California",earthquake,0.24,0.96,0.14,30,reviewed,nc,nc
+2004-12-27T16:45:11.460Z,4.029,94.422,35.2,4.4,mb,35,71.9,,0.7,us,usp000dbxn,2014-11-07T01:24:25.666Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-27T16:39:49.470Z,4.8,94.21,35.1,4.7,mb,57,65.3,,0.75,us,usp000dbxm,2014-11-07T01:24:25.660Z,"off the west coast of northern Sumatra",earthquake,,14.7,,15,reviewed,us,us
+2004-12-27T16:38:24.960Z,5.841,93.426,38.7,4.6,mb,23,113.7,,0.78,us,usp000dbxk,2014-11-07T01:24:25.656Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-27T16:33:55.350Z,8.454,92.145,29,4.8,mb,50,101.7,,0.88,us,usp000dbxj,2014-11-07T01:24:25.649Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-27T16:31:13.190Z,19.358,145.793,200,4.3,mb,15,123.6,,1.02,us,usp000dbxh,2014-11-07T01:24:25.647Z,"Maug Islands region, Northern Mariana Islands",earthquake,,,,1,reviewed,us,us
+2004-12-27T16:28:15.620Z,8.61,92.169,28.6,4.5,mb,30,72.2,,0.92,us,usp000dbxg,2014-11-07T01:24:25.642Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-27T16:26:21.000Z,4.871,93.791,30,4.4,mb,20,101.5,,0.99,us,usp000dbxf,2014-11-07T01:24:25.640Z,"off the west coast of northern Sumatra",earthquake,,,,1,reviewed,us,us
+2004-12-27T16:25:21.040Z,8.416,94.199,30,4.1,mb,15,101.7,,1.06,us,usp000dbxe,2014-11-07T01:24:25.639Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T16:22:44.190Z,9.208,93.476,30,4.5,mb,26,81.9,,0.88,us,usp000dbxd,2014-11-07T01:24:25.636Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T16:18:11.990Z,4.819,94.261,38,5,mwc,104,52.7,,0.82,us,usp000dbxc,2016-11-10T00:56:10.802Z,"off the west coast of northern Sumatra",earthquake,,8.1,,,reviewed,us,hrv
+2004-12-27T16:13:58.250Z,8.671,91.407,30,4.5,mb,16,199.2,,0.91,us,usp000dbxb,2014-11-07T01:24:25.625Z,"Nicobar Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T16:08:18.410Z,5.773,93.07,30.7,4.4,mb,27,91.8,,0.69,us,usp000dbx9,2014-11-07T01:24:25.598Z,"off the west coast of northern Sumatra",earthquake,,17.5,,7,reviewed,us,us
+2004-12-27T15:57:24.780Z,9.158,93.343,27,4.3,mb,20,109.9,,0.83,us,usp000dbx8,2014-11-07T01:24:25.596Z,"Nicobar Islands, India region",earthquake,,20.7,,5,reviewed,us,us
+2004-12-27T15:49:32.870Z,7.223,92.278,33.8,4.6,mb,34,167.9,,0.74,us,usp000dbx7,2014-11-07T01:24:25.591Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-27T15:46:19.260Z,5.644,93.283,30,4.3,mb,16,179.5,,0.83,us,usp000dbx6,2014-11-07T01:24:25.590Z,"off the west coast of northern Sumatra",earthquake,,,,5,reviewed,us,us
+2004-12-27T15:41:01.600Z,10.465,92.829,24.1,4.8,mb,50,157.4,,0.64,us,usp000dbx5,2014-11-07T01:24:25.585Z,"Andaman Islands, India region",earthquake,,21,,21,reviewed,us,us
+2004-12-27T15:30:39.050Z,6.568,92.635,30,4.1,mb,15,177.2,,1,us,usp000dbx4,2014-11-07T01:24:25.584Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T15:27:59.280Z,3.482,93.914,30,4.6,mb,13,185.6,,0.98,us,usp000dbx3,2014-11-07T01:24:25.582Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T15:20:33.640Z,10.592,93.588,23.9,5.2,mwc,108,65.2,,0.84,us,usp000dbx2,2016-11-10T00:56:09.781Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T15:18:42.980Z,7.602,92.001,30,3.9,mb,9,187.3,,0.78,us,usp000dbx1,2014-11-07T01:24:25.572Z,"Nicobar Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T15:12:14.703Z,39.5938,-119.7949,3.4,2.5,ml,27,68.32,0.026,0.1353,nn,nn00122461,2018-04-24T21:31:01.755Z,"Nevada",earthquake,,1.3,0.09,2,reviewed,nn,nn
+2004-12-27T15:05:36.610Z,2.831,94.173,30,4.3,mb,10,211,,0.38,us,usp000dbx0,2014-11-07T01:24:25.570Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-27T14:59:00.160Z,9.212,93.443,22.3,4.4,mb,12,180,,0.74,us,usp000dbwz,2014-11-07T01:24:25.568Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T14:46:46.490Z,12.35,92.469,19,5.6,mwc,364,26.2,,0.76,us,usp000dbwy,2016-11-10T00:56:29.569Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T14:43:48.510Z,13.11,92.724,30,4.5,mb,15,176.7,,0.62,us,usp000dbwx,2014-11-07T01:24:25.539Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T14:37:23.150Z,13.066,93.219,30,4.3,mb,11,176.3,,1.08,us,usp000dbww,2014-11-07T01:24:25.537Z,"Andaman Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T14:30:49.800Z,16.665,-100.604,10,4,md,5,275.6,,,us,usp000dbwv,2014-11-07T01:24:25.536Z,"offshore Guerrero, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-27T14:30:32.330Z,8.546,93.873,24.2,5.2,mwc,106,69.1,,0.85,us,usp000dbwu,2016-11-10T00:56:29.081Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T14:29:10.580Z,12.232,92.46,23.4,4.5,mb,17,177.8,,0.82,us,usp000dbwt,2014-11-07T01:24:25.523Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T14:20:53.870Z,8.096,92.715,39.4,4.8,mb,57,64.8,,0.86,us,usp000dbws,2014-11-07T01:24:25.516Z,"Nicobar Islands, India region",earthquake,,,,31,reviewed,us,us
+2004-12-27T14:13:44.190Z,8.645,93.517,30,4.3,mb,23,184.9,,0.51,us,usp000dbwr,2014-11-07T01:24:25.514Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T14:12:38.260Z,5.416,93.215,30,4.2,mb,13,190.8,,0.57,us,usp000dbwq,2014-11-07T01:24:25.512Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T14:06:47.250Z,8.28,92.896,30,4.4,mb,22,177.7,,0.97,us,usp000dbwp,2014-11-07T01:24:25.510Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T14:05:12.150Z,8.068,91.971,28.4,4.2,mb,11,138.7,,0.73,us,usp000dbwn,2014-11-07T01:24:25.509Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T13:56:42.520Z,6.244,95.314,30,4.6,mb,9,188.7,,1.38,us,usp000dbwk,2014-11-07T01:24:25.506Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T13:55:20.560Z,7.856,91.784,23.7,4.3,mb,11,182.9,,0.95,us,usp000dbwj,2014-11-07T01:24:25.504Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T13:50:03.160Z,3.432,95.118,30,4.5,mb,14,103.6,,0.97,us,usp000dbwh,2014-11-07T01:24:25.503Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T13:44:39.300Z,4.971,94.941,30,4.7,mb,21,260,,0.67,us,usp000dbwg,2014-11-07T01:24:25.500Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-27T13:44:13.350Z,5.934,92.053,30,4.1,mb,11,184.6,,1.18,us,usp000dbwf,2014-11-07T01:24:25.499Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T13:40:51.010Z,-17.775,-178.642,537.4,4.7,mb,29,76.1,,0.87,us,usp000dbwe,2014-11-07T01:24:25.496Z,"Fiji region",earthquake,,10.4,,5,reviewed,us,us
+2004-12-27T13:38:54.560Z,12.822,92.485,36.7,4.5,mb,23,137.3,,1.03,us,usp000dbwd,2014-11-07T01:24:25.492Z,"Andaman Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-27T13:34:25.070Z,2.732,95.58,22.7,4.7,mb,31,91.2,,0.94,us,usp000dbwc,2014-11-07T01:24:25.488Z,"Simeulue, Indonesia",earthquake,,,,16,reviewed,us,us
+2004-12-27T13:29:54.140Z,19.652,-68.32,24.5,3.9,md,20,102.1,,,us,usp000dbwb,2014-11-07T01:24:25.486Z,"Dominican Republic region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-27T13:27:56.550Z,2.713,96.05,23.8,4.8,mb,28,134.7,,0.7,us,usp000dbw9,2014-11-07T01:24:25.480Z,"Simeulue, Indonesia",earthquake,,,,11,reviewed,us,us
+2004-12-27T13:25:18.320Z,4.376,94.17,30,4,mb,10,184.5,,0.74,us,usp000dbw8,2014-11-07T01:24:25.478Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T13:04:30.420Z,5.301,94.465,30,4.4,mb,11,187.9,,0.75,us,usp000dbw7,2014-11-07T01:24:25.477Z,"northern Sumatra, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-12-27T12:58:01.220Z,7.292,92.519,25.8,4.7,mb,38,131,,0.99,us,usp000dbw6,2014-11-07T01:24:25.473Z,"Nicobar Islands, India region",earthquake,,,,17,reviewed,us,us
+2004-12-27T12:48:18.010Z,8.576,93.842,25.1,4.9,mb,50,88.3,,0.73,us,usp000dbw4,2014-11-07T01:24:25.466Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-27T12:45:11.230Z,8.889,92.222,29.8,4.4,mb,21,175.2,,0.92,us,usp000dbw3,2014-11-07T01:24:25.464Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T12:40:58.400Z,7.217,93.274,30,4.2,mb,8,208.8,,1.09,us,usp000dbw2,2014-11-07T01:24:25.463Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T12:39:10.630Z,52.128,174.055,24.7,3.9,mb,19,140.1,,0.65,us,usp000dbw1,2014-11-07T01:24:25.460Z,"Near Islands, Aleutian Islands, Alaska",earthquake,,10.9,,3,reviewed,us,us
+2004-12-27T12:33:44.300Z,13.59,93.053,30,4.2,mb,11,175.9,,0.82,us,usp000dbw0,2014-11-07T01:24:25.458Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T12:28:26.230Z,10.948,92.351,30,3.9,mb,11,175.9,,0.85,us,usp000dbvz,2014-11-07T01:24:25.455Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T12:22:51.360Z,9.545,93.186,30,4.5,mb,16,179.9,,0.64,us,usp000dbvy,2014-11-07T01:24:25.452Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T12:13:59.570Z,12.805,92.684,27.6,5,mwc,98,47.6,,0.86,us,usp000dbvx,2016-11-10T00:56:28.571Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T12:08:26.950Z,7.507,92.292,30,4,mb,9,141.1,,1.26,us,usp000dbvw,2014-11-07T01:24:25.320Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T11:58:36.500Z,4.826,94.822,30,5,mb,15,269.1,,0.46,us,usp000dbvv,2014-11-07T01:24:25.318Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T11:57:55.490Z,8.075,92.296,25,5.1,mwc,125,49.8,,0.84,us,usp000dbvu,2016-11-10T00:56:28.016Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T11:54:58.630Z,13.89,-91.756,78.3,4.4,md,8,267.1,,1.49,us,usp000dbvt,2014-11-07T01:24:25.304Z,"offshore Guatemala",earthquake,,23.7,,,reviewed,us,unm
+2004-12-27T11:47:13.700Z,5.641,93.244,30,4.3,mb,19,100.2,,0.83,us,usp000dbvs,2014-11-07T01:24:25.302Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T11:38:52.780Z,10.938,91.473,30,4.4,mb,18,176.5,,0.93,us,usp000dbvq,2014-11-07T01:24:25.298Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T11:30:43.630Z,7.547,92.425,30,4.7,mb,34,100.7,,1.09,us,usp000dbvp,2014-11-07T01:24:25.294Z,"Nicobar Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-27T11:20:38.300Z,5.144,93.536,30,4.5,mb,16,101.8,,0.86,us,usp000dbvn,2014-11-07T01:24:25.291Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T11:19:45.810Z,4.632,94.739,30,4.5,mb,23,100,,0.8,us,usp000dbvm,2014-11-07T01:24:25.279Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T11:19:05.430Z,6.026,94.936,30,4.2,mb,20,174.5,,0.6,us,usp000dbvk,2014-11-07T01:24:25.277Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T11:06:47.430Z,10.794,92.645,30,4.4,mb,19,179.1,,0.99,us,usp000dbvg,2014-11-07T01:24:25.273Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T11:06:30.750Z,4.12,94.046,37.1,4.6,mb,27,95,,0.69,us,usp000dbvf,2014-11-07T01:24:25.270Z,"off the west coast of northern Sumatra",earthquake,,,,9,reviewed,us,us
+2004-12-27T11:01:18.570Z,8.776,93.46,30,4.6,mb,25,81.6,,1.06,us,usp000dbve,2014-11-07T01:24:25.268Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T10:58:09.400Z,-35.327,-70.558,7.2,3.2,ml,10,321.2,,,us,usp000dbvd,2014-11-07T01:24:25.266Z,"Maule, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-27T10:46:47.700Z,13.657,93.05,25,5.3,mb,76,58,,0.9,us,usp000dbva,2014-11-07T01:24:25.257Z,"Andaman Islands, India region",earthquake,,15.1,,42,reviewed,us,us
+2004-12-27T10:46:38.970Z,13.681,93.039,32.1,5.4,mwc,164,26.7,,1.02,us,usp000dbv9,2016-11-10T00:56:27.524Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T10:45:36.990Z,3.169,93.882,30,4.8,mb,27,95.9,,0.79,us,usp000dbv8,2014-11-07T01:24:25.226Z,"off the west coast of northern Sumatra",earthquake,,,,5,reviewed,us,us
+2004-12-27T10:36:22.970Z,38.7491667,-122.7263333,2.891,4.31,mw,52,26,0.02613,0.08,nc,nc21430438,2020-05-06T07:02:23.294Z,"Northern California",earthquake,0.11,0.28,,6,reviewed,nc,nc
+2004-12-27T10:35:34.280Z,4.189,95.078,30,3.8,mb,11,183.9,,0.99,us,usp000dbv5,2014-11-07T01:24:25.218Z,"northern Sumatra, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-12-27T10:28:10.470Z,8.248,93.805,30,4.5,mb,21,99.9,,0.97,us,usp000dbv4,2014-11-07T01:24:25.216Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T10:07:17.700Z,-29.315,-69.612,125,3.7,md,7,212.5,,,us,usp000dbv3,2014-11-07T01:24:25.215Z,"San Juan, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-27T10:05:05.440Z,4.724,95.11,49.7,5.7,mwc,292,37.1,,0.74,us,usp000dbv2,2020-01-04T03:36:25.154Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-27T10:01:41.570Z,7.512,92.645,48.5,5,mb,29,100.4,,1.26,us,usp000dbv1,2014-11-07T01:24:25.189Z,"Nicobar Islands, India region",earthquake,,24,,4,reviewed,us,us
+2004-12-27T09:57:52.730Z,7.706,92.645,9.1,5.7,mwc,185,59.9,,0.92,us,usp000dbv0,2016-11-10T00:56:26.531Z,"Nicobar Islands, India region",earthquake,,19.5,,,reviewed,us,hrv
+2004-12-27T09:39:06.800Z,5.348,94.65,35,6.1,mwb,468,36,,0.81,us,usp000dbuz,2020-01-04T03:36:09.999Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+2004-12-27T09:37:25.030Z,7.584,92.667,40.3,4.7,mb,44,100.4,,0.89,us,usp000dbuy,2014-11-07T01:24:25.125Z,"Nicobar Islands, India region",earthquake,,17.3,,10,reviewed,us,us
+2004-12-27T09:33:21.780Z,9.296,93.685,30,4.4,mb,11,218.9,,0.6,us,usp000dbux,2014-11-07T01:24:25.123Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T09:31:56.920Z,4.717,97.439,30,4.5,mb,13,112.8,,0.83,us,usp000dbuw,2014-11-07T01:24:25.122Z,"northern Sumatra, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-27T09:24:07.750Z,13.252,93.166,30,4.4,mb,22,107.4,,1.07,us,usp000dbuv,2014-11-07T01:24:25.120Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T09:18:12.570Z,7.799,-36.653,10,4.8,mb,55,66.2,,0.82,us,usp000dbuu,2014-11-07T01:24:25.114Z,"central Mid-Atlantic Ridge",earthquake,,,,21,reviewed,us,us
+2004-12-27T09:14:34.840Z,-3.682,100.73,27,4.7,mb,21,143.8,,0.89,us,usp000dbut,2014-11-07T01:24:25.112Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,6,reviewed,us,us
+2004-12-27T09:09:14.610Z,8.357,93.424,30,4.4,mb,15,188.4,,0.63,us,usp000dbus,2014-11-07T01:24:25.110Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T09:06:24.150Z,36.966,28.293,21.4,2.9,ml,6,183.5,,,us,usp000dbur,2014-11-07T01:24:25.109Z,"Dodecanese Islands, Greece",earthquake,,,,,reviewed,isk,isk
+2004-12-27T09:00:04.100Z,-13.389,169.429,10,4.4,mb,17,170.9,,1.21,us,usp000dbuq,2014-11-07T01:24:25.107Z,"Vanuatu region",earthquake,,,,3,reviewed,us,us
+2004-12-27T08:52:59.360Z,-5.305,102.54,44.4,4.6,mb,15,181.7,,0.68,us,usp000dbup,2014-11-07T01:24:25.105Z,"southern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-27T08:48:08.480Z,25.511,128.75,9.7,4.3,mwr,15,134.5,,1.06,us,usp000dbun,2014-11-07T01:24:25.103Z,"Ryukyu Islands, Japan",earthquake,,37,,,reviewed,us,nied
+2004-12-27T08:37:38.470Z,6.477,93.279,30,5.6,mwc,138,55.1,,0.89,us,usp000dbuk,2016-11-10T00:56:25.020Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T08:34:52.710Z,36.956,27.601,5,2.9,ml,5,240.5,,,us,usp000dbuj,2014-11-07T01:24:25.081Z,"Dodecanese Islands, Greece",earthquake,,,,,reviewed,isk,isk
+2004-12-27T08:21:40.190Z,5.521,94.606,51.2,5.3,mwc,166,52.8,,0.79,us,usp000dbuh,2016-11-10T00:56:24.048Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-27T08:20:11.260Z,11.694,92.313,22.7,4.6,mb,21,175.3,,0.75,us,usp000dbug,2014-11-07T01:24:25.064Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T08:17:49.500Z,5.656,93,30,4.3,mb,14,103,,0.96,us,usp000dbuf,2014-11-07T01:24:25.062Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-27T08:11:02.270Z,5.478,94.134,19.2,5,mb,83,103,,1.36,us,usp000dbue,2014-11-07T01:24:25.055Z,"northern Sumatra, Indonesia",earthquake,,,,33,reviewed,us,us
+2004-12-27T07:47:35.400Z,2.709,94.512,23.3,5.5,mwc,140,59.4,,0.74,us,usp000dbud,2016-11-10T00:56:22.997Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T07:33:38.970Z,6.084,93.301,30,4.3,mb,21,132.1,,0.7,us,usp000dbuc,2014-11-07T01:24:25.033Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T07:32:38.840Z,12.352,92.503,21.6,4.5,mb,24,105.3,,0.84,us,usp000dbub,2014-11-07T01:24:25.030Z,"Andaman Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T07:15:05.050Z,11.354,92.114,34.1,4.7,mb,51,128.5,,1.01,us,usp000dbua,2014-11-07T01:24:25.026Z,"Andaman Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-27T07:10:50.070Z,-7.258,129.03,91.8,4.1,mb,15,115.8,,1.52,us,usp000dbu9,2014-11-07T01:24:25.024Z,"Kepulauan Babar, Indonesia",earthquake,,37.6,,5,reviewed,us,us
+2004-12-27T07:05:10.750Z,-29.291,-177.04,76.2,4.6,mb,11,214.5,,1.32,us,usp000dbu8,2014-11-07T01:24:25.022Z,"Kermadec Islands, New Zealand",earthquake,,14.2,,1,reviewed,us,us
+2004-12-27T06:59:14.650Z,3.033,95.538,27.2,5.6,mwc,167,39.3,,0.85,us,usp000dbu7,2020-01-04T03:35:56.948Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T06:55:06.950Z,12.206,92.65,30,4.4,mb,11,164.4,,1.01,us,usp000dbu6,2014-11-07T01:24:25.003Z,"Andaman Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-27T06:54:10.220Z,12.94,93.068,30,4.4,mb,12,176.6,,1.04,us,usp000dbu5,2014-11-07T01:24:25.002Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T06:50:31.050Z,6.962,92.528,30,4.2,mb,11,143.9,,0.89,us,usp000dbu4,2014-11-07T01:24:25.000Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T06:48:24.840Z,6.923,92.208,30,4.5,mb,14,186.1,,0.47,us,usp000dbu3,2014-11-07T01:24:24.998Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T06:44:56.710Z,5.427,92.995,31.2,4.3,mb,11,191,,0.65,us,usp000dbu2,2014-11-07T01:24:24.996Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-27T06:40:42.920Z,8.968,93.746,30.5,4.8,mb,71,75,,0.7,us,usp000dbu1,2014-11-07T01:24:24.990Z,"Nicobar Islands, India region",earthquake,,21.1,,20,reviewed,us,us
+2004-12-27T06:35:11.000Z,-33.815,-70.634,95,2.7,md,18,79.3,,,us,usp000dbu0,2014-11-07T01:24:24.988Z,"Region Metropolitana, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-27T06:10:33.200Z,-33.159,-70.087,118.8,3.7,md,25,112.5,,,us,usp000dbtz,2014-11-07T01:24:24.984Z,"Mendoza, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-27T06:06:44.260Z,5.963,93.2,28.5,4.8,mb,54,66.3,,0.66,us,usp000dbty,2014-11-07T01:24:24.979Z,"off the west coast of northern Sumatra",earthquake,,,,13,reviewed,us,us
+2004-12-27T06:01:52.240Z,7.94,93.483,58.2,5,mwc,74,64.7,,0.95,us,usp000dbtx,2016-11-10T00:56:20.917Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T05:57:31.080Z,7.992,92.063,31.5,4.7,mb,35,49.6,,0.93,us,usp000dbtv,2014-11-07T01:24:24.965Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T05:55:49.950Z,46.1958333,-122.1881667,-1.673,2.5,md,18,64,,0.23,uw,uw10643208,2016-07-23T03:04:11.340Z,"Mount St. Helens area, Washington",earthquake,0.05,0.06,0.05,6,reviewed,uw,uw
+2004-12-27T05:50:11.990Z,8.021,92.101,32.2,5.2,mwc,68,101.4,,0.89,us,usp000dbtu,2016-11-10T00:56:19.890Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T05:50:04.840Z,2.856,95.691,30,4.7,mb,21,93.3,,1.24,us,usp000dbtt,2014-11-07T01:24:24.956Z,"Simeulue, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-27T05:45:59.860Z,3.835,97.672,30,4.4,mb,13,94.2,,1.12,us,usp000dbts,2014-11-07T01:24:24.954Z,"northern Sumatra, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-27T05:44:18.760Z,10.192,93.617,27.7,4.4,mb,12,175.6,,0.5,us,usp000dbtr,2014-11-07T01:24:24.953Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T05:28:44.580Z,8.64,93.663,30,4.6,mb,21,81.1,,1.08,us,usp000dbtq,2014-11-07T01:24:24.951Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T05:21:01.880Z,3.149,94.832,30,4.4,mb,13,94.8,,0.91,us,usp000dbtp,2014-11-07T01:24:24.949Z,"off the west coast of northern Sumatra",earthquake,,,,1,reviewed,us,us
+2004-12-27T05:16:34.680Z,14.024,93.074,30,4.6,mb,55,80.2,,0.8,us,usp000dbtn,2014-11-07T01:24:24.945Z,"Andaman Islands, India region",earthquake,,,,24,reviewed,us,us
+2004-12-27T05:10:52.950Z,6,93.214,29.6,5.2,mwc,98,67.1,,0.75,us,usp000dbtm,2016-11-10T00:56:18.878Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T05:09:19.520Z,6.803,92.562,33.4,4.5,mb,13,104.2,,0.62,us,usp000dbtk,2014-11-07T01:24:24.934Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T05:05:15.040Z,5.713,92.933,26.7,4.6,mb,15,184.1,,0.84,us,usp000dbtj,2014-11-07T01:24:24.932Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T04:50:57.250Z,13.043,92.699,25.6,4.8,mb,47,64.2,,0.88,us,usp000dbth,2014-11-07T01:24:24.927Z,"Andaman Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-27T04:49:16.320Z,4.324,93.94,30,4.6,mb,38,77.7,,0.7,us,usp000dbtg,2014-11-07T01:24:24.923Z,"off the west coast of northern Sumatra",earthquake,,,,11,reviewed,us,us
+2004-12-27T04:40:48.760Z,6.872,92.561,37.9,4.7,mb,19,100,,0.84,us,usp000dbtf,2014-11-07T01:24:24.921Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-27T04:29:36.760Z,12.36,92.486,30,4.6,mb,34,173.9,,1.02,us,usp000dbte,2014-11-07T01:24:24.917Z,"Andaman Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-27T04:26:08.750Z,6.829,92.596,39,5,mb,74,58.8,,0.78,us,usp000dbtd,2014-11-07T01:24:24.910Z,"Nicobar Islands, India region",earthquake,,,,30,reviewed,us,us
+2004-12-27T04:25:28.280Z,9.392,92.942,30,4.4,mb,11,111.4,,0.71,us,usp000dbtc,2014-11-07T01:24:24.908Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T04:22:36.520Z,6.254,93.455,29.3,5.2,mwc,105,34,,0.83,us,usp000dbtb,2016-11-10T00:56:18.373Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T04:19:00.170Z,3.722,94.963,30,4.4,mb,24,102.7,,0.76,us,usp000dbta,2014-11-07T01:24:24.882Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-27T04:14:36.440Z,8.394,92.005,30,4.5,mb,25,132.3,,0.93,us,usp000dbt9,2014-11-07T01:24:24.879Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T04:06:44.100Z,3.067,94.562,30,4.6,mb,16,184.7,,0.81,us,usp000dbt8,2014-11-07T01:24:24.877Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-27T04:06:15.860Z,4.768,95.128,50.5,4.7,mb,39,99.5,,0.69,us,usp000dbt7,2014-11-07T01:24:24.873Z,"northern Sumatra, Indonesia",earthquake,,,,15,reviewed,us,us
+2004-12-27T03:51:14.030Z,9.459,91.702,19,4.5,mb,25,103.7,,0.98,us,usp000dbt6,2014-11-07T01:24:24.870Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-27T03:50:31.000Z,11.485,92.729,30,4.4,mb,9,186.5,,1.26,us,usp000dbt5,2014-11-07T01:24:24.869Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T03:46:13.560Z,5.319,94.446,43.8,4.6,mb,45,110.1,,0.78,us,usp000dbt4,2014-11-07T01:24:24.863Z,"northern Sumatra, Indonesia",earthquake,,,,18,reviewed,us,us
+2004-12-27T03:37:41.960Z,7.692,92.283,31,4.6,mb,35,108.8,,0.76,us,usp000dbt3,2014-11-07T01:24:24.857Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-27T03:36:55.582Z,63.0227,-151.4222,11,2.6,ml,,,,0.64,ak,ak004gmqjrna,2019-02-13T02:11:41.298Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2004-12-27T03:34:27.060Z,4.202,93.786,30,4.5,mb,13,178.6,,0.69,us,usp000dbt1,2014-11-07T01:24:24.784Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T03:29:54.540Z,3.448,94.269,30,4.8,mb,43,64,,0.8,us,usp000dbt0,2014-11-07T01:24:24.781Z,"off the west coast of northern Sumatra",earthquake,,,,14,reviewed,us,us
+2004-12-27T03:13:33.710Z,9.384,93.011,30,4.8,mb,33,158.1,,0.8,us,usp000dbsz,2014-11-07T01:24:24.778Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-27T03:08:55.910Z,4.962,93.759,28.3,4.9,mb,76,50.3,,0.66,us,usp000dbsy,2014-11-07T01:24:24.770Z,"off the west coast of northern Sumatra",earthquake,,,,24,reviewed,us,us
+2004-12-27T03:04:34.150Z,-4.198,152.796,25.8,5.6,mwc,110,28,,0.93,us,usp000dbsx,2020-01-04T03:35:43.966Z,"New Britain region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+2004-12-27T02:53:02.800Z,5.355,94.324,46.6,5,mb,114,99,,0.82,us,usp000dbsw,2014-11-07T01:24:24.749Z,"northern Sumatra, Indonesia",earthquake,,,,46,reviewed,us,us
+2004-12-27T02:51:14.510Z,4.111,93.718,33.7,4.5,mb,15,191.6,,1,us,usp000dbsv,2014-11-07T01:24:24.747Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T02:48:36.500Z,6.166,92.44,42.2,4.2,mb,14,110.1,,0.95,us,usp000dbsu,2014-11-07T01:24:24.746Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T02:46:12.400Z,15.244,94.185,30,3.8,mb,10,182.7,,0.8,us,usp000dbst,2014-11-07T01:24:24.744Z,"near the south coast of Myanmar",earthquake,,,,2,reviewed,us,us
+2004-12-27T02:37:51.450Z,13.71,93.353,30,4.2,mb,21,103.7,,1.37,us,usp000dbss,2014-11-07T01:24:24.742Z,"Andaman Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-27T02:35:29.950Z,7.918,93.585,30,4.3,mb,15,157.8,,1.14,us,usp000dbsr,2014-11-07T01:24:24.741Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T02:33:24.930Z,3.752,96.324,21.9,4.6,mb,25,178.5,,0.99,us,usp000dbsq,2014-11-07T01:24:24.738Z,"northern Sumatra, Indonesia",earthquake,,,,9,reviewed,us,us
+2004-12-27T02:28:39.720Z,4.469,96.211,30,4.3,mb,10,182.6,,0.73,us,usp000dbsp,2014-11-07T01:24:24.737Z,"northern Sumatra, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-27T02:27:59.810Z,18.555,146.505,42.6,4.6,mb,12,168.8,,1.21,us,usp000dbsn,2014-11-07T01:24:24.735Z,"Pagan region, Northern Mariana Islands",earthquake,,23.7,,1,reviewed,us,us
+2004-12-27T02:23:43.170Z,8.407,93.598,22.2,4.6,mb,24,103,,1.13,us,usp000dbsm,2014-11-07T01:24:24.732Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T02:23:01.420Z,6.824,93.331,40.1,4,mb,9,189.6,,0.46,us,usp000dbsk,2014-11-07T01:24:24.731Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T02:17:43.140Z,7.953,92.666,38.2,4.5,mb,23,186.8,,1.1,us,usp000dbsj,2014-11-07T01:24:24.728Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-27T02:10:07.770Z,13.717,93.119,25.7,4.4,mb,35,82.3,,0.94,us,usp000dbsh,2014-11-07T01:24:24.725Z,"Andaman Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-27T02:05:33.540Z,5.19,94.28,48.2,4.8,mb,20,110.3,,0.75,us,usp000dbsg,2014-11-07T01:24:24.722Z,"northern Sumatra, Indonesia",earthquake,,,,8,reviewed,us,us
+2004-12-27T02:04:21.750Z,7.849,94.112,30,5.2,mwc,88,54.6,,0.9,us,usp000dbsf,2016-11-10T00:56:16.393Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T01:53:40.840Z,12.902,92.434,30,4.5,mb,17,177.2,,0.55,us,usp000dbse,2014-11-07T01:24:24.713Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T01:51:44.660Z,4.447,94.912,30,4.3,mb,15,183.7,,0.97,us,usp000dbsd,2014-11-07T01:24:24.711Z,"off the west coast of northern Sumatra",earthquake,,,,5,reviewed,us,us
+2004-12-27T01:46:02.100Z,13.852,93.3,41.9,4.6,mb,70,82.2,,0.87,us,usp000dbsc,2014-11-07T01:24:24.703Z,"Andaman Islands, India region",earthquake,,12.7,,22,reviewed,us,us
+2004-12-27T01:43:41.460Z,-6.945,125.609,485.2,4.4,mb,9,143.9,,0.36,us,usp000dbsb,2014-11-07T01:24:24.701Z,"Banda Sea",earthquake,,32.6,,5,reviewed,us,us
+2004-12-27T01:43:06.780Z,13.63,93.661,62,4.3,mb,26,106.9,,0.75,us,usp000dbsa,2014-11-07T01:24:24.608Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-27T01:38:21.820Z,6.755,92.583,22.7,5,mwc,52,72.9,,0.78,us,usp000dbs9,2016-11-10T00:56:15.316Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T01:34:04.580Z,13.374,93.453,30,4.5,mb,40,148.6,,0.84,us,usp000dbs8,2014-11-07T01:24:24.355Z,"Andaman Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-27T01:31:33.460Z,4.743,93.005,30,4.7,mb,25,110.1,,0.72,us,usp000dbs7,2014-11-07T01:24:24.353Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-27T01:29:16.290Z,13.248,92.587,30,4.3,mb,14,170.9,,0.97,us,usp000dbs6,2014-11-07T01:24:24.343Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-27T01:23:11.530Z,13.174,93.126,35.8,4.8,mb,43,66.2,,0.94,us,usp000dbs5,2014-11-07T01:24:24.338Z,"Andaman Islands, India region",earthquake,,15.2,,19,reviewed,us,us
+2004-12-27T01:22:24.090Z,3.348,94.892,47.5,5.1,mwc,49,70.9,,0.93,us,usp000dbs4,2016-11-10T00:56:14.296Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-27T01:11:45.430Z,3.213,94.378,30,4.1,mb,8,191.9,,1.16,us,usp000dbs3,2014-11-07T01:24:24.171Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-27T01:11:10.720Z,5.91,92.926,30,4.3,mb,18,179.6,,0.93,us,usp000dbs2,2014-11-07T01:24:24.169Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-27T01:04:51.040Z,8.668,93.75,30,4.7,mb,60,75.1,,0.65,us,usp000dbs1,2014-11-07T01:24:24.164Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-27T00:53:44.085Z,37.9683,-118.6369,5.9,3.1,ml,4,217.89,0.062,0.0759,nn,nn00127835,2018-04-24T21:31:01.449Z,"Central California",earthquake,,9.6,,,reviewed,nn,nn
+2004-12-27T00:49:28.590Z,12.982,92.395,23.7,5.8,mwc,430,25.1,,0.85,us,usp000dbs0,2020-04-16T17:34:10.677Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T00:39:44.620Z,9.088,93.663,21.8,5.4,mwc,131,37.7,,0.99,us,usp000dbrz,2016-11-10T00:56:12.290Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T00:36:09.380Z,8.472,92.394,30,5.5,mwc,34,69,,0.99,us,usp000dbry,2016-11-10T00:56:11.287Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-27T00:32:16.480Z,5.476,94.467,33,5.8,mwc,426,28.9,,0.75,us,usp000dbrx,2016-11-10T00:56:10.280Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,hrv
+2004-12-27T00:31:56.850Z,4.325,93.759,30,4.3,mb,15,109.9,,0.84,us,usp000dbrw,2014-11-07T01:24:24.075Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-27T00:29:55.060Z,36.917,27.93,16.8,3.3,md,8,236.2,,,us,usp000dbrv,2014-11-07T01:24:24.074Z,"Dodecanese Islands, Greece",earthquake,,,,,reviewed,isk,isk
+2004-12-27T00:24:30.800Z,4.466,93.813,15.2,5.2,mwc,145,36.2,,0.68,us,usp000dbru,2016-11-10T00:56:09.286Z,"off the west coast of northern Sumatra",earthquake,,11.6,,,reviewed,us,hrv
+2004-12-27T00:24:01.690Z,39.8263333,-120.7876667,3.729,3.43,ml,25,92,0.07928,0.1,nc,nc21430326,2017-01-10T00:42:34.500Z,"15km SE of East Quincy, California",earthquake,0.28,0.83,,11,reviewed,nc,nc
+2004-12-27T00:22:46.370Z,3.464,94.688,29.7,4.6,mb,17,113.7,,1.01,us,usp000dbrs,2014-11-07T01:24:24.058Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-27T00:21:07.220Z,8.058,93.196,30,4.4,mb,15,184.9,,1.16,us,usp000dbrr,2014-11-07T01:24:24.056Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-27T00:18:52.550Z,4.058,93.097,22.5,4.4,mb,16,185.7,,0.77,us,usp000dbrq,2014-11-07T01:24:24.054Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T00:15:39.220Z,2.087,96.093,30,4.4,mb,30,87.7,,1.15,us,usp000dbrp,2014-11-07T01:24:24.051Z,"Simeulue, Indonesia",earthquake,,,,14,reviewed,us,us
+2004-12-27T00:10:49.460Z,2.727,94.12,30,4.5,mb,24,111.3,,0.62,us,usp000dbrn,2014-11-07T01:24:24.049Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-27T00:09:08.370Z,6.295,94.615,40.3,4.3,mb,13,182,,1.22,us,usp000dbrm,2014-11-07T01:24:24.047Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T00:07:05.850Z,15.75,93.185,30,4.4,mb,14,102.4,,1.25,us,usp000dbrj,2014-11-07T01:24:24.042Z,"Bay of Bengal",earthquake,,,,3,reviewed,us,us
+2004-12-27T00:03:09.360Z,4.652,93.169,30,4.5,mb,15,111.2,,1.07,us,usp000dbrh,2014-11-07T01:24:24.041Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-27T00:02:56.620Z,6.465,93.791,30,4.3,mb,13,187.4,,1.35,us,usp000dbrg,2014-11-07T01:24:24.039Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-27T00:00:02.710Z,5.471,94.477,30,4.3,mb,13,187.8,,0.75,us,usp000dbrf,2014-11-07T01:24:24.038Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-26T23:58:06.300Z,3.191,93.664,28.7,4.6,mb,28,96.2,,0.79,us,usp000dbre,2014-11-07T01:24:24.034Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-26T23:55:08.020Z,8.192,92.16,30,4.2,mb,11,189.4,,0.84,us,usp000dbrd,2014-11-07T01:24:24.033Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T23:51:32.920Z,7.509,94.238,30,4,mb,19,181.1,,1.03,us,usp000dbrc,2014-11-07T01:24:24.031Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T23:47:42.110Z,5.1,93.577,30,4.4,mb,17,179.7,,1.17,us,usp000dbrb,2014-11-07T01:24:24.029Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T23:44:21.930Z,3.943,94.15,28.2,4.3,mb,13,104.9,,0.88,us,usp000dbra,2014-11-07T01:24:24.027Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T23:42:27.590Z,5.084,93.259,30,4.3,mb,20,180,,0.57,us,usp000dbr9,2014-11-07T01:24:24.025Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T23:39:15.940Z,7.869,94.167,30,4.4,mb,33,107.6,,1.11,us,usp000dbr8,2014-11-07T01:24:24.022Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T23:31:45.580Z,9.02,92.375,30.2,4.8,mb,58,89,,0.66,us,usp000dbr6,2014-11-07T01:24:24.015Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T23:29:09.240Z,8.874,92.295,29.4,4.4,mb,26,105.7,,0.92,us,usp000dbr5,2014-11-07T01:24:24.012Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-26T23:23:33.140Z,11.789,92.868,21.9,4.4,mb,21,117.3,,1.31,us,usp000dbr4,2014-11-07T01:24:24.010Z,"Andaman Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T23:22:02.490Z,8.318,93.667,30,4.2,mb,20,111.2,,0.76,us,usp000dbr3,2014-11-07T01:24:24.008Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T23:21:49.430Z,8.703,93.323,30,4.2,mb,18,110.6,,0.89,us,usp000dbr2,2014-11-07T01:24:24.005Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T23:18:14.660Z,6.137,93.093,30,3.9,mb,6,190.3,,0.78,us,usp000dbr1,2014-11-07T01:24:24.004Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T23:13:35.340Z,5.217,93.361,25.9,4.3,mb,14,179.8,,0.65,us,usp000dbr0,2014-11-07T01:24:23.981Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T23:11:27.090Z,8.436,93.576,30,4.3,mb,24,93.2,,0.92,us,usp000dbqz,2014-11-07T01:24:23.976Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T23:09:12.450Z,2.607,96.096,30,4.5,mb,15,179.9,,0.79,us,usp000dbqy,2014-11-07T01:24:23.929Z,"Simeulue, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-26T23:04:26.650Z,9.294,91.969,30.7,5.1,mb,92,83.3,,0.76,us,usp000dbqx,2014-11-07T01:24:23.920Z,"Nicobar Islands, India region",earthquake,,,,27,reviewed,us,us
+2004-12-26T22:59:22.690Z,2.922,93.886,26.8,4.5,mb,25,111.2,,0.73,us,usp000dbqw,2014-11-07T01:24:23.917Z,"off the west coast of northern Sumatra",earthquake,,,,10,reviewed,us,us
+2004-12-26T22:57:32.790Z,5.963,92.911,30,4.5,mb,12,183.9,,1.27,us,usp000dbqv,2014-11-07T01:24:23.915Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T22:57:26.640Z,10.161,91.514,29.3,3.9,mb,10,180.7,,0.99,us,usp000dbqu,2014-11-07T01:24:23.914Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T22:51:37.480Z,3.877,94.059,22.7,4.2,mb,11,191.5,,0.57,us,usp000dbqt,2014-11-07T01:24:23.912Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:48:13.660Z,5.569,93.524,30,4.5,mb,18,186.1,,0.56,us,usp000dbqs,2014-11-07T01:24:23.910Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T22:46:11.060Z,8.991,92.51,36.5,4.9,mb,51,90.7,,0.76,us,usp000dbqr,2014-11-07T01:24:23.905Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-26T22:45:04.480Z,12.223,92.697,30,4.3,mb,26,105.3,,0.77,us,usp000dbqq,2014-11-07T01:24:23.902Z,"Andaman Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T22:42:34.640Z,5.9,94.785,30,4.1,mb,16,182.3,,0.93,us,usp000dbqp,2014-11-07T01:24:23.900Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:39:25.830Z,6.961,92.515,30,4.6,mb,19,177.4,,0.86,us,usp000dbqn,2014-11-07T01:24:23.898Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T22:39:20.650Z,8.035,92.317,30,4.6,mb,11,326.9,,0.69,us,usp000dbqm,2014-11-07T01:24:23.897Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:38:08.480Z,3.417,94.856,30,4.5,mb,18,191.4,,0.81,us,usp000dbqk,2014-11-07T01:24:23.895Z,"off the west coast of northern Sumatra",earthquake,,,,5,reviewed,us,us
+2004-12-26T22:34:51.550Z,-4.628,68.914,10,4.8,mb,35,89,,1.03,us,usp000dbqj,2014-11-07T01:24:23.891Z,"Chagos Archipelago region",earthquake,,,,10,reviewed,us,us
+2004-12-26T22:29:41.810Z,5.667,93.028,32.2,4.3,mb,13,184.1,,0.55,us,usp000dbqh,2014-11-07T01:24:23.890Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:27:32.680Z,1.042,96.602,16.5,4,mb,8,214.7,,1.07,us,usp000dbqg,2014-11-07T01:24:23.888Z,"Nias region, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-26T22:25:41.300Z,38.0116667,-118.7161667,5.044,2.76,md,47,65,0.04324,0.07,nc,nc21430299,2018-04-24T21:30:55.275Z,"Central California",earthquake,0.2,0.42,0.18,59,reviewed,nc,nc
+2004-12-26T22:25:09.790Z,-6.334,103.668,30,4.4,mb,16,201.4,,0.79,us,usp000dbqf,2014-11-07T01:24:23.887Z,"southwest of Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:22:05.090Z,8.607,92.144,23.9,4.4,mb,15,175.7,,0.54,us,usp000dbqe,2014-11-07T01:24:23.885Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T22:21:04.650Z,8.875,94.186,30,4.5,mb,30,114.8,,0.68,us,usp000dbqd,2014-11-07T01:24:23.882Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T22:20:36.230Z,5.213,93.348,28.9,4.4,mb,20,184,,0.74,us,usp000dbqc,2014-11-07T01:24:23.879Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T22:19:20.880Z,8.277,92.214,30,4.1,mb,11,203.6,,0.74,us,usp000dbqb,2014-11-07T01:24:23.878Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:17:12.800Z,52.715,-174.268,222.4,4.3,mb,38,87.3,,0.84,us,usp000dbqa,2019-02-13T02:11:23.624Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,4.6,,12,reviewed,us,us
+2004-12-26T22:15:06.470Z,8.125,93.771,30,4.1,mb,8,304.2,,0.81,us,usp000dbq9,2014-11-07T01:24:23.872Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T22:14:04.370Z,5.176,94.267,53.2,4.6,mb,19,183.2,,0.83,us,usp000dbq8,2014-11-07T01:24:23.870Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-26T22:13:20.610Z,7.983,93.897,30,4.1,mb,10,188.3,,0.64,us,usp000dbq7,2014-11-07T01:24:23.868Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T22:08:55.940Z,2.643,95.466,22.6,4.4,mb,14,185.2,,0.77,us,usp000dbq6,2014-11-07T01:24:23.866Z,"Simeulue, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-26T22:06:58.900Z,44.046,11.109,3.7,2.6,md,15,82.5,,,us,usp000dbq5,2014-11-07T01:24:23.864Z,"northern Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-26T21:55:10.900Z,10.731,91.543,30,4.5,mb,8,180.1,,0.82,us,usp000dbq4,2014-11-07T01:24:23.862Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T21:53:29.280Z,7.709,93.726,30,4.4,mb,8,287.2,,0.89,us,usp000dbq3,2014-11-07T01:24:23.860Z,"Nicobar Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-26T21:51:02.420Z,6.828,92.688,30,4.3,mb,13,187.9,,0.47,us,usp000dbq2,2014-11-07T01:24:23.846Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T21:44:38.220Z,7.035,92.556,30,4.8,mb,40,105.1,,0.7,us,usp000dbq1,2014-11-07T01:24:23.842Z,"Nicobar Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-26T21:43:57.760Z,6.494,94.293,30,4.3,mb,16,182.1,,1.59,us,usp000dbq0,2014-11-07T01:24:23.840Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T21:39:35.310Z,12.757,92.538,30,4.2,mb,11,177.2,,0.89,us,usp000dbpz,2014-11-07T01:24:23.839Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T21:36:42.410Z,8.285,92.652,30,4.4,mb,19,180.7,,1.28,us,usp000dbpy,2014-11-07T01:24:23.837Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T21:34:25.560Z,3.659,97.202,30,4.6,mb,18,233,,0.73,us,usp000dbpx,2014-11-07T01:24:23.835Z,"northern Sumatra, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-26T21:34:04.350Z,-10.904,161.96,63.1,4.6,mb,29,92.8,,0.94,us,usp000dbpw,2014-11-07T01:24:23.832Z,"Solomon Islands",earthquake,,30.3,,6,reviewed,us,us
+2004-12-26T21:33:12.380Z,8.808,92.47,30,4.6,mb,32,121.4,,0.74,us,usp000dbpv,2014-11-07T01:24:23.829Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T21:26:08.320Z,13.81,93.196,30,4.6,mb,28,153.3,,1.04,us,usp000dbpu,2014-11-07T01:24:23.826Z,"Andaman Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-26T21:25:43.240Z,4.33,95.071,30,4.8,mb,10,190.5,,0.82,us,usp000dbpt,2014-11-07T01:24:23.825Z,"northern Sumatra, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-26T21:25:33.150Z,4.746,94.85,30,5,mb,33,86.7,,0.94,us,usp000dbps,2014-11-07T01:24:23.822Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T21:21:34.070Z,4.052,92.639,30,4.7,mb,12,190.8,,1.07,us,usp000dbpr,2014-11-07T01:24:23.820Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T21:20:42.310Z,8.581,92.141,30,4.9,mb,45,90.1,,0.65,us,usp000dbpq,2014-11-07T01:24:23.816Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T21:19:55.550Z,8.081,92.09,30,4.4,mb,12,289.5,,0.73,us,usp000dbpp,2014-11-07T01:24:23.814Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T21:19:30.790Z,4.233,97.811,30,4.9,mb,46,88.4,,1.02,us,usp000dbpn,2014-11-07T01:24:23.810Z,"northern Sumatra, Indonesia",earthquake,,,,14,reviewed,us,us
+2004-12-26T21:18:27.800Z,3.968,94.723,30,4.3,mb,13,191,,0.78,us,usp000dbpm,2014-11-07T01:24:23.809Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-26T21:13:44.880Z,39.8128333,-120.7888333,1.529,3.76,ml,27,82,0.08378,0.16,nc,nc21430285,2018-07-09T18:38:15.732Z,"15km SE of East Quincy, California",earthquake,0.37,1.83,,15,reviewed,nc,nc
+2004-12-26T21:11:17.400Z,36.08,27.98,82,3.9,mb,53,124.4,,,us,usp000dbpj,2014-11-07T01:24:23.801Z,"Dodecanese Islands, Greece",earthquake,,,,6,reviewed,ath,us
+2004-12-26T21:06:48.800Z,4.471,96.342,30,5.5,mb,233,41.7,,1.02,us,usp000dbph,2020-01-04T03:35:29.735Z,"northern Sumatra, Indonesia",earthquake,,,,80,reviewed,us,us
+2004-12-26T21:03:45.850Z,5.059,93.543,30,4.5,mb,12,204.9,,0.77,us,usp000dbpg,2014-11-07T01:24:23.716Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T21:02:22.500Z,44.055,11.134,7.4,2.5,ml,15,94.2,,,us,usp000dbpf,2014-11-07T01:24:23.713Z,"northern Italy",earthquake,,,,,reviewed,rom,gen
+2004-12-26T21:01:00.700Z,33.401,138.067,289,4.1,mb,16,126.2,,0.74,us,usp000dbpe,2014-11-07T01:24:23.711Z,"Izu Islands, Japan region",earthquake,,8.5,,4,reviewed,us,us
+2004-12-26T20:59:08.320Z,5.168,93.259,27.9,4.4,mb,17,107,,1.19,us,usp000dbpd,2014-11-07T01:24:23.709Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T20:52:09.346Z,59.9855,-153.5259,166.7,2.5,ml,,,,0.68,ak,ak004gld84bq,2019-02-13T02:11:23.154Z,"Southern Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2004-12-26T20:50:34.770Z,6.318,126.92,127.3,5.5,mwc,120,59.9,,0.8,us,usp000dbpc,2016-11-10T00:56:05.112Z,"Mindanao, Philippines",earthquake,,7.3,,,reviewed,us,hrv
+2004-12-26T20:46:34.480Z,6.08,92.991,34.2,4.7,mb,33,98.9,,0.67,us,usp000dbpb,2014-11-07T01:24:23.695Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T20:43:48.680Z,2.68,94.322,28.7,4.2,mb,27,94.4,,0.7,us,usp000dbpa,2014-11-07T01:24:23.691Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-26T20:40:33.160Z,5.178,93.288,24,4.3,mb,29,97.9,,0.78,us,usp000dbp9,2014-11-07T01:24:23.686Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-26T20:37:09.700Z,12.961,92.361,22.7,4.2,mb,19,161.2,,0.82,us,usp000dbp8,2014-11-07T01:24:23.654Z,"Andaman Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T20:34:37.000Z,7.838,93.846,21.9,4.3,mb,22,102.9,,0.64,us,usp000dbp7,2014-11-07T01:24:23.652Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T20:29:57.820Z,8.936,93.592,35,4.4,mb,19,104,,0.93,us,usp000dbp6,2014-11-07T01:24:23.650Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T20:24:16.750Z,10.245,93.616,30,4.7,mb,20,175.5,,0.73,us,usp000dbp5,2014-11-07T01:24:23.648Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T20:21:28.520Z,5.186,93.25,30,4.6,mb,17,98,,0.68,us,usp000dbp4,2014-11-07T01:24:23.646Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T20:15:16.380Z,2.813,95.729,30,4.5,mb,8,308.5,,0.62,us,usp000dbp3,2014-11-07T01:24:23.645Z,"Simeulue, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-26T20:14:50.130Z,-3.362,101.55,52.2,5,mb,54,67,,1.03,us,usp000dbp2,2014-11-07T01:24:23.639Z,"southern Sumatra, Indonesia",earthquake,,,,13,reviewed,us,us
+2004-12-26T20:11:58.110Z,10.869,92.617,30,4.2,mb,11,194.4,,0.62,us,usp000dbp1,2014-11-07T01:24:23.637Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T20:08:34.600Z,14.469,120.051,58.1,4.8,mb,51,69.1,,0.97,us,usp000dbp0,2014-11-07T01:24:23.633Z,"Luzon, Philippines",earthquake,,,,14,reviewed,us,us
+2004-12-26T20:05:48.860Z,5.212,93.254,26.5,4.2,mb,26,98,,0.66,us,usp000dbnz,2014-11-07T01:24:23.630Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T20:02:25.150Z,7.461,92.667,30,4.4,mb,12,175.9,,0.87,us,usp000dbny,2014-11-07T01:24:23.629Z,"Nicobar Islands, India region",earthquake,,,,3,reviewed,us,us
+2004-12-26T20:01:14.250Z,10.299,93.74,30,4.6,mb,31,101.4,,0.93,us,usp000dbnx,2014-11-07T01:24:23.626Z,"Andaman Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T19:55:52.880Z,4.535,93.486,20.6,4,mb,14,180.3,,0.64,us,usp000dbnw,2014-11-07T01:24:23.624Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T19:55:14.930Z,11.623,92.32,25.9,4.7,mb,49,77.9,,0.93,us,usp000dbnv,2014-11-07T01:24:23.619Z,"Andaman Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T19:51:47.470Z,-20.294,-178.092,529.6,4.1,mb,27,122.7,,1.02,us,usp000dbnu,2014-11-07T01:24:23.617Z,"Fiji region",earthquake,,38.1,,5,reviewed,us,us
+2004-12-26T19:49:28.020Z,8.562,92.542,30,4.4,mb,12,188.8,,0.79,us,usp000dbnt,2014-11-07T01:24:23.615Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T19:43:01.800Z,6.651,92.857,30,4.6,mb,32,102.7,,1.07,us,usp000dbns,2014-11-07T01:24:23.612Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T19:29:47.390Z,12.475,92.602,25.9,4.4,mb,21,108.1,,1.29,us,usp000dbnr,2014-11-07T01:24:23.609Z,"Andaman Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-26T19:19:55.570Z,2.794,94.162,30,6.1,mwc,135,65.9,,1.24,us,usp000dbnq,2016-11-10T00:56:04.607Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-26T19:15:18.320Z,-1.527,138.766,30,5.7,mwc,60,76.5,,0.87,us,usp000dbnp,2020-01-04T03:35:16.255Z,"near the north coast of Papua, Indonesia",earthquake,,0,,,reviewed,us,hrv
+2004-12-26T19:08:53.800Z,37.034,28.471,29.6,3.2,md,4,172.1,,,us,usp000dbnn,2014-11-07T01:24:23.581Z,"western Turkey",earthquake,,,,,reviewed,isk,isk
+2004-12-26T19:03:49.210Z,4.093,94.217,30,5.6,mwc,185,46.4,,0.87,us,usp000dbnm,2016-11-10T00:56:03.598Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-26T19:03:24.170Z,6.154,93.336,29.4,4.4,mb,25,105.5,,0.94,us,usp000dbnk,2014-11-07T01:24:23.562Z,"Nicobar Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-26T18:59:22.830Z,4.829,94.571,43.5,4.6,mb,31,179.2,,1.13,us,usp000dbnj,2014-11-07T01:24:23.559Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-26T18:55:46.100Z,11.98,91.974,30,4.9,mb,35,96.2,,0.81,us,usp000dbnh,2014-11-07T01:24:23.555Z,"Andaman Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-26T18:47:59.460Z,7.735,94.083,47.4,4.7,mb,73,88.3,,0.94,us,usp000dbng,2014-11-07T01:24:23.548Z,"Nicobar Islands, India region",earthquake,,13.2,,26,reviewed,us,us
+2004-12-26T18:42:43.890Z,13.71,92.953,26.2,5.5,mwc,161,51.9,,0.99,us,usp000dbnf,2016-11-10T00:56:03.083Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-26T18:33:55.600Z,9.425,93.658,47.1,5.1,mb,47,87.6,,0.86,us,usp000dbne,2014-11-07T01:24:23.524Z,"Nicobar Islands, India region",earthquake,,12.2,,15,reviewed,us,us
+2004-12-26T18:32:07.920Z,3.837,93.323,26.9,5.1,mb,32,85.2,,1.08,us,usp000dbnd,2014-11-07T01:24:23.520Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T18:31:43.480Z,6.319,93.318,30.3,5.3,mb,118,55,,0.78,us,usp000dbnc,2014-11-07T01:24:23.511Z,"Nicobar Islands, India region",earthquake,,,,54,reviewed,us,us
+2004-12-26T18:29:31.780Z,8.058,92.198,30,5,mb,44,130.3,,1.17,us,usp000dbnb,2014-11-07T01:24:23.507Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T18:16:55.970Z,3.366,94.095,28.3,4.8,mb,25,120.4,,0.98,us,usp000dbna,2014-11-07T01:24:23.505Z,"off the west coast of northern Sumatra",earthquake,,45.1,,9,reviewed,us,us
+2004-12-26T18:14:49.540Z,4.805,94.092,30,4.8,mb,31,89.5,,1.11,us,usp000dbn9,2014-11-07T01:24:23.502Z,"off the west coast of northern Sumatra",earthquake,,0,,10,reviewed,us,us
+2004-12-26T18:10:43.160Z,8.953,94.036,25.5,5,mb,79,87.7,,0.86,us,usp000dbn8,2014-11-07T01:24:23.494Z,"Nicobar Islands, India region",earthquake,,,,32,reviewed,us,us
+2004-12-26T18:01:08.280Z,9.131,93.818,22.8,4.6,mb,20,122.7,,1.08,us,usp000dbn7,2014-11-07T01:24:23.491Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T17:59:11.206Z,51.4036,-177.5703,34,2.5,ml,,,,0.17,ak,ak004glbhbo0,2019-02-13T02:11:22.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2004-12-26T17:59:00.460Z,8.309,93.952,0.8,4.8,mb,47,94.1,,1.16,us,usp000dbn6,2014-11-07T01:24:23.487Z,"Nicobar Islands, India region",earthquake,,41.5,,18,reviewed,us,us
+2004-12-26T17:56:35.840Z,12.861,92.484,45.4,5.1,mb,87,64.5,,0.76,us,usp000dbn5,2014-11-07T01:24:23.463Z,"Andaman Islands, India region",earthquake,,8.7,,29,reviewed,us,us
+2004-12-26T17:52:30.860Z,1.293,126.242,50.4,4.9,mb,38,85.1,,0.91,us,usp000dbn4,2014-11-07T01:24:23.459Z,"Molucca Sea",earthquake,,13.5,,13,reviewed,us,us
+2004-12-26T17:50:12.590Z,13.599,92.852,26.8,5,mb,98,82.5,,0.95,us,usp000dbn3,2014-11-07T01:24:23.450Z,"Andaman Islands, India region",earthquake,,,,30,reviewed,us,us
+2004-12-26T17:44:52.770Z,8.93,93.974,22.8,5.2,mb,127,71.3,,0.82,us,usp000dbn2,2014-11-07T01:24:23.438Z,"Nicobar Islands, India region",earthquake,,,,45,reviewed,us,us
+2004-12-26T17:42:34.810Z,4.731,94.883,30,4.5,mb,28,103.2,,1.07,us,usp000dbn1,2014-11-07T01:24:23.436Z,"off the west coast of northern Sumatra",earthquake,,,,12,reviewed,us,us
+2004-12-26T17:32:23.170Z,2.929,93.48,30,4.6,mb,16,181.6,,0.76,us,usp000dbn0,2014-11-07T01:24:23.433Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T17:30:24.530Z,8.523,93.729,30,4.6,mb,35,99.1,,1.4,us,usp000dbmz,2014-11-07T01:24:23.430Z,"Nicobar Islands, India region",earthquake,,,,10,reviewed,us,us
+2004-12-26T17:24:52.380Z,4.845,93.486,30,4.6,mb,18,184.6,,0.96,us,usp000dbmy,2014-11-07T01:24:23.428Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T17:21:32.410Z,3.604,93.446,30,4.3,mb,13,185.9,,1.15,us,usp000dbmx,2014-11-07T01:24:23.427Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T17:13:00.300Z,3.381,94.326,30,4.6,mb,21,104.3,,0.93,us,usp000dbmw,2014-11-07T01:24:23.424Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-26T17:07:24.400Z,4.074,93.788,23.2,4.6,mb,24,178.8,,0.63,us,usp000dbmv,2014-11-07T01:24:23.421Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T17:07:20.680Z,9.125,93.866,25.6,4.7,mb,38,93.6,,0.99,us,usp000dbmu,2014-11-07T01:24:23.417Z,"Nicobar Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-26T16:55:17.270Z,3.864,94.501,30.7,5.5,mwc,124,50.2,,0.7,us,usp000dbmt,2016-11-10T00:56:02.565Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-26T16:48:24.110Z,7.217,93.027,49.7,4.9,mb,84,44.9,,1,us,usp000dbms,2014-11-07T01:24:23.397Z,"Nicobar Islands, India region",earthquake,,,,25,reviewed,us,us
+2004-12-26T16:47:23.380Z,5.269,94.123,30,4.4,mb,16,188.2,,1.25,us,usp000dbmr,2014-11-07T01:24:23.395Z,"northern Sumatra, Indonesia",earthquake,,,,4,reviewed,us,us
+2004-12-26T16:44:19.830Z,13.632,92.748,22.9,4.4,mb,25,99.8,,0.79,us,usp000dbmq,2014-11-07T01:24:23.392Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T16:43:15.030Z,9.063,92.62,36.2,4.6,mb,18,158.8,,0.79,us,usp000dbmp,2014-11-07T01:24:23.390Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T16:37:47.640Z,9.059,93.45,30,4.6,mb,15,180.2,,0.95,us,usp000dbmn,2014-11-07T01:24:23.388Z,"Nicobar Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T16:37:13.890Z,46.2008333,-122.1851667,-0.983,2.5,md,16,58,,0.12,uw,uw10642693,2016-07-23T03:04:03.110Z,"Mount St. Helens area, Washington",earthquake,0.334,0.25,0.04,8,reviewed,uw,uw
+2004-12-26T16:27:09.130Z,7.864,92.724,30,4.7,mb,26,173.2,,1,us,usp000dbmm,2014-11-07T01:24:23.385Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T16:21:27.410Z,5.149,94.323,41.2,5.4,mb,162,35.9,,0.78,us,usp000dbmk,2014-11-07T01:24:23.371Z,"northern Sumatra, Indonesia",earthquake,,,,62,reviewed,us,us
+2004-12-26T16:13:15.260Z,7.817,94.166,20.2,4.7,mb,20,110.9,,0.99,us,usp000dbmj,2014-11-07T01:24:23.369Z,"Nicobar Islands, India region",earthquake,,,,7,reviewed,us,us
+2004-12-26T16:12:53.010Z,13.937,93.31,4.8,4.8,mb,36,82.1,,1.01,us,usp000dbmh,2014-11-07T01:24:23.365Z,"Andaman Islands, India region",earthquake,,23.6,,10,reviewed,us,us
+2004-12-26T16:10:43.510Z,7.835,94.112,30,4.7,mb,35,112.9,,1.07,us,usp000dbmg,2014-11-07T01:24:23.362Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-26T16:06:22.230Z,4.89,93.279,30,4.6,mb,29,97.7,,1.12,us,usp000dbmf,2014-11-07T01:24:23.359Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-26T15:59:23.390Z,7.236,92.481,33.5,4.4,mb,26,95.2,,1.3,us,usp000dbme,2014-11-07T01:24:23.357Z,"Nicobar Islands, India region",earthquake,,30.5,,5,reviewed,us,us
+2004-12-26T15:56:47.760Z,13.957,93.216,10.3,4.4,mb,31,105.3,,0.95,us,usp000dbmd,2014-11-07T01:24:23.342Z,"Andaman Islands, India region",earthquake,,38.1,,6,reviewed,us,us
+2004-12-26T15:54:20.190Z,10.892,91.789,30,4.1,mb,11,187.6,,1.18,us,usp000dbmc,2014-11-07T01:24:23.340Z,"Andaman Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T15:53:33.300Z,-32.659,-178.007,10,4.9,mb,25,160,,1.19,us,usp000dbmb,2014-11-07T01:24:23.337Z,"south of the Kermadec Islands",earthquake,,0,,6,reviewed,us,us
+2004-12-26T15:50:44.810Z,6.781,93.976,32.2,4.3,mb,10,189.2,,0.68,us,usp000dbma,2014-11-07T01:24:23.335Z,"Nicobar Islands, India region",earthquake,,,,2,reviewed,us,us
+2004-12-26T15:41:57.080Z,11.957,92.167,30,4.4,mb,25,100.1,,1.25,us,usp000dbm9,2014-11-07T01:24:23.333Z,"Andaman Islands, India region",earthquake,,,,5,reviewed,us,us
+2004-12-26T15:41:49.590Z,4.783,95.003,30,4.6,mb,18,95.3,,0.88,us,usp000dbm8,2014-11-07T01:24:23.331Z,"northern Sumatra, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-26T15:38:29.370Z,41.178,20.184,6.7,2.8,md,10,218.5,,,us,usp000dbm7,2014-11-07T01:24:23.329Z,"Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-12-26T15:36:54.020Z,4.125,93.851,39.4,4.9,mb,56,72.3,,0.95,us,usp000dbm6,2014-11-07T01:24:23.324Z,"off the west coast of northern Sumatra",earthquake,,21.3,,15,reviewed,us,us
+2004-12-26T15:35:11.170Z,2.714,94.129,25.8,4.5,mb,16,181.3,,0.94,us,usp000dbm5,2014-11-07T01:24:23.322Z,"off the west coast of northern Sumatra",earthquake,,,,3,reviewed,us,us
+2004-12-26T15:34:59.650Z,4.528,95.253,30,4.4,mb,15,112.9,,0.61,us,usp000dbm4,2014-11-07T01:24:23.320Z,"northern Sumatra, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-26T15:34:27.390Z,7.659,91.681,30,4.3,mb,9,186,,1.18,us,usp000dbm3,2014-11-07T01:24:23.318Z,"Nicobar Islands, India region",earthquake,,,,1,reviewed,us,us
+2004-12-26T15:29:04.990Z,7.376,92.979,30,4.3,mb,21,70.1,,0.99,us,usp000dbm2,2014-11-07T01:24:23.316Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T15:24:08.860Z,7.561,94.228,17,4.9,mb,33,98.7,,0.98,us,usp000dbm1,2014-11-07T01:24:23.313Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T15:23:31.760Z,5.674,92.808,39,4.7,mb,30,98.9,,1.3,us,usp000dbm0,2014-11-07T01:24:23.310Z,"off the west coast of northern Sumatra",earthquake,,14.7,,3,reviewed,us,us
+2004-12-26T15:23:08.000Z,10.568,92.718,30.4,4.6,mb,15,106.2,,1.2,us,usp000dbkz,2014-11-07T01:24:23.308Z,"Andaman Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T15:23:05.330Z,7.442,94.216,17.7,5,mb,38,130.3,,1.05,us,usp000dbky,2014-11-07T01:24:23.304Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T15:19:14.710Z,15.691,-61.681,10,4.5,mb,20,115.7,,0.91,us,usp000dbkx,2014-11-07T01:24:23.302Z,"Dominica region, Leeward Islands",earthquake,,,,3,reviewed,us,us
+2004-12-26T15:13:20.840Z,5.367,93.434,30.9,5.4,mb,32,147.3,,1.08,us,usp000dbkw,2014-11-07T01:24:23.299Z,"off the west coast of northern Sumatra",earthquake,,25.5,,5,reviewed,us,us
+2004-12-26T15:12:21.550Z,6.731,92.982,18.6,5.3,mb,127,34.6,,1.11,us,usp000dbkv,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,19.6,,56,reviewed,us,us
+2004-12-26T15:06:33.240Z,3.651,94.086,17.8,6,mwc,181,37.3,,0.97,us,usp000dbku,2016-11-10T00:56:02.055Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-26T15:02:41.200Z,5.492,93.439,27.1,4.7,mb,55,56.8,,0.99,us,usp000dbkt,2014-11-07T01:24:23.260Z,"off the west coast of northern Sumatra",earthquake,,,,16,reviewed,us,us
+2004-12-26T14:53:15.770Z,19.485,145.37,136.8,5,mb,124,62.1,,0.83,us,usp000dbks,2014-11-07T01:24:23.252Z,"Maug Islands region, Northern Mariana Islands",earthquake,,6.4,,47,reviewed,us,us
+2004-12-26T14:48:44.260Z,13.59,92.91,30,5.7,mwc,364,40.7,,0.82,us,usp000dbkr,2020-04-16T17:34:14.122Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-26T14:47:17.440Z,4.631,95.098,30,4.9,mb,55,53.5,,0.76,us,usp000dbkq,2014-11-07T01:24:23.200Z,"northern Sumatra, Indonesia",earthquake,,,,27,reviewed,us,us
+2004-12-26T14:40:30.410Z,11.465,92.184,30,5.3,mb,88,59.7,,0.72,us,usp000dbkp,2014-11-07T01:24:23.192Z,"Andaman Islands, India region",earthquake,,,,44,reviewed,us,us
+2004-12-26T14:39:07.370Z,8.298,92.357,30,5.1,mb,81,49.7,,0.75,us,usp000dbkn,2014-11-07T01:24:23.185Z,"Nicobar Islands, India region",earthquake,,,,44,reviewed,us,us
+2004-12-26T14:14:18.030Z,13.496,92.923,17.6,5,mb,48,58.9,,0.84,us,usp000dbkm,2014-11-07T01:24:23.181Z,"Andaman Islands, India region",earthquake,,30.2,,21,reviewed,us,us
+2004-12-26T14:11:28.310Z,3.67,94.024,30,5.2,mb,48,84.5,,1.32,us,usp000dbkk,2014-11-07T01:24:23.175Z,"off the west coast of northern Sumatra",earthquake,,,,37,reviewed,us,us
+2004-12-26T14:02:05.020Z,4.805,94.781,30,4.8,mb,23,114.7,,1.1,us,usp000dbkj,2014-11-07T01:24:23.172Z,"off the west coast of northern Sumatra",earthquake,,,,8,reviewed,us,us
+2004-12-26T13:56:40.170Z,2.779,94.467,30,5.9,mwc,169,38.5,,0.9,us,usp000dbkh,2016-11-09T05:26:16.570Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,hrv
+2004-12-26T13:44:08.070Z,3.973,94.392,31.3,5.1,mb,100,53,,0.76,us,usp000dbkg,2014-11-07T01:24:23.139Z,"off the west coast of northern Sumatra",earthquake,,,,33,reviewed,us,us
+2004-12-26T13:39:48.200Z,5.262,93.297,30,4.7,mb,32,87.5,,1.21,us,usp000dbkf,2014-11-07T01:24:23.136Z,"off the west coast of northern Sumatra",earthquake,,,,17,reviewed,us,us
+2004-12-26T13:28:56.520Z,7.715,94.034,19.2,5.2,mb,118,54.7,,0.89,us,usp000dbke,2014-11-07T01:24:23.127Z,"Nicobar Islands, India region",earthquake,,,,45,reviewed,us,us
+2004-12-26T13:16:45.980Z,12.887,92.97,30,4.7,mb,43,116.9,,0.87,us,usp000dbkd,2014-11-07T01:24:23.123Z,"Andaman Islands, India region",earthquake,,,,28,reviewed,us,us
+2004-12-26T13:13:27.140Z,6.137,95.434,30,4.9,mb,24,107.4,,1.15,us,usp000dbkc,2014-11-07T01:24:23.120Z,"Nicobar Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-26T13:10:42.500Z,7.588,94.238,30,4.8,mb,64,51.7,,1.05,us,usp000dbkb,2014-11-07T01:24:23.115Z,"Nicobar Islands, India region",earthquake,,,,29,reviewed,us,us
+2004-12-26T13:04:49.159Z,60.3162,-153.2342,0.2,2.5,ml,,,,0.58,ak,ak004gl8rvsj,2019-02-13T02:11:19.557Z,"Southern Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2004-12-26T12:52:45.760Z,10.428,93.909,30,5.1,mb,33,96.2,,0.93,us,usp000dbka,2014-11-07T01:24:23.111Z,"Andaman Islands, India region",earthquake,,,,19,reviewed,us,us
+2004-12-26T12:51:52.620Z,6.966,92.612,30,4.7,mb,31,111.2,,0.91,us,usp000dbk9,2014-11-07T01:24:23.108Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T12:50:04.800Z,-31.678,-71.742,29.3,3.1,ml,11,225.1,,,us,usp000dbk8,2014-11-07T01:24:23.106Z,"offshore Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-26T12:46:06.370Z,5.399,93.275,25.5,4.9,mb,39,91.3,,0.72,us,usp000dbk7,2014-11-07T01:24:23.103Z,"off the west coast of northern Sumatra",earthquake,,5.1,,15,reviewed,us,us
+2004-12-26T12:40:53.220Z,-5.383,128.735,310.8,4.6,mb,52,46.7,,0.88,us,usp000dbk6,2014-11-07T01:24:23.097Z,"Banda Sea",earthquake,,11.3,,24,reviewed,us,us
+2004-12-26T12:30:59.490Z,3.886,94.44,30,4.9,mb,44,71.8,,0.91,us,usp000dbk5,2014-11-07T01:24:23.093Z,"off the west coast of northern Sumatra",earthquake,,,,22,reviewed,us,us
+2004-12-26T12:27:19.450Z,5.234,94.375,30,4.7,mb,35,69.7,,0.74,us,usp000dbk4,2014-11-07T01:24:23.090Z,"northern Sumatra, Indonesia",earthquake,,,,13,reviewed,us,us
+2004-12-26T12:26:18.230Z,5.521,93.087,30,4.6,mb,17,109.5,,1.13,us,usp000dbk3,2014-11-07T01:24:23.087Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T12:11:57.660Z,11.57,92.41,25.5,5.4,mb,109,57.8,,0.79,us,usp000dbk2,2014-11-07T01:24:23.077Z,"Andaman Islands, India region",earthquake,,,,44,reviewed,us,us
+2004-12-26T12:09:42.460Z,12.188,92.6,20.6,5.4,mb,132,29.7,,0.82,us,usp000dbk1,2014-11-07T01:24:23.066Z,"Andaman Islands, India region",earthquake,,,,52,reviewed,us,us
+2004-12-26T11:50:28.090Z,6.388,93.254,61.3,5.2,mb,104,71,,0.85,us,usp000dbk0,2014-11-07T01:24:23.058Z,"Nicobar Islands, India region",earthquake,,,,41,reviewed,us,us
+2004-12-26T11:34:20.020Z,5.277,94.365,30,4.8,mb,26,119.5,,0.95,us,usp000dbjz,2014-11-07T01:24:23.055Z,"northern Sumatra, Indonesia",earthquake,,,,14,reviewed,us,us
+2004-12-26T11:26:44.360Z,-3.458,101.387,30,4.9,mb,45,73.6,,0.81,us,usp000dbjy,2014-11-07T01:24:23.051Z,"southern Sumatra, Indonesia",earthquake,,,,23,reviewed,us,us
+2004-12-26T11:17:08.520Z,3.249,93.754,30,5.2,mb,43,111,,0.82,us,usp000dbjx,2014-11-07T01:24:23.047Z,"off the west coast of northern Sumatra",earthquake,,,,20,reviewed,us,us
+2004-12-26T11:13:22.550Z,40.6421667,-124.1915,19.057,2.91,md,18,252,0.3559,0.06,nc,nc21430181,2017-01-10T00:37:28.877Z,"Northern California",earthquake,1.27,0.65,0.08,14,reviewed,nc,nc
+2004-12-26T11:05:00.720Z,13.533,92.84,13.3,6.2,mwc,462,26.8,,0.89,us,usp000dbjw,2020-04-16T17:34:17.669Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-26T11:03:53.290Z,11.097,93.949,30,4.8,mb,27,102.3,,1.08,us,usp000dbjv,2014-11-07T01:24:23.002Z,"Andaman Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T10:57:38.360Z,12.448,92.439,5,5.4,mb,71,60.1,,0.79,us,usp000dbju,2014-11-07T01:24:22.996Z,"Andaman Islands, India region",earthquake,,17,,35,reviewed,us,us
+2004-12-26T10:56:26.300Z,34.87,25.32,15,3.7,md,13,148.8,,,us,usp000dbjt,2014-11-07T01:24:22.994Z,"Crete, Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-26T10:56:02.590Z,10.07,93.834,30,5.5,mb,29,96.6,,1.2,us,usp000dbjs,2014-11-07T01:24:22.991Z,"Andaman Islands, India region",earthquake,,,,21,reviewed,us,us
+2004-12-26T10:55:07.500Z,4.259,95.13,30,5.2,mb,31,140.2,,0.67,us,usp000dbjr,2014-11-07T01:24:22.987Z,"northern Sumatra, Indonesia",earthquake,,,,16,reviewed,us,us
+2004-12-26T10:53:58.420Z,10.19,93.677,30,5.3,mb,34,85.7,,0.79,us,usp000dbjq,2014-11-07T01:24:22.984Z,"Andaman Islands, India region",earthquake,,,,17,reviewed,us,us
+2004-12-26T10:51:19.820Z,7.633,92.314,30,5.5,mb,115,75.8,,1.35,us,usp000dbjp,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,46,reviewed,us,us
+2004-12-26T10:43:29.950Z,6.531,92.83,36.4,5.4,mb,126,49.6,,0.87,us,usp000dbjn,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,36,reviewed,us,us
+2004-12-26T10:40:28.220Z,41.206,20.154,5.3,3,md,10,214.1,,,us,usp000dbjm,2014-11-07T01:24:22.945Z,"Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-12-26T10:33:05.160Z,8.7,92.62,39.8,5.4,mb,129,49.8,,0.85,us,usp000dbjk,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,10.3,,61,reviewed,us,us
+2004-12-26T10:29:49.000Z,5.17,93.476,46.8,5.3,mb,63,57.2,,1.19,us,usp000dbjj,2014-11-07T01:24:22.929Z,"off the west coast of northern Sumatra",earthquake,,12.6,,34,reviewed,us,us
+2004-12-26T10:26:18.790Z,53.47,-163.482,14.1,2.8,ml,10,260.3,,,us,usp000dbjh,2019-02-13T02:11:31.009Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-26T10:19:31.730Z,13.462,92.738,26.4,6.3,mwc,389,43.2,,0.86,us,usp000dbjg,2020-04-16T17:34:20.996Z,"Andaman Islands, India region",earthquake,,,,,reviewed,us,hrv
+2004-12-26T10:18:13.790Z,8.857,93.738,30,5.5,mb,121,50.7,,1.06,us,usp000dbjf,2016-11-10T00:55:59.979Z,"Nicobar Islands, India region",earthquake,,,,52,reviewed,us,us
+2004-12-26T10:17:39.060Z,38.01,-118.7095,4.444,2.73,md,44,66,0.04234,0.08,nc,nc21430162,2018-04-24T21:30:51.820Z,"Central California",earthquake,0.23,0.61,0.16,62,reviewed,nc,nc
+2004-12-26T10:12:10.150Z,10.253,94.305,30,5.1,mb,27,100.3,,1.22,us,usp000dbje,2014-11-07T01:24:22.884Z,"Andaman Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-26T10:02:07.760Z,7.652,92.787,31.1,4.8,mb,30,100.3,,1.01,us,usp000dbjc,2014-11-07T01:24:22.879Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T09:58:47.130Z,9.257,93.675,23.3,4.6,mb,30,106.9,,0.95,us,usp000dbjb,2014-11-07T01:24:22.875Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T09:55:12.070Z,7.59,94.298,19.8,4.6,mb,26,111.6,,0.99,us,usp000dbja,2014-11-07T01:24:22.872Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T09:48:09.570Z,6.12,95.065,30,4.7,mb,27,108,,1.22,us,usp000dbj9,2014-11-07T01:24:22.869Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T09:44:20.360Z,5.728,93.103,36.3,5.2,mb,73,63.8,,0.86,us,usp000dbj8,2014-11-07T01:24:22.863Z,"off the west coast of northern Sumatra",earthquake,,,,27,reviewed,us,us
+2004-12-26T09:43:19.380Z,5.527,93.138,30,5.1,mb,52,106.1,,0.93,us,usp000dbj7,2014-11-07T01:24:22.859Z,"off the west coast of northern Sumatra",earthquake,,,,11,reviewed,us,us
+2004-12-26T09:39:02.790Z,3.606,95.385,30,4.5,mb,22,173.4,,0.48,us,usp000dbj6,2014-11-07T01:24:22.857Z,"off the west coast of northern Sumatra",earthquake,,,,4,reviewed,us,us
+2004-12-26T09:38:39.350Z,8.964,92.327,30,4.9,mb,75,89,,0.63,us,usp000dbj5,2014-11-07T01:24:22.851Z,"Nicobar Islands, India region",earthquake,,,,24,reviewed,us,us
+2004-12-26T09:36:39.270Z,9.351,91.861,30,4.6,mb,20,115.2,,1.02,us,usp000dbj4,2014-11-07T01:24:22.849Z,"Nicobar Islands, India region",earthquake,,,,4,reviewed,us,us
+2004-12-26T09:30:55.800Z,7.178,93.756,30,5.4,mb,61,101.8,,1.03,us,usp000dbj3,2014-11-07T01:24:22.827Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T09:30:29.540Z,7.386,93.994,13.8,4.9,mb,37,104.5,,0.88,us,usp000dbj2,2014-11-07T01:24:22.822Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-26T09:20:01.610Z,8.879,92.375,16.1,6.6,mwc,353,31.9,,1.07,us,usp000dbj1,2020-04-16T17:34:24.361Z,"Nicobar Islands, India region",earthquake,,16.7,,,reviewed,us,hrv
+2004-12-26T09:17:51.190Z,7.061,94.387,21.3,5,mb,41,104.6,,1.13,us,usp000dbj0,2014-11-07T01:24:22.778Z,"Nicobar Islands, India region",earthquake,,,,19,reviewed,us,us
+2004-12-26T09:13:54.710Z,7.309,92.186,33.3,5.2,mb,52,72.5,,1.07,us,usp000dbhz,2014-11-07T01:24:22.774Z,"Nicobar Islands, India region",earthquake,,,,12,reviewed,us,us
+2004-12-26T09:07:38.950Z,3.423,94.336,25.4,4.9,mb,35,110.7,,1.31,us,usp000dbhy,2014-11-07T01:24:22.771Z,"off the west coast of northern Sumatra",earthquake,,45.2,,10,reviewed,us,us
+2004-12-26T09:02:42.550Z,8.29,93.982,26.1,4.9,mb,68,59.2,,0.83,us,usp000dbhx,2014-11-07T01:24:22.764Z,"Nicobar Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-26T08:47:46.720Z,4.855,95.101,50.8,5.3,mb,142,41.9,,0.75,us,usp000dbhw,2014-11-07T01:24:22.753Z,"northern Sumatra, Indonesia",earthquake,,10,,56,reviewed,us,us
+2004-12-26T08:41:48.850Z,8.895,93.479,25.5,5.2,mb,58,89.5,,1.01,us,usp000dbhv,2014-11-07T01:24:22.747Z,"Nicobar Islands, India region",earthquake,,,,17,reviewed,us,us
+2004-12-26T08:14:59.090Z,6.792,94.536,30,4.8,mb,24,232.8,,0.98,us,usp000dbhu,2014-11-07T01:24:22.745Z,"Nicobar Islands, India region",earthquake,,,,8,reviewed,us,us
+2004-12-26T08:12:58.800Z,-33.631,-72.62,39.4,3.5,md,14,287.1,,,us,usp000dbht,2014-11-07T01:24:22.742Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-26T08:12:38.700Z,9.264,93.843,36.3,4.8,mb,23,106.8,,0.87,us,usp000dbhs,2014-11-07T01:24:22.738Z,"Nicobar Islands, India region",earthquake,,22.5,,12,reviewed,us,us
+2004-12-26T08:05:40.000Z,36.19,27.26,14,4.6,mb,34,54.2,,,us,usp000dbhr,2014-11-07T01:24:22.708Z,"Dodecanese Islands, Greece",earthquake,,,,1,reviewed,ath,us
+2004-12-26T08:02:34.620Z,5.345,94.476,34.6,5.1,mb,78,59.6,,0.65,us,usp000dbhq,2014-11-07T01:24:22.688Z,"northern Sumatra, Indonesia",earthquake,,,,26,reviewed,us,us
+2004-12-26T07:59:37.720Z,3.231,93.913,31.6,5.3,mb,55,80.3,,0.92,us,usp000dbhp,2014-11-07T01:24:22.683Z,"off the west coast of northern Sumatra",earthquake,,34.7,,16,reviewed,us,us
+2004-12-26T07:58:32.960Z,35.065,-3.049,7.9,3.7,m,11,278.6,,,us,usp000dbhn,2014-11-07T01:24:22.681Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-12-26T07:55:27.130Z,7.478,92.362,30,5.3,mb,84,58.5,,0.95,us,usp000dbhm,2014-11-07T01:24:22.674Z,"Nicobar Islands, India region",earthquake,,,,27,reviewed,us,us
+2004-12-26T07:52:28.800Z,8.128,94.066,17.8,5.5,mb,153,59.2,,0.98,us,usp000dbhk,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,68,reviewed,us,us
+2004-12-26T07:51:17.000Z,7.808,93.428,25,6,mw,,,,,iscgem,iscgem7453859,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+2004-12-26T07:38:27.000Z,13.13,93.035,30,5.7,mb,340,26.2,,0.9,us,usp000dbhj,2020-04-16T17:34:27.744Z,"Andaman Islands, India region",earthquake,,,,120,reviewed,us,us
+2004-12-26T07:30:16.920Z,24.851,101.691,66.2,4.7,mb,22,81.5,,0.8,us,usp000dbhh,2014-11-07T01:24:22.635Z,"Yunnan, China",earthquake,,10.4,,5,reviewed,us,us
+2004-12-26T07:24:53.050Z,7.422,92.637,34.6,5.1,mb,89,50.3,,0.89,us,usp000dbhg,2014-11-07T01:24:22.616Z,"Nicobar Islands, India region",earthquake,,15.4,,30,reviewed,us,us
+2004-12-26T07:23:38.810Z,5.437,94.413,30,4.7,mb,33,105.7,,0.92,us,usp000dbhf,2014-11-07T01:24:22.612Z,"northern Sumatra, Indonesia",earthquake,,,,12,reviewed,us,us
+2004-12-26T07:22:07.890Z,-21.374,-178.917,544,4.6,mb,39,118.9,,1.16,us,usp000dbhe,2014-11-07T01:24:22.608Z,"Fiji region",earthquake,,14.4,,6,reviewed,us,us
+2004-12-26T07:11:40.390Z,4.808,94.971,35.4,5.2,mb,45,66.1,,0.82,us,usp000dbhd,2014-11-07T01:24:22.604Z,"off the west coast of northern Sumatra",earthquake,,32.5,,13,reviewed,us,us
+2004-12-26T07:07:10.270Z,10.363,93.747,19.5,5.6,mb,140,50,,1.02,us,usp000dbhc,2014-11-07T01:24:22.591Z,"Andaman Islands, India region",earthquake,,,,47,reviewed,us,us
+2004-12-26T06:59:57.260Z,9.362,93.701,30,5.4,mb,159,30.5,,0.9,us,usp000dbhb,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,74,reviewed,us,us
+2004-12-26T06:56:47.400Z,10.984,92.282,23.5,5.5,mb,74,61.4,,0.96,us,usp000dbha,2015-05-13T18:53:48.000Z,"Andaman Islands, India region",earthquake,,,,17,reviewed,us,us
+2004-12-26T06:41:33.660Z,53.051,-166.806,25,2.9,ml,8,227.2,,,us,usp000dbh9,2019-02-13T02:11:16.946Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-26T06:40:33.003Z,37.9686,-118.6209,0,2.7,ml,5,216.89,0.075,0.0454,nn,nn00122358,2018-04-24T21:30:53.264Z,"Central California",earthquake,,0,,,reviewed,nn,nn
+2004-12-26T06:38:36.050Z,6.651,92.963,16.9,5.4,mb,137,41.6,,0.84,us,usp000dbh8,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,18.9,,44,reviewed,us,us
+2004-12-26T06:30:18.770Z,34.114,-5.631,0,3.8,m,11,293.3,,,us,usp000dbh7,2014-11-07T01:24:22.557Z,"Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-26T06:28:48.400Z,4.957,94.795,30,5.4,mb,103,66.4,,0.77,us,usp000dbh6,2014-11-07T01:24:22.541Z,"off the west coast of northern Sumatra",earthquake,,,,44,reviewed,us,us
+2004-12-26T06:28:09.400Z,-31.293,-68.936,161,3.9,md,15,233,,,us,usp000dbh5,2014-11-07T01:24:22.538Z,"San Juan, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-26T06:22:35.250Z,5.34,93.069,23.2,5.1,mb,34,82,,1.11,us,usp000dbh4,2014-11-07T01:24:22.533Z,"off the west coast of northern Sumatra",earthquake,,,,12,reviewed,us,us
+2004-12-26T06:22:00.420Z,10.677,92.325,26.4,5.4,mb,178,43.5,,0.85,us,usp000dbh3,2015-05-13T18:53:48.000Z,"Andaman Islands, India region",earthquake,,,,65,reviewed,us,us
+2004-12-26T06:16:14.680Z,5.843,93.357,26.7,4.9,mb,50,51.5,,0.82,us,usp000dbh2,2014-11-07T01:24:22.502Z,"off the west coast of northern Sumatra",earthquake,,,,12,reviewed,us,us
+2004-12-26T06:11:04.600Z,9.308,93.912,23.8,5.1,mb,65,69.3,,0.67,us,usp000dbh1,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,22,reviewed,us,us
+2004-12-26T06:09:30.840Z,6.335,93.198,29.6,4.8,mb,60,55.2,,0.75,us,usp000dbh0,2014-11-07T01:24:22.489Z,"Nicobar Islands, India region",earthquake,,,,14,reviewed,us,us
+2004-12-26T06:05:20.100Z,19.546,-155.0675,26.255,3.41,ml,32,132,,0.1,hv,hv5411420,2020-03-31T16:08:43.590Z,"Hawaii region, Hawaii",earthquake,0.6,1.13,0.12,4,reviewed,hv,hv
+2004-12-26T06:02:28.380Z,8.273,94.057,23.7,5.7,mb,216,51.3,,1.04,us,usp000dbgy,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,70,reviewed,us,us
+2004-12-26T05:55:49.400Z,3.169,93.937,23.2,5.1,mb,82,52.8,,1.04,us,usp000dbgx,2014-11-07T01:24:22.458Z,"off the west coast of northern Sumatra",earthquake,,,,36,reviewed,us,us
+2004-12-26T05:51:40.010Z,6.451,93.428,29,5.2,mb,110,51.4,,0.81,us,usp000dbgw,2014-11-07T01:24:22.419Z,"Nicobar Islands, India region",earthquake,,,,42,reviewed,us,us
+2004-12-26T05:48:54.000Z,49,-129.68,10,4.5,mb,50,171.4,,,us,usp000dbgv,2014-11-07T01:24:22.415Z,"Vancouver Island, Canada region",earthquake,,,,7,reviewed,pgc,us
+2004-12-26T05:42:49.270Z,5.485,94.294,30,5.1,mb,77,59.5,,0.7,us,usp000dbgu,2014-11-07T01:24:22.409Z,"northern Sumatra, Indonesia",earthquake,,,,29,reviewed,us,us
+2004-12-26T05:32:16.280Z,-20.076,-177.723,319.5,4.1,mb,10,159.3,,1.11,us,usp000dbgt,2014-11-07T01:24:22.408Z,"Fiji region",earthquake,,53.3,,1,reviewed,us,us
+2004-12-26T05:23:50.800Z,3.348,94.092,18.7,5.2,mb,31,134.8,,1.08,us,usp000dbgs,2014-11-07T01:24:22.404Z,"off the west coast of northern Sumatra",earthquake,,,,10,reviewed,us,us
+2004-12-26T05:21:35.170Z,-5.712,152.391,66.6,5.3,mb,37,61.4,,0.99,us,usp000dbgr,2014-11-07T01:24:22.400Z,"New Britain region, Papua New Guinea",earthquake,,17.1,,9,reviewed,us,us
+2004-12-26T05:20:27.920Z,12.159,92.397,31.7,5.3,mb,55,48.3,,1.02,us,usp000dbgq,2014-11-07T01:24:22.395Z,"Andaman Islands, India region",earthquake,,30.6,,16,reviewed,us,us
+2004-12-26T05:16:10.980Z,9.318,94.039,22,5.4,mb,109,81.5,,0.92,us,usp000dbgp,2014-11-07T01:24:22.381Z,"Nicobar Islands, India region",earthquake,,,,51,reviewed,us,us
+2004-12-26T05:12:34.140Z,8.46,92.281,36.5,5.1,mb,39,129.9,,1.05,us,usp000dbgn,2014-11-07T01:24:22.376Z,"Nicobar Islands, India region",earthquake,,48.9,,17,reviewed,us,us
+2004-12-26T05:09:32.500Z,9.156,93.891,26.9,5.2,mb,83,77.5,,0.98,us,usp000dbgm,2014-11-07T01:24:22.368Z,"Nicobar Islands, India region",earthquake,,,,24,reviewed,us,us
+2004-12-26T05:08:04.830Z,9.031,92.462,30,5,mb,75,58,,0.67,us,usp000dbgk,2014-11-07T01:24:22.362Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T05:01:21.370Z,9.456,92.175,30,5.4,mb,55,75.9,,1.07,us,usp000dbgh,2014-11-07T01:24:22.356Z,"Nicobar Islands, India region",earthquake,,,,21,reviewed,us,us
+2004-12-26T05:01:10.560Z,9.296,92.212,30,5.3,mb,55,40.6,,0.86,us,usp000dbgg,2014-11-07T01:24:22.352Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T04:59:15.400Z,8.966,93.427,25.1,5.2,mb,31,113.9,,0.93,us,usp000dbgf,2014-11-07T01:24:22.348Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-26T04:58:04.020Z,11.068,92,29.2,5.3,mb,79,48.1,,0.9,us,usp000dbge,2014-11-07T01:24:22.341Z,"Andaman Islands, India region",earthquake,,,,30,reviewed,us,us
+2004-12-26T04:53:09.100Z,8.185,92.93,30,4.9,mb,36,171.5,,1.08,us,usp000dbgd,2014-11-07T01:24:22.338Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-26T04:48:56.490Z,8.867,93.751,27.7,5.2,mb,56,84.7,,0.7,us,usp000dbgc,2014-11-07T01:24:22.333Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T04:47:15.670Z,51.569,-178.418,1,2.9,ml,8,352.9,,,us,usp000dbgb,2019-02-13T02:11:16.556Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-26T04:46:23.440Z,8.532,93.88,32.6,5.4,mb,121,75.4,,1.11,us,usp000dbga,2014-11-07T01:24:22.321Z,"Nicobar Islands, India region",earthquake,,,,43,reviewed,us,us
+2004-12-26T04:40:11.460Z,9.123,93.843,38.1,5.2,mb,69,66.5,,0.81,us,usp000dbg9,2014-11-07T01:24:22.316Z,"Nicobar Islands, India region",earthquake,,21.2,,27,reviewed,us,us
+2004-12-26T04:31:29.060Z,6.992,93.175,36.1,5,mb,44,123.1,,0.69,us,usp000dbg8,2014-11-07T01:24:22.311Z,"Nicobar Islands, India region",earthquake,,,,15,reviewed,us,us
+2004-12-26T04:26:03.630Z,7.888,93.991,30,5.2,mb,47,130.6,,1.15,us,usp000dbg7,2014-11-07T01:24:22.307Z,"Nicobar Islands, India region",earthquake,,,,18,reviewed,us,us
+2004-12-26T04:21:29.810Z,6.91,92.958,39.2,7.2,mwc,385,27.9,,1,us,usp000dbg6,2020-04-17T23:59:23.763Z,"Nicobar Islands, India region",earthquake,,7.6,,,reviewed,us,hrv
+2004-12-26T04:19:13.174Z,37.9632,-118.6608,7.9,2.8,ml,15,57.44,0.043,0.0897,nn,nn00122341,2018-04-24T21:30:52.846Z,"Central California",earthquake,,1.2,,,reviewed,nn,nn
+2004-12-26T04:17:56.810Z,8.962,93.722,30,5.3,mb,141,50.6,,0.96,us,usp000dbg5,2014-11-07T01:24:22.259Z,"Nicobar Islands, India region",earthquake,,,,60,reviewed,us,us
+2004-12-26T04:12:35.650Z,6.438,93.234,3.3,4.8,mb,33,87.4,,1.1,us,usp000dbg4,2014-11-07T01:24:22.256Z,"Nicobar Islands, India region",earthquake,,47.2,,10,reviewed,us,us
+2004-12-26T04:10:12.710Z,5.482,92.918,36.4,5.4,mb,133,40.9,,0.82,us,usp000dbg3,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,8.2,,52,reviewed,us,us
+2004-12-26T04:09:08.400Z,8.158,93.819,30,4.9,mb,31,85.1,,1.28,us,usp000dbg2,2014-11-07T01:24:22.212Z,"Nicobar Islands, India region",earthquake,,,,6,reviewed,us,us
+2004-12-26T04:02:55.730Z,4.983,94.72,47.9,5.8,mb,229,36.5,,0.88,us,usp000dbg1,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,,,68,reviewed,us,us
+2004-12-26T04:02:12.520Z,3.044,95.89,30,5.4,mb,38,96,,1.24,us,usp000dbg0,2014-11-07T01:24:22.158Z,"off the west coast of northern Sumatra",earthquake,,,,13,reviewed,us,us
+2004-12-26T04:00:58.430Z,6.789,94.082,29.4,5.5,mb,70,51.9,,1.08,us,usp000dbfz,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,35,reviewed,us,us
+2004-12-26T04:00:42.830Z,4.755,93.789,16.9,5.2,mb,123,85.6,,0.86,us,usp000dbfy,2014-11-07T01:24:22.140Z,"off the west coast of northern Sumatra",earthquake,,,,47,reviewed,us,us
+2004-12-26T03:57:59.500Z,37.9555,-118.6731667,-0.187,2.55,md,15,198,0.1315,0.1,nc,nc30506661,2018-04-24T21:30:56.562Z,"Central California",earthquake,0.92,8.38,0.14,12,automatic,nc,nc
+2004-12-26T03:56:28.210Z,37.9655,-118.6598333,5.795,3.92,ml,49,68,0.04414,0.08,nc,nc21430088,2018-04-24T21:30:57.675Z,"44km NE of Mammoth Lakes, California",earthquake,0.21,0.68,,19,reviewed,nc,nc
+2004-12-26T03:54:44.770Z,6.478,92.886,30,5.1,mb,35,50.9,,1.27,us,usp000dbfw,2014-11-07T01:24:22.131Z,"Nicobar Islands, India region",earthquake,,,,11,reviewed,us,us
+2004-12-26T03:51:12.360Z,5.049,94.771,30,5.7,mb,146,109.4,,0.7,us,usp000dbfv,2015-05-13T18:53:48.000Z,"northern Sumatra, Indonesia",earthquake,,,,60,reviewed,us,us
+2004-12-26T03:50:49.050Z,54.092,-161.045,45.9,2.9,ml,10,287.5,,,us,usp000dbfu,2019-02-13T02:11:26.177Z,"Alaska Peninsula",earthquake,,,,,reviewed,aeic,aeic
+2004-12-26T03:50:22.180Z,5.51,94.248,48.9,5.3,mb,140,43.8,,0.84,us,usp000dbft,2014-11-07T01:24:22.082Z,"northern Sumatra, Indonesia",earthquake,,,,53,reviewed,us,us
+2004-12-26T03:47:01.467Z,63.5205,-150.8338,13.2,2.5,ml,,,,0.82,ak,ak004gl32nuq,2019-02-13T02:11:15.663Z,"Central Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2004-12-26T03:46:42.040Z,6.722,93.33,46.9,5,mb,74,49.3,,0.73,us,usp000dbfr,2014-11-07T01:24:22.075Z,"Nicobar Islands, India region",earthquake,,,,25,reviewed,us,us
+2004-12-26T03:44:08.340Z,13.465,92.736,22.2,5.2,mb,47,48.9,,1,us,usp000dbfq,2014-11-07T01:24:22.070Z,"Andaman Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-26T03:40:15.640Z,5.532,94.334,30,5.6,mb,182,35.5,,0.79,us,usp000dbfp,2015-05-13T18:53:48.000Z,"northern Sumatra, Indonesia",earthquake,,,,59,reviewed,us,us
+2004-12-26T03:30:01.380Z,4.64,93.997,25.1,5.2,mb,29,72.8,,1,us,usp000dbfn,2014-11-07T01:24:22.054Z,"off the west coast of northern Sumatra",earthquake,,,,7,reviewed,us,us
+2004-12-26T03:29:40.550Z,53.506,-163.583,34.7,4.1,ml,33,200.8,,,us,usp000dbfm,2019-02-13T02:11:15.233Z,"Unimak Island region, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-26T03:26:45.790Z,4.909,96.405,30,5.3,mb,14,132.2,,1.14,us,usp000dbfk,2014-11-07T01:24:22.049Z,"northern Sumatra, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-12-26T03:24:54.940Z,4.473,94.068,26.3,5.8,mb,223,28.6,,0.8,us,usp000dbfj,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,10.9,,72,reviewed,us,us
+2004-12-26T03:22:57.480Z,5.819,95.092,20.6,5.4,mb,40,92.2,,1.41,us,usp000dbfh,2014-11-07T01:24:22.017Z,"northern Sumatra, Indonesia",earthquake,,,,11,reviewed,us,us
+2004-12-26T03:19:13.050Z,3.548,94.289,30,5.5,mb,99,65.8,,0.97,us,usp000dbfg,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,,,30,reviewed,us,us
+2004-12-26T03:17:52.380Z,7.21,92.924,30,5.6,mb,98,35.5,,1.25,us,usp000dbff,2014-11-07T01:24:22.001Z,"Nicobar Islands, India region",earthquake,,,,32,reviewed,us,us
+2004-12-26T03:14:13.840Z,7.439,94.264,30,5.4,mb,111,67.9,,1.19,us,usp000dbfe,2014-11-07T01:24:21.992Z,"Nicobar Islands, India region",earthquake,,,,46,reviewed,us,us
+2004-12-26T03:09:34.080Z,4.054,93.526,30,5.4,mb,14,212.3,,0.82,us,usp000dbfd,2014-11-07T01:24:21.990Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T03:08:44.210Z,13.745,93.009,30,5.9,mb,289,64,,0.87,us,usp000dbfc,2020-04-16T17:34:34.458Z,"Andaman Islands, India region",earthquake,,,,97,reviewed,us,us
+2004-12-26T03:06:13.050Z,8.192,92.456,27.1,5.1,mb,75,58,,0.93,us,usp000dbfb,2014-11-07T01:24:21.962Z,"Nicobar Islands, India region",earthquake,,,,20,reviewed,us,us
+2004-12-26T03:02:38.080Z,8.615,92.326,30,5.5,mb,114,74.3,,1.14,us,usp000dbfa,2014-11-07T01:24:21.953Z,"Nicobar Islands, India region",earthquake,,,,28,reviewed,us,us
+2004-12-26T02:59:14.390Z,3.183,94.377,30,5.7,mb,211,53.2,,0.91,us,usp000dbf9,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,,,70,reviewed,us,us
+2004-12-26T02:56:40.370Z,8.606,92.285,30,4.9,mb,43,89.3,,0.95,us,usp000dbf8,2014-11-07T01:24:21.934Z,"Nicobar Islands, India region",earthquake,,,,13,reviewed,us,us
+2004-12-26T02:53:13.040Z,0.056,97.041,30,5.4,mb,23,109.5,,1.54,us,usp000dbf7,2014-11-07T01:24:21.931Z,"Nias region, Indonesia",earthquake,,,,12,reviewed,us,us
+2004-12-26T02:52:01.830Z,12.504,92.604,30,5.8,mb,244,47.8,,1.18,us,usp000dbf6,2020-04-16T17:34:37.790Z,"Andaman Islands, India region",earthquake,,,,94,reviewed,us,us
+2004-12-26T02:46:20.740Z,4.235,93.607,30,5.7,mb,62,80.3,,0.94,us,usp000dbf5,2014-11-07T01:24:21.895Z,"off the west coast of northern Sumatra",earthquake,,,,14,reviewed,us,us
+2004-12-26T02:45:17.650Z,8.463,92.607,30,5.2,mb,96,49.9,,0.76,us,usp000dbf4,2014-11-07T01:24:21.888Z,"Nicobar Islands, India region",earthquake,,,,36,reviewed,us,us
+2004-12-26T02:43:05.260Z,9.22,94.005,30,4.9,mb,45,87.5,,0.95,us,usp000dbf3,2014-11-07T01:24:21.884Z,"Nicobar Islands, India region",earthquake,,,,19,reviewed,us,us
+2004-12-26T02:40:59.850Z,7.484,92.432,30,5.4,mb,76,130.9,,0.87,us,usp000dbf2,2014-11-07T01:24:21.878Z,"Nicobar Islands, India region",earthquake,,,,22,reviewed,us,us
+2004-12-26T02:38:09.350Z,8.493,92.353,33.2,5.6,mb,74,112.4,,0.78,us,usp000dbf1,2014-11-07T01:24:21.871Z,"Nicobar Islands, India region",earthquake,,,,23,reviewed,us,us
+2004-12-26T02:36:10.090Z,12.183,92.936,38.5,5.8,mb,249,26.4,,0.92,us,usp000dbf0,2020-04-16T17:34:41.270Z,"Andaman Islands, India region",earthquake,,8.7,,68,reviewed,us,us
+2004-12-26T02:34:52.150Z,3.99,94.139,30,5.7,mb,230,52.8,,0.79,us,usp000dbez,2015-05-13T18:53:48.000Z,"off the west coast of northern Sumatra",earthquake,,,,61,reviewed,us,us
+2004-12-26T02:30:28.940Z,6.717,93.077,15.4,5.1,mb,39,105.2,,0.77,us,usp000dbey,2014-11-07T01:24:21.834Z,"Nicobar Islands, India region",earthquake,,32.1,,9,reviewed,us,us
+2004-12-26T02:22:01.840Z,8.868,92.467,15.5,5.7,mb,238,58,,0.79,us,usp000dbex,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,79,reviewed,us,us
+2004-12-26T02:15:59.780Z,12.321,92.499,26.8,5.7,mb,145,43.1,,0.93,us,usp000dbew,2020-04-16T17:34:44.599Z,"Andaman Islands, India region",earthquake,,,,58,reviewed,us,us
+2004-12-26T02:15:49.500Z,12.258,92.275,20.3,5.3,mb,40,93.6,,1.48,us,usp000dbev,2014-11-07T01:24:21.801Z,"Andaman Islands, India region",earthquake,,,,35,reviewed,us,us
+2004-12-26T02:15:23.570Z,6.17,93.473,30,5.6,mb,60,74.7,,0.83,us,usp000dbeu,2014-11-07T01:24:21.795Z,"Nicobar Islands, India region",earthquake,,,,16,reviewed,us,us
+2004-12-26T02:00:40.030Z,6.848,94.667,30,6,mb,264,57.3,,1.29,us,usp000dbet,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,93,reviewed,us,us
+2004-12-26T01:59:13.990Z,8.389,92.454,30,5.3,mb,73,46.2,,0.94,us,usp000dbes,2014-11-07T01:24:21.769Z,"Nicobar Islands, India region",earthquake,,,,22,reviewed,us,us
+2004-12-26T01:52:43.000Z,10.382,92.119,12.1,5.2,mb,46,42.9,,0.99,us,usp000dber,2014-11-07T01:24:21.765Z,"Andaman Islands, India region",earthquake,,41.1,,12,reviewed,us,us
+2004-12-26T01:48:52.070Z,5.429,94.465,51.8,5.7,mb,160,37.9,,0.79,us,usp000dbeq,2015-05-13T18:53:48.000Z,"northern Sumatra, Indonesia",earthquake,,,,54,reviewed,us,us
+2004-12-26T01:40:07.130Z,5.838,93.152,30,5.3,mb,67,63.5,,1.04,us,usp000dbep,2014-11-07T01:24:21.748Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T01:33:22.380Z,7.764,93.713,25.4,5.5,mb,36,170.6,,1,us,usp000dben,2014-11-07T01:24:21.744Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T01:30:15.740Z,8.826,93.708,30,5.5,mb,39,102.5,,1.08,us,usp000dbem,2014-11-07T01:24:21.741Z,"Nicobar Islands, India region",earthquake,,,,9,reviewed,us,us
+2004-12-26T01:29:52.940Z,20.908,97.71,38.5,5.8,mb,59,46,,1.18,us,usp000dbek,2020-01-04T03:34:43.701Z,"Myanmar",earthquake,,12.3,,22,reviewed,us,us
+2004-12-26T01:25:48.760Z,5.499,94.213,30,6.1,mb,82,72.3,,0.9,us,usp000dbej,2015-05-13T18:53:48.000Z,"northern Sumatra, Indonesia",earthquake,,,,24,reviewed,us,us
+2004-12-26T01:22:25.590Z,7.421,93.985,30,6,mb,80,75.7,,0.95,us,usp000dbeh,2015-05-13T18:53:48.000Z,"Nicobar Islands, India region",earthquake,,,,45,reviewed,us,us
+2004-12-26T01:21:20.660Z,6.34,93.361,30,6.1,mb,96,54.3,,0.9,us,usp000dbeg,2015-07-13T17:02:24.000Z,"Nicobar Islands, India region",earthquake,,,,49,reviewed,us,us
+2004-12-26T01:17:36.446Z,37.9621,-118.662,7.1,3.2,ml,12,64.77,0.043,0.1186,nn,nn00122318,2018-04-24T21:30:52.229Z,"Central California",earthquake,,2,,,reviewed,nn,nn
+2004-12-26T01:17:10.330Z,4.942,94.267,30,5.5,mb,16,114,,1.32,us,usp000dbef,2014-11-07T01:24:21.710Z,"off the west coast of northern Sumatra",earthquake,,,,6,reviewed,us,us
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2020-04-17T19:36:48.419Z,"2004 Sumatra - Andaman Islands Earthquake",earthquake,,,,,reviewed,us,official
+2004-12-25T23:51:13.970Z,18.729,-81.242,30,4,mb,16,112,,1.65,us,usp000dbec,2014-11-07T01:24:21.619Z,"Cayman Islands region",earthquake,,0,,7,reviewed,us,us
+2004-12-25T23:31:52.060Z,41.115,20.197,0.3,3.4,md,17,124.5,,,us,usp000dbeb,2014-11-07T01:24:21.616Z,"Albania",earthquake,,,,,reviewed,pdg,ath
+2004-12-25T23:25:04.650Z,1.314,127.395,122.5,4.8,mb,42,93.5,,1.06,us,usp000dbea,2014-11-07T01:24:21.612Z,"Halmahera, Indonesia",earthquake,,25.3,,29,reviewed,us,us
+2004-12-25T22:54:21.040Z,-8.285,125.052,53.1,4.5,mb,13,107.2,,0.72,us,usp000dbe9,2014-11-07T01:24:21.610Z,"East Timor region",earthquake,,18.9,,6,reviewed,us,us
+2004-12-25T22:48:15.200Z,14.725,-92.546,89,4.3,md,27,186.2,,0.72,us,usp000dbe8,2014-11-07T01:24:21.606Z,"offshore Chiapas, Mexico",earthquake,,10.7,,,reviewed,us,unm
+2004-12-25T22:25:39.700Z,-19.078,167.694,35.1,5,mwc,93,96.9,,1.05,us,usp000dbe7,2016-11-10T00:55:56.333Z,"Vanuatu region",earthquake,,,,,reviewed,us,hrv
+2004-12-25T22:20:49.700Z,-6.093,127.627,385.7,4.1,mb,20,122.3,,1.02,us,usp000dbe6,2014-11-07T01:24:21.590Z,"Banda Sea",earthquake,,23.3,,11,reviewed,us,us
+2004-12-25T21:07:56.790Z,2.826,129.074,200,4.3,mb,10,194.5,,0.69,us,usp000dbe5,2014-11-07T01:24:21.589Z,"Halmahera, Indonesia",earthquake,,,,4,reviewed,us,us
+2004-12-25T20:29:21.100Z,38.21,25.69,39,3.3,md,8,95,,,us,usp000dbe4,2014-11-07T01:24:21.587Z,"Aegean Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-25T20:22:19.460Z,34.493,32.071,36.5,4.2,mb,59,87.2,,0.75,us,usp000dbe3,2014-11-07T01:24:21.536Z,"Cyprus region",earthquake,,5.9,,24,reviewed,us,us
+2004-12-25T19:59:16.220Z,19.688,-68.229,24.9,3.5,md,10,330.5,,,us,usp000dbe2,2014-11-07T01:24:21.534Z,"Dominican Republic region",earthquake,,,,,reviewed,rspr,rspr
+2004-12-25T19:51:05.540Z,40.417,-0.919,10.6,2.6,ml,25,63.7,,,us,usp000dbe1,2014-11-07T01:24:21.529Z,"Spain",earthquake,,,,,reviewed,mdd,ldg
+2004-12-25T19:13:18.500Z,43.751,43.966,10,4.2,mb,16,96.7,,1.19,us,usp000dbe0,2014-11-07T01:24:21.527Z,"Caucasus region, Russia",earthquake,,,,7,reviewed,us,us
+2004-12-25T18:17:31.740Z,-6.159,151.126,50.5,4.6,mb,24,125.6,,0.81,us,usp000dbdz,2014-11-07T01:24:21.525Z,"New Britain region, Papua New Guinea",earthquake,,16.4,,12,reviewed,us,us
+2004-12-25T18:00:57.700Z,19.234,-98.935,5,3.1,md,6,114.3,,,us,usp000dbdy,2014-11-07T01:24:21.523Z,"Estado de Mexico, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-25T17:59:07.370Z,-33.987,-178.839,10,4.6,mb,14,202.7,,1.03,us,usp000dbdx,2014-11-07T01:24:21.521Z,"south of the Kermadec Islands",earthquake,,,,6,reviewed,us,us
+2004-12-25T17:49:56.300Z,17.286,-100.347,22.3,4.3,md,22,124.7,,,us,usp000dbdw,2014-11-07T01:24:21.518Z,"Guerrero, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-25T17:06:10.200Z,39.33,24.82,20,3.3,ml,14,67.6,,,us,usp000dbdv,2014-11-07T01:24:21.517Z,"Aegean Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-25T17:02:29.120Z,-19.588,-179.144,600,4,mb,11,144.4,,0.87,us,usp000dbdt,2014-11-07T01:24:21.512Z,"Fiji region",earthquake,,,,6,reviewed,us,us
+2004-12-25T16:42:53.440Z,-6.03,130.487,10,4,mb,11,121,,1.11,us,usp000dbds,2014-11-07T01:24:21.510Z,"Banda Sea",earthquake,,,,3,reviewed,us,us
+2004-12-25T16:08:00.200Z,68.015,9.8,8.4,2.6,ml,9,253.5,,,us,usp000dbdr,2014-11-07T01:24:21.508Z,"Norwegian Sea",earthquake,,,,,reviewed,ber,ber
+2004-12-25T16:03:34.110Z,3.092,65.319,10,4.4,mb,10,199.7,,1.05,us,usp000dbdq,2014-11-07T01:24:21.507Z,"Carlsberg Ridge",earthquake,,,,3,reviewed,us,us
+2004-12-25T15:57:09.347Z,63.1952,-151.3373,13.8,2.8,ml,,,,0.79,ak,ak004gjmqody,2019-02-13T02:11:03.616Z,"Central Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2004-12-25T15:26:34.090Z,-20.381,-179.23,600,4.1,mb,10,158.5,,0.69,us,usp000dbdn,2014-11-07T01:24:21.502Z,"Fiji region",earthquake,,,,3,reviewed,us,us
+2004-12-25T13:28:08.600Z,-30.332,-71.344,44.8,3.8,md,7,198,,,us,usp000dbdm,2014-11-07T01:24:21.500Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-25T13:10:03.580Z,-4.843,152.495,86.2,4.1,mb,12,107.7,,0.97,us,usp000dbdk,2014-11-07T01:24:21.498Z,"New Britain region, Papua New Guinea",earthquake,,22.8,,2,reviewed,us,us
+2004-12-25T13:09:04.300Z,-32.001,-71.181,59.2,2.7,md,8,159.5,,,us,usp000dbdj,2014-11-07T01:24:21.497Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-25T09:32:36.372Z,54.806,-163.8961,27.6,2.5,ml,,,,0.23,ak,ak004gjj0rxx,2019-02-13T02:11:07.097Z,"Unimak Island region, Alaska",earthquake,,32.4,,,reviewed,ak,ak
+2004-12-25T09:26:41.340Z,27.999,139.607,511,4.3,mb,17,149.1,,0.28,us,usp000dbdg,2014-11-07T01:24:21.494Z,"Bonin Islands, Japan region",earthquake,,9.9,,4,reviewed,us,us
+2004-12-25T09:08:36.400Z,10.4,-72.57,9.4,4.4,mb,50,60.2,,,us,usp000dbdf,2014-11-07T01:24:21.489Z,"Zulia, Venezuela",earthquake,,,,7,reviewed,car,us
+2004-12-25T09:03:33.510Z,-26.355,-70.495,55.5,4.5,mb,41,138.2,,0.87,us,usp000dbde,2014-11-07T01:24:21.485Z,"Atacama, Chile",earthquake,,,,10,reviewed,us,us
+2004-12-25T08:02:17.790Z,36.532,-4.693,53.7,3.2,m,15,214.8,,,us,usp000dbdc,2014-11-07T01:24:21.479Z,"Strait of Gibraltar",earthquake,,,,,reviewed,mdd,mdd
+2004-12-25T06:34:50.250Z,-11.077,163.669,10,4.7,mb,23,116.4,,1.34,us,usp000dbdb,2014-11-07T01:24:21.477Z,"Solomon Islands",earthquake,,,,9,reviewed,us,us
+2004-12-25T06:20:52.800Z,38.55,23.56,2,2.6,ml,7,173.4,,,us,usp000dbda,2014-11-07T01:24:21.475Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-25T06:02:36.000Z,39.81,20.4,26,3.3,md,6,165.9,,,us,usp000dbd9,2014-11-07T01:24:21.474Z,"Greece-Albania border region",earthquake,,,,,reviewed,ath,ath
+2004-12-25T05:44:15.220Z,41.001,-123.4675,29.197,2.5,md,20,124,0.2369,0.12,nc,nc30229408,2017-01-10T00:25:46.168Z,"Northern California",earthquake,0.54,1.51,0.21,11,reviewed,nc,nc
+2004-12-25T05:00:48.970Z,-22.651,170.762,10,4,mb,10,131.5,,0.55,us,usp000dbd8,2014-11-07T01:24:21.472Z,"southeast of the Loyalty Islands",earthquake,,,,1,reviewed,us,us
+2004-12-25T04:30:50.000Z,21.621,143.035,315,3.9,mb,21,124,,0.63,us,usp000dbd7,2014-11-07T01:24:21.470Z,"Mariana Islands region",earthquake,,24.9,,5,reviewed,us,us
+2004-12-25T04:21:40.560Z,-53.989,6.638,10,4.6,mb,14,173.6,,0.99,us,usp000dbd6,2014-11-07T01:24:21.468Z,"Bouvet Island region",earthquake,,,,2,reviewed,us,us
+2004-12-25T04:14:53.140Z,-14.808,171.642,631.8,4.2,mb,16,121.9,,0.78,us,usp000dbd5,2014-11-07T01:24:21.466Z,"Vanuatu region",earthquake,,51.9,,4,reviewed,us,us
+2004-12-25T02:47:11.170Z,-50.287,161.908,10,4.4,mb,10,132.2,,1.15,us,usp000dbd4,2014-11-07T01:24:21.465Z,"north of Macquarie Island",earthquake,,,,1,reviewed,us,us
+2004-12-25T02:43:33.090Z,-50.573,161.316,10,4.8,mb,19,248.1,,1.14,us,usp000dbd3,2014-11-07T01:24:21.463Z,"north of Macquarie Island",earthquake,,,,4,reviewed,us,us
+2004-12-25T02:43:21.150Z,45.789,149.934,118.4,4.6,mb,61,135.7,,0.72,us,usp000dbd2,2014-11-07T01:24:21.458Z,"Kuril Islands",earthquake,,,,25,reviewed,us,us
+2004-12-25T02:25:20.400Z,36.78,21.22,17,3.5,md,5,232.1,,,us,usp000dbd1,2014-11-07T01:24:21.456Z,"southern Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-25T01:45:07.560Z,-4.881,153.855,113.5,4.2,mb,12,179.9,,0.95,us,usp000dbd0,2014-11-07T01:24:21.455Z,"New Ireland region, Papua New Guinea",earthquake,,22.7,,3,reviewed,us,us
+2004-12-25T01:26:16.900Z,-32.646,-70.338,101.6,2.7,md,9,229.5,,,us,usp000dbcz,2014-11-07T01:24:21.453Z,"Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-25T01:23:34.110Z,37.297,138.869,34.8,4.3,mb,29,121.5,,0.64,us,usp000dbcy,2014-11-07T01:24:21.450Z,"near the west coast of Honshu, Japan",earthquake,,23,,6,reviewed,us,us
+2004-12-25T00:39:56.120Z,51.325,-179.202,53.2,3.5,ml,28,135.2,,0.68,us,usp000dbcx,2019-02-13T02:10:57.858Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,8,,,reviewed,us,aeic
+2004-12-25T00:20:05.988Z,62.9515,-150.4863,93.3,2.5,ml,,,,0.68,ak,ak004gjdl8k6,2019-02-13T02:10:57.351Z,"Central Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2004-12-24T23:54:46.500Z,-6.618,109.169,248.6,4.6,mb,98,50.5,,0.9,us,usp000dbcw,2014-11-07T01:24:21.438Z,"Java, Indonesia",earthquake,,3.9,,32,reviewed,us,us
+2004-12-24T23:04:13.310Z,14.554,146.949,35,4.5,mb,22,81.9,,0.85,us,usp000dbcv,2014-11-07T01:24:21.436Z,"Rota region, Northern Mariana Islands",earthquake,,,,5,reviewed,us,us
+2004-12-24T22:50:43.610Z,0.352,123.972,128.1,5,mwc,83,54.8,,1.05,us,usp000dbcu,2016-11-10T00:55:52.783Z,"Minahasa, Sulawesi, Indonesia",earthquake,,12.5,,,reviewed,us,hrv
+2004-12-24T22:34:39.990Z,-48.624,161.316,10,4.9,mwc,28,116.9,,1.17,us,usp000dbct,2016-11-10T00:55:52.295Z,"north of Macquarie Island",earthquake,,,,,reviewed,us,hrv
+2004-12-24T22:33:49.360Z,-9.682,150.527,12.5,4.7,mb,25,91.4,,1.07,us,usp000dbcs,2014-11-07T01:24:21.420Z,"eastern New Guinea region, Papua New Guinea",earthquake,,43.8,,7,reviewed,us,us
+2004-12-24T22:32:04.500Z,-35.107,-71.13,105.3,2.6,md,5,216,,,us,usp000dbcr,2014-11-07T01:24:21.419Z,"Maule, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T21:56:02.430Z,-48.98,161.135,10,4.6,mb,17,237.3,,0.82,us,usp000dbcq,2014-11-07T01:24:21.417Z,"north of Macquarie Island",earthquake,,,,1,reviewed,us,us
+2004-12-24T21:46:28.010Z,11.559,145.795,10,4.4,mb,8,146.9,,0.71,us,usp000dbcp,2014-11-07T01:24:21.416Z,"south of the Mariana Islands",earthquake,,0,,1,reviewed,us,us
+2004-12-24T21:30:29.900Z,44.759,7.193,15.4,2.5,ml,18,95.6,,,us,usp000dbcn,2014-11-07T01:24:21.413Z,"northern Italy",earthquake,,,,,reviewed,gen,gen
+2004-12-24T21:20:11.460Z,-3.66,135.349,10,3.8,mb,7,170.6,,0.76,us,usp000dbcm,2014-11-07T01:24:21.412Z,"Papua, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-12-24T21:18:19.890Z,-19.35,167.838,34.3,4.5,mb,22,118.2,,0.82,us,usp000dbck,2014-11-07T01:24:21.408Z,"Vanuatu region",earthquake,,,,8,reviewed,us,us
+2004-12-24T21:00:20.010Z,-20.861,-178.022,418.3,4.2,mb,20,135.3,,0.91,us,usp000dbcj,2014-11-07T01:24:21.406Z,"Fiji region",earthquake,,51.3,,9,reviewed,us,us
+2004-12-24T20:38:09.510Z,4.568,94.206,30,4.3,mb,9,204.8,,0.44,us,usp000dbch,2014-11-07T01:24:21.405Z,"off the west coast of northern Sumatra",earthquake,,,,2,reviewed,us,us
+2004-12-24T20:23:22.600Z,16.142,-96.033,49.3,3.6,md,4,141.8,,,us,usp000dbcg,2014-11-07T01:24:21.403Z,"Oaxaca, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-24T20:14:20.720Z,-48.631,161.289,10,4.8,mb,45,102.7,,0.94,us,usp000dbcf,2014-11-07T01:24:21.398Z,"north of Macquarie Island",earthquake,,,,10,reviewed,us,us
+2004-12-24T19:46:58.730Z,-19.315,167.836,33,3.8,mb,11,156.2,,1.08,us,usp000dbce,2014-11-07T01:24:21.396Z,"Vanuatu region",earthquake,,,,1,reviewed,us,us
+2004-12-24T19:39:03.170Z,-19.134,167.771,32.8,4.7,mb,32,112.5,,0.68,us,usp000dbcd,2014-11-07T01:24:21.391Z,"Vanuatu region",earthquake,,,,16,reviewed,us,us
+2004-12-24T19:36:38.680Z,-19.205,167.75,33.1,5,mwc,116,67.1,,0.98,us,usp000dbcc,2016-11-10T00:55:51.762Z,"Vanuatu region",earthquake,,,,,reviewed,us,hrv
+2004-12-24T18:32:55.750Z,35.6533333,-121.0386667,5.419,2.51,md,62,66,0.04234,0.11,nc,nc21429754,2017-01-10T00:21:39.310Z,"Central California",earthquake,0.14,0.34,0.1,58,reviewed,nc,nc
+2004-12-24T18:30:12.010Z,-18.327,-178.154,500,4.1,mb,11,270.8,,0.7,us,usp000dbcb,2014-11-07T01:24:21.362Z,"Fiji region",earthquake,,,,7,reviewed,us,us
+2004-12-24T18:29:46.593Z,60.1697,-152.7712,99.2,2.6,ml,,,,0.41,ak,ak004gi0tpj7,2019-02-13T02:10:43.362Z,"Southern Alaska",earthquake,,17.1,,,reviewed,ak,ak
+2004-12-24T18:17:00.300Z,38.553,15.08,236.1,2.7,md,23,56.6,,,us,usp000dbc8,2014-11-07T01:24:21.332Z,"Sicily, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-24T17:35:17.300Z,-48.967,161.337,10,4.4,mb,16,122.6,,0.68,us,usp000dbc7,2014-11-07T01:24:21.330Z,"north of Macquarie Island",earthquake,,,,2,reviewed,us,us
+2004-12-24T17:18:43.400Z,-31.465,-70.408,119.6,3.4,md,22,128.4,,,us,usp000dbc6,2014-11-07T01:24:21.327Z,"San Juan, Argentina",earthquake,,,,,reviewed,guc,guc
+2004-12-24T17:01:30.100Z,-33.127,-70.27,4.2,2.6,ml,14,207.1,,,us,usp000dbc5,2014-11-07T01:24:21.325Z,"Region Metropolitana, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T16:34:48.790Z,9.021,126.064,55.2,4.3,mb,17,119.9,,0.59,us,usp000dbc3,2014-11-07T01:24:21.322Z,"Mindanao, Philippines",earthquake,,48.4,,5,reviewed,us,us
+2004-12-24T16:29:39.350Z,-15.649,-173.222,36.6,4.3,mb,14,198.3,,0.91,us,usp000dbc2,2014-11-07T01:24:21.320Z,"Tonga",earthquake,,,,2,reviewed,us,us
+2004-12-24T15:58:21.650Z,34.999,-2.914,9.2,3.4,m,13,276.3,,,us,usp000dbc1,2014-11-07T01:24:21.317Z,"Morocco",earthquake,,,,,reviewed,mdd,mdd
+2004-12-24T15:19:25.670Z,3.04,125.943,71.4,4.4,mb,16,133.4,,0.68,us,usp000dbc0,2014-11-07T01:24:21.315Z,"Kepulauan Sangihe, Indonesia",earthquake,,39,,4,reviewed,us,us
+2004-12-24T14:53:41.900Z,-34.014,-70.586,102.5,3.3,md,20,123.9,,,us,usp000dbbz,2014-11-07T01:24:21.312Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T14:43:56.900Z,18.039,-100.645,60.5,3.5,md,4,190.6,,,us,usp000dbby,2014-11-07T01:24:21.311Z,"Guerrero, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-12-24T14:39:35.610Z,-20.204,-178.532,638,4,mb,12,171.9,,1.44,us,usp000dbbx,2014-11-07T01:24:21.309Z,"Fiji region",earthquake,,71.1,,1,reviewed,us,us
+2004-12-24T14:29:29.750Z,-49.585,161.542,10,4.8,mb,38,126.3,,1.04,us,usp000dbbw,2014-11-07T01:24:21.305Z,"north of Macquarie Island",earthquake,,,,15,reviewed,us,us
+2004-12-24T14:22:56.640Z,4.946,126.784,116.6,4.7,mb,29,134.4,,0.49,us,usp000dbbv,2014-11-07T01:24:21.302Z,"Kepulauan Talaud, Indonesia",earthquake,,26.5,,15,reviewed,us,us
+2004-12-24T14:20:25.360Z,-20.496,-178.67,657.3,4.5,mb,42,133.2,,0.85,us,usp000dbbu,2014-11-07T01:24:21.298Z,"Fiji region",earthquake,,20.5,,9,reviewed,us,us
+2004-12-24T14:12:13.830Z,-20.343,-178.592,612.3,4.5,mb,27,135,,0.87,us,usp000dbbt,2014-11-07T01:24:21.295Z,"Fiji region",earthquake,,29.5,,5,reviewed,us,us
+2004-12-24T14:09:18.650Z,-4.855,153.84,126.7,4.6,mb,16,173.9,,0.79,us,usp000dbbs,2014-11-07T01:24:21.293Z,"New Ireland region, Papua New Guinea",earthquake,,22,,4,reviewed,us,us
+2004-12-24T14:03:00.800Z,-20.289,-178.579,587.5,4.3,mb,20,136.4,,0.9,us,usp000dbbr,2014-11-07T01:24:21.291Z,"Fiji region",earthquake,,39.4,,6,reviewed,us,us
+2004-12-24T14:02:09.450Z,-20.255,-178.555,585.8,4.2,mb,21,141.3,,1.2,us,usp000dbbq,2014-11-07T01:24:21.289Z,"Fiji region",earthquake,,47.5,,4,reviewed,us,us
+2004-12-24T13:52:58.950Z,-20.362,-178.374,600,4.2,mb,11,243.7,,0.99,us,usp000dbbp,2014-11-07T01:24:21.287Z,"Fiji region",earthquake,,,,1,reviewed,us,us
+2004-12-24T13:49:55.840Z,-20.282,-178.681,603.4,4.7,mb,134,31.7,,1.15,us,usp000dbbn,2014-11-07T01:24:21.273Z,"Fiji region",earthquake,,13.7,,47,reviewed,us,us
+2004-12-24T13:39:43.800Z,-20.358,-178.668,614.5,5.8,mwc,290,32.7,,0.99,us,usp000dbbm,2016-11-10T00:55:51.271Z,"Fiji region",earthquake,,,,,reviewed,us,hrv
+2004-12-24T13:32:17.900Z,-20.254,-178.555,618.2,4.4,mb,73,122.5,,0.88,us,usp000dbbk,2014-11-07T01:24:21.233Z,"Fiji region",earthquake,,17.4,,28,reviewed,us,us
+2004-12-24T13:25:19.320Z,-5.709,129.796,156.6,4.7,mb,69,97.5,,0.99,us,usp000dbbj,2014-11-07T01:24:21.225Z,"Banda Sea",earthquake,,10.4,,31,reviewed,us,us
+2004-12-24T13:01:27.200Z,36.51,21.03,14,4,ml,39,195.5,,,us,usp000dbbg,2014-11-07T01:24:21.207Z,"southern Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-24T11:30:44.880Z,-46.353,95.941,10,4.7,mb,21,70.2,,1.05,us,usp000dbbd,2014-11-07T01:24:21.202Z,"southeast Indian Ridge",earthquake,,,,8,reviewed,us,us
+2004-12-24T11:29:22.390Z,-46.411,95.991,10,4.7,mb,33,68.8,,0.83,us,usp000dbbc,2014-11-07T01:24:21.198Z,"southeast Indian Ridge",earthquake,,,,13,reviewed,us,us
+2004-12-24T10:59:46.180Z,-46.466,96.116,10,4.3,mb,7,201,,0.39,us,usp000dbbb,2014-11-07T01:24:21.197Z,"southeast Indian Ridge",earthquake,,,,1,reviewed,us,us
+2004-12-24T10:24:04.830Z,-49.293,161.197,10,4.7,mb,34,116.9,,0.81,us,usp000dbba,2014-11-07T01:24:21.192Z,"north of Macquarie Island",earthquake,,,,9,reviewed,us,us
+2004-12-24T10:22:03.800Z,42.982,0.206,6,2.7,ml,26,59.9,,,us,usp000dbb9,2014-11-07T01:24:21.187Z,"Pyrenees",earthquake,,,,,reviewed,ldg,ldg
+2004-12-24T10:19:06.200Z,-30.754,-71.702,22.4,3.9,ml,9,245.6,,,us,usp000dbb8,2014-11-07T01:24:21.185Z,"Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T09:36:18.500Z,-30.863,-71.701,14.2,3.3,ml,7,252.5,,,us,usp000dbb6,2014-11-07T01:24:21.154Z,"offshore Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T08:47:39.238Z,59.6603,-153.041,109.6,2.9,ml,,,,0.37,ak,ak004ghuz7sz,2019-02-13T02:10:40.030Z,"Southern Alaska",earthquake,,2.7,,,reviewed,ak,ak
+2004-12-24T08:44:02.900Z,-45.21,170.09,12,3.9,ml,13,135.7,,,us,usp000dbb4,2014-11-07T01:24:21.092Z,"South Island of New Zealand",earthquake,,,,,reviewed,wel,wel
+2004-12-24T08:22:32.290Z,29.228,139.419,421.6,3.7,mb,17,135.3,,0.54,us,usp000dbb3,2014-11-07T01:24:21.090Z,"Izu Islands, Japan region",earthquake,,24.4,,3,reviewed,us,us
+2004-12-24T07:53:17.550Z,-24.076,179.342,600,4.4,mb,11,273.8,,1.25,us,usp000dbb2,2014-11-07T01:24:21.088Z,"south of the Fiji Islands",earthquake,,,,3,reviewed,us,us
+2004-12-24T07:35:05.500Z,39.38,24.82,25,3.6,ml,20,68,,,us,usp000dbb1,2014-11-07T01:24:21.086Z,"Aegean Sea",earthquake,,,,,reviewed,ath,ath
+2004-12-24T07:01:58.160Z,-49.632,161.157,10,4.4,mb,8,250.1,,0.67,us,usp000dbb0,2014-11-07T01:24:21.085Z,"north of Macquarie Island",earthquake,,,,1,reviewed,us,us
+2004-12-24T06:14:45.190Z,-20.124,-178.463,600,4.2,mb,12,121.1,,1.41,us,usp000dbaz,2014-11-07T01:24:21.084Z,"Fiji region",earthquake,,,,2,reviewed,us,us
+2004-12-24T06:02:54.930Z,-19.421,-177.854,600,4,mb,15,140.5,,0.9,us,usp000dbay,2014-11-07T01:24:21.082Z,"Fiji region",earthquake,,,,3,reviewed,us,us
+2004-12-24T05:48:26.370Z,-49.207,162.151,10,4.3,mb,9,137.6,,0.88,us,usp000dbax,2014-11-07T01:24:21.081Z,"Auckland Islands, New Zealand region",earthquake,,,,1,reviewed,us,us
+2004-12-24T05:33:10.030Z,26.608,140.452,524.5,4.4,mb,32,104.2,,0.73,us,usp000dbaw,2014-11-07T01:24:21.078Z,"Bonin Islands, Japan region",earthquake,,14.7,,9,reviewed,us,us
+2004-12-24T05:31:48.320Z,-49.557,161.367,10,5.4,mwc,96,50.4,,1.16,us,usp000dbav,2016-11-10T00:55:50.709Z,"north of Macquarie Island",earthquake,,,,,reviewed,us,hrv
+2004-12-24T04:58:25.460Z,13.847,-89.726,44.3,3.7,mb,12,128.9,,1.14,us,usp000dbau,2014-11-07T01:24:21.058Z,"El Salvador",earthquake,,14.5,,1,reviewed,us,us
+2004-12-24T04:41:27.360Z,-18.311,-174.763,61.7,4.9,mb,41,71.2,,1.05,us,usp000dbat,2014-11-07T01:24:21.053Z,"Tonga",earthquake,,20.1,,10,reviewed,us,us
+2004-12-24T04:20:15.410Z,-20.275,-175.827,290.3,4.4,mb,18,155,,0.87,us,usp000dbas,2014-11-07T01:24:21.051Z,"Tonga",earthquake,,34.6,,5,reviewed,us,us
+2004-12-24T04:08:05.700Z,-31.691,-71.71,29.9,3.6,ml,17,209.8,,,us,usp000dbar,2014-11-07T01:24:21.049Z,"offshore Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2004-12-24T03:50:57.990Z,1.996,-96.757,10,4.2,mb,18,210.3,,0.75,us,usp000dbaq,2014-11-07T01:24:21.047Z,"west of the Galapagos Islands",earthquake,,,,4,reviewed,us,us
+2004-12-24T03:40:28.200Z,38.7,22.75,11,2.9,ml,8,138.7,,,us,usp000dbap,2014-11-07T01:24:21.045Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-24T03:37:46.490Z,19.356,145.537,121.6,4.6,mb,27,111.3,,0.89,us,usp000dban,2014-11-07T01:24:21.043Z,"Maug Islands region, Northern Mariana Islands",earthquake,,12.5,,4,reviewed,us,us
+2004-12-24T03:32:46.700Z,-4.53,153.472,120.5,4.4,mb,8,210.7,,0.23,us,usp000dbam,2014-11-07T01:24:21.042Z,"New Ireland region, Papua New Guinea",earthquake,,25.1,,1,reviewed,us,us
+2004-12-24T03:29:29.435Z,60.4402,-151.3714,61.4,2.5,ml,,,,0.36,ak,ak004ghrw64v,2019-02-13T02:10:38.847Z,"Kenai Peninsula, Alaska",earthquake,,8.7,,,reviewed,ak,ak
+2004-12-24T03:28:45.500Z,-49.388,161.502,10,4.7,mb,33,118.8,,0.63,us,usp000dbaj,2014-11-07T01:24:21.034Z,"north of Macquarie Island",earthquake,,,,8,reviewed,us,us
+2004-12-24T03:14:49.490Z,32.0938333,-116.4285,5.632,3.07,ml,17,255,0.6198,0.2,ci,ci10069349,2016-04-02T10:31:26.001Z,"31km NE of Ensenada, B.C., MX",earthquake,0.83,31.61,0.208,42,reviewed,ci,ci
+2004-12-24T02:43:46.809Z,51.4138,-176.8058,18.6,2.5,ml,,,,0.36,ak,ak004ghrdrw8,2019-02-13T02:10:38.421Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,10,,,reviewed,ak,ak
+2004-12-24T02:40:21.800Z,43.04,-0.52,5,3.4,ml,55,40.2,,,us,usp000dbaf,2014-11-07T01:24:21.021Z,"Pyrenees",earthquake,,,,,reviewed,str,ldg
+2004-12-24T02:29:29.000Z,19.3891667,-155.2471667,2.156,2.54,ml,25,51,,0.11,hv,hv5411066,2020-03-31T16:08:31.810Z,"Hawaii region, Hawaii",earthquake,0.29,0.39,0.07,4,reviewed,hv,hv
+2004-12-24T02:18:12.020Z,-17.18,-178.988,510.1,3.8,mb,13,196,,0.58,us,usp000dbae,2014-11-07T01:24:21.019Z,"Fiji region",earthquake,,63.7,,3,reviewed,us,us
+2004-12-24T01:58:46.820Z,-6.098,147.757,48.8,4.2,mb,10,215.3,,0.34,us,usp000dbad,2014-11-07T01:24:20.827Z,"eastern New Guinea region, Papua New Guinea",earthquake,,23.8,,2,reviewed,us,us
+2004-12-24T01:31:59.490Z,-49.372,124.748,10,4.2,mb,6,180,,0.31,us,usp000dbac,2014-11-07T01:24:20.826Z,"western Indian-Antarctic Ridge",earthquake,,,,1,reviewed,us,us
+2004-12-24T01:30:43.280Z,-49.593,161.584,10,4.7,mb,18,122.2,,1.17,us,usp000dbab,2014-11-07T01:24:20.820Z,"north of Macquarie Island",earthquake,,,,2,reviewed,us,us
+2004-12-24T01:04:17.400Z,38.7,23.69,12,2.6,ml,7,198.8,,,us,usp000dba9,2014-11-07T01:24:20.713Z,"Greece",earthquake,,,,,reviewed,ath,ath
+2004-12-24T00:36:29.940Z,51.258,-172.517,42.9,2.7,ml,7,231,,,us,usp000dba8,2019-02-13T02:10:44.973Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,aeic,aeic
+2004-12-24T00:30:56.146Z,38.0042,-118.6858,10.1,2.7,ml,3,167.06,0.043,0.003,nn,nn00126052,2018-04-24T21:30:47.008Z,"Central California",earthquake,,10.2,,,reviewed,nn,nn

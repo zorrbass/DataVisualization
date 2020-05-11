@@ -1,0 +1,87 @@
+time;latitude;longitude;depth;mag;magType;nst;gap;dmin;rms;net;id;updated;place;type;horizontalError;depthError;magError;magNst;status;locationSource;magSource
+2020-05-11T01:06:18.684Z;-6.0661;129.9186;10;5.6;mww;;41;2345;0.91;us;us70009dvh;2020-05-11T03:08:27.806Z;259km NW of Saumlaki, Indonesia;earthquake;6.5;1.8;71;19;reviewed;us;us
+2020-05-11T00:57:45.606Z;31.0182;141938;10;4.6;mb;;100;2761;0.42;us;us70009dvg;2020-05-11T01:23:08.040Z;Izu Islands, Japan region;earthquake;8;1.9;43;161;reviewed;us;us
+2020-05-10T23:58:33.746Z;36.3796;141.1547;30.41;5.8;mww;;26;792;0.76;us;us70009dus;2020-05-11T10:57:52.790Z;50km E of Oarai, Japan;earthquake;6.4;3.2;89;12;reviewed;us;us
+2020-05-10T23:30:03.546Z;-23.0994;-179.0123;340.07;4.6;mb;;165;5995;1.14;us;us70009dui;2020-05-10T23:54:20.040Z;273km S of Ndoi Island, Fiji;earthquake;9.5;7.1;98;31;reviewed;us;us
+2020-05-10T23:10:00.210Z;2.4112;-77.3265;92.49;4.5;mb;;82;2434;0.69;us;us70009du7;2020-05-10T23:35:00.040Z;19km NNW of Argelia, Colombia;earthquake;8.2;6.7;49;121;reviewed;us;us
+2020-05-10T22:07:40.370Z;33.0183333;-116.0201667;10.16;4.54;mw;141;21;138;0.27;ci;ci38488354;2020-05-11T11:07:06.909Z;17km SE of Ocotillo Wells, CA;earthquake;0.14;0.48;;6;reviewed;ci;ci
+2020-05-10T18:04:22.484Z;-22.7535;-68.1578;117.94;5.5;mww;;88;198;1.06;us;us70009drp;2020-05-10T20:06:17.426Z;19km NNE of San Pedro de Atacama, Chile;earthquake;8.4;7.2;63;24;reviewed;us;us
+2020-05-10T17:50:03.205Z;36.5718;70.9073;204.8;4.6;mb;;69;2071;0.9;us;us70009dr9;2020-05-10T18:03:38.040Z;33km SSE of Jarm, Afghanistan;earthquake;7.6;7.4;95;33;reviewed;us;us
+2020-05-10T16:49:12.440Z;40.7597;78.8305;10;4.7;mb;;87;528;0.56;us;us70009dqt;2020-05-10T17:34:43.040Z;127km WSW of Aksu, China;earthquake;4.5;1.8;95;34;reviewed;us;us
+2020-05-10T07:16:19.651Z;77.2603;6.7861;10;4.5;mb;;76;12359;0.54;us;us70009dmp;2020-05-10T08:33:13.040Z;235km WSW of Longyearbyen, Svalbard and Jan Mayen;earthquake;8.4;1.9;54;98;reviewed;us;us
+2020-05-10T05:04:01.017Z;-24.0377;-175692;35;4.8;mb;;122;15814;0.76;us;us70009dln;2020-05-10T05:59:54.040Z;South of Tonga;earthquake;5.6;2;76;54;reviewed;us;us
+2020-05-10T04:46:01.831Z;49.5585;-127.6258;10;4.7;mb;;146;1131;1.2;us;us70009dld;2020-05-11T00:18:50.219Z;127km S of Port Hardy, Canada;earthquake;5.7;1.9;27;421;reviewed;us;us
+2020-05-10T03:35:16.526Z;44482;149.0221;32.33;4.5;mb;;135;4629;0.55;us;us70009dl7;2020-05-10T04:04:54.040Z;122km SE of Kuril'sk, Russia;earthquake;10.7;5.7;57;89;reviewed;us;us
+2020-05-10T02:34:08.599Z;-7.4078;128.0982;172.94;4.6;mb;;57;3223;0.86;us;us70009dkm;2020-05-10T02:52:41.040Z;Kepulauan Barat Daya, Indonesia;earthquake;9.7;8.3;116;22;reviewed;us;us
+2020-05-10T00:57:26.820Z;1.8238;127.4597;137.62;4.5;mb;;76;1049;0.63;us;us70009dk2;2020-05-10T01:24:28.040Z;62km W of Tobelo, Indonesia;earthquake;8.1;6.3;62;77;reviewed;us;us
+2020-05-09T23:35:12.977Z;-11.6318;165.0801;10;4.9;mww;;60;4318;0.96;us;us70009djb;2020-05-09T23:53:06.040Z;130km SW of Lata, Solomon Islands;earthquake;8.6;1.9;98;10;reviewed;us;us
+2020-05-09T21:42:56.325Z;-19194;-69.2026;133.47;4.6;mwr;;81;472;1.1;us;us70009di0;2020-05-09T22:08:39.060Z;116km SSE of Putre, Chile;earthquake;5.9;5.2;;;reviewed;us;guc
+2020-05-09T19:18:11.884Z;14.0476;120525;86.86;5.3;mww;;30;8529;0.74;us;us70009dg1;2020-05-10T14:33:54.062Z;10km W of San Diego, Philippines;earthquake;8.2;5.3;53;34;reviewed;us;us
+2020-05-09T15:35:58.629Z;40.7586;78.8225;10;5.3;mww;;31;533;0.94;us;us70009dda;2020-05-09T22:05:05.535Z;127km WSW of Aksu, China;earthquake;4;1.8;86;13;reviewed;us;us
+2020-05-09T14:02:03.808Z;54.3135;-163.4527;70.19;4.7;mb;;152;544;0.9;us;us70009dbw;2020-05-09T17:27:54.440Z;59km S of False Pass, Alaska;earthquake;7.1;10.7;0.06;84;reviewed;us;us
+2020-05-09T13:30:06.763Z;10.5356;-62.5105;87.24;4.5;mb;;137;1795;0.75;us;us70009dbc;2020-05-09T21:32:42.501Z;8km ESE of Irapa, Venezuela;earthquake;6.8;9.1;145;14;reviewed;us;us
+2020-05-09T13:18:39.406Z;-54.6389;158799;10;4.8;mb;;118;167;0.9;us;us70009dba;2020-05-09T13:40:02.040Z;19km SSW of Macquarie Island, Australia;earthquake;6.6;1.8;125;20;reviewed;us;us
+2020-05-09T11:19:43.275Z;15.0061;122.5782;36.28;4.6;mb;;59;7898;0.48;us;us70009da9;2020-05-09T20:22:48.981Z;39km NE of Jomalig, Philippines;earthquake;8.4;5.7;59;86;reviewed;us;us
+2020-05-09T11:14:45.004Z;-9.6212;125.0702;43.06;4.5;mb;;71;802;0.83;us;us70009d96;2020-05-09T12:51:24.040Z;49km E of Leof, Indonesia;earthquake;6.4;8.5;115;22;reviewed;us;us
+2020-05-09T10:52:52.066Z;37.3766;20.5134;12.15;4.8;mb;;100;1143;0.87;us;us70009d8n;2020-05-09T11:10:05.040Z;47km SW of Mouzaki, Greece;earthquake;7;4;44;155;reviewed;us;us
+2020-05-09T09:39:29.368Z;34.0319;25.4924;23.64;4.7;mb;;96;1347;0.74;us;us70009d72;2020-05-09T09:57:12.040Z;110km SSW of Ierapetra, Greece;earthquake;7.9;5.4;46;142;reviewed;us;us
+2020-05-09T05:49:13.099Z;-7.0462;129.5004;149.84;5.1;mww;;31;2011;0.83;us;us70009d3s;2020-05-09T21:56:54.340Z;224km WNW of Saumlaki, Indonesia;earthquake;4;4.8;61;26;reviewed;us;us
+2020-05-09T04:27:41.027Z;-5.7031;-76.6614;44.56;4.6;mb;;141;4415;0.58;us;us70009d30;2020-05-09T17:29:44.491Z;51km NE of Moyobamba, Peru;earthquake;5.4;9.3;67;66;reviewed;us;us
+2020-05-09T03:46:19.063Z;-4884;153.6081;68.91;5.1;mb;;104;1596;0.9;us;us70009d26;2020-05-09T04:01:31.040Z;78km SE of Taron, Papua New Guinea;earthquake;8.8;7.6;0.09;40;reviewed;us;us
+2020-05-08T23:36:28.415Z;33.7864;25.5857;10;4.5;mb;;87;1604;0.88;us;us70009cxt;2020-05-09T05:43:45.563Z;136km S of Ierapetra, Greece;earthquake;7.7;1.9;51;115;reviewed;us;us
+2020-05-08T22:42:06.952Z;-23.2277;-68.8371;84.86;5;mww;;30;665;0.82;us;us70009cw2;2020-05-11T02:29:48.062Z;72km WSW of San Pedro de Atacama, Chile;earthquake;3.8;2.5;66;22;reviewed;us;us
+2020-05-08T20:45:30.685Z;-29.4704;76.5147;10;5.5;mww;;31;8.35;0.85;us;us70009csg;2020-05-09T20:46:56.077Z;Mid-Indian Ridge;earthquake;9.4;1.7;98;10;reviewed;us;us
+2020-05-08T13:41:19.442Z;-16.8853;167.3057;43.01;4.7;mb;;144;1433;0.68;us;us70009cd4;2020-05-08T14:05:33.040Z;85km S of Lakatoro, Vanuatu;earthquake;8.9;7.5;112;24;reviewed;us;us
+2020-05-08T11:27:31.497Z;-0.4841;67288;10;4.7;mb;;52;9303;0.82;us;us70009cbb;2020-05-08T11:50:47.040Z;Carlsberg Ridge;earthquake;7.5;1.7;77;51;reviewed;us;us
+2020-05-08T10:27:36.729Z;12.3093;144.0447;10;5.2;mww;;26;1504;0.61;us;us70009cal;2020-05-11T10:37:51.315Z;125km SSW of Merizo Village, Guam;earthquake;9.4;1.8;69;20;reviewed;us;us
+2020-05-08T03:14:24.752Z;34.1021;25.5657;21.17;4.8;mww;;64;1307;0.88;us;us70009c4n;2020-05-08T03:33:28.040Z;101km S of Ierapetra, Greece;earthquake;7;5.3;98;10;reviewed;us;us
+2020-05-08T02:49:17.509Z;-8.6705;-74.9174;128.2;4.7;mb;;110;2381;0.8;us;us70009c4h;2020-05-08T03:27:36.785Z;24km SSW of Campoverde, Peru;earthquake;8.8;7.2;36;240;reviewed;us;us
+2020-05-08T01:14:20.793Z;-55.4755;-29.3364;8.55;5.4;mww;;61;4299;0.79;us;us70009c3a;2020-05-09T01:16:43.654Z;190km NW of Visokoi Island, South Georgia and the South Sandwich Islands;earthquake;10.6;5;86;13;reviewed;us;us
+2020-05-08T00:33:29.112Z;31.0399;142.0085;10;4.9;mww;;70;2784;0.61;us;us70009c2n;2020-05-08T23:36:50.040Z;Izu Islands, Japan region;earthquake;7;1.8;65;23;reviewed;us;us
+2020-05-07T20:18:22.820Z;35.7254;52.0439;10;4.6;mb;;105;5199;1;us;us70009bxr;2020-05-11T00:39:59.049Z;2km WNW of Damavand, Iran;earthquake;5.1;1.9;51;117;reviewed;us;us
+2020-05-07T19:43:08.494Z;36.5126;70.7039;192.02;4.5;mb;;72;2027;0.76;us;us70009bwr;2020-05-07T20:02:41.040Z;40km SSW of Jarm, Afghanistan;earthquake;7.2;7.3;57;90;reviewed;us;us
+2020-05-07T16:35:59.682Z;-22.8996;-68.1657;124.05;4.6;mwr;;45;53;0.85;us;us70009bt2;2020-05-07T17:18:44.040Z;5km ENE of San Pedro de Atacama, Chile;earthquake;7.5;7;;;reviewed;us;guc
+2020-05-07T15:16:41.415Z;-4.1487;152.5262;132.07;5.3;mww;;69;364;0.91;us;us70009bqa;2020-05-07T15:34:36.040Z;36km NE of Kokopo, Papua New Guinea;earthquake;8;4.9;68;21;reviewed;us;us
+2020-05-07T14:17:14.183Z;30.0584;141.4828;54.34;4.6;mb;;125;3015;1.13;us;us70009bpt;2020-05-07T15:07:08.040Z;Izu Islands, Japan region;earthquake;10.5;8.6;87;39;reviewed;us;us
+2020-05-07T11:47:08.788Z;41.3518;80993;10;4.6;mb;;78;2249;0.94;us;us70009bni;2020-05-07T12:04:50.040Z;66km ENE of Aksu, China;earthquake;8.8;1.9;94;34;reviewed;us;us
+2020-05-07T11:21:19.839Z;-4.4543;154.7127;466.17;6.1;mww;;59;2555;0.86;us;us70009bn4;2020-05-08T11:25:39.175Z;186km E of Taron, Papua New Guinea;earthquake;10;5.8;0.05;39;reviewed;us;us
+2020-05-07T06:55:01.325Z;-2.8599;147.2233;10;4.5;mb;;83;823;0.46;us;us70009bkl;2020-05-07T07:23:31.040Z;92km S of Lorengau, Papua New Guinea;earthquake;8.1;1.9;108;26;reviewed;us;us
+2020-05-07T00:49:11.636Z;-5.7246;-76.6948;31.61;5.3;mww;;57;4435;0.67;us;us70009bh6;2020-05-07T02:57:09.350Z;46km NE of Moyobamba, Peru;earthquake;8.2;3.9;86;13;reviewed;us;us
+2020-05-06T19:30:11.952Z;1.7668;127.3888;109.99;4.8;mb;;110;988;0.94;us;us70009bal;2020-05-06T19:49:38.040Z;69km W of Tobelo, Indonesia;earthquake;10;7.3;86;41;reviewed;us;us
+2020-05-06T19:00:38.410Z;19.5295;-67.7218;44;4.54;md;24;226;1.1705;0.76;pr;pr2020127012;2020-05-07T04:12:34.619Z;97km NE of Punta Cana, Dominican Republic;earthquake;3.5;19.53;0.34;21;reviewed;pr;pr
+2020-05-06T15:43:12.317Z;-19368;-70.5322;64.51;5.1;mwr;;137;774;0.59;us;us70009b5z;2020-05-06T18:27:43.328Z;101km SSW of Arica, Chile;earthquake;5.9;7.8;;;reviewed;us;guc
+2020-05-06T13:53:56.960Z;-6.7949;129.8613;107;6.8;mww;;17;1.85;0.61;us;us70009b14;2020-05-10T00:04:43.829Z;205km NW of Saumlaki, Indonesia;earthquake;6.9;4.2;65;23;reviewed;us;us
+2020-05-06T10:51:02.672Z;39.7327;73.9429;19.45;5.1;mww;;41;1.67;0.96;us;us70009az9;2020-05-07T06:34:30.388Z;59km E of Sary-Tash, Kyrgyzstan;earthquake;5;4;93;11;reviewed;us;us
+2020-05-06T08:08:00.135Z;33.7744;48.1209;10;4.8;mb;;54;2393;1.22;us;us70009axp;2020-05-07T20:27:31.158Z;16km SW of Aleshtar, Iran;earthquake;7.9;1.9;59;90;reviewed;us;us
+2020-05-06T06:36:52.868Z;-29.6191;-71.4779;61.89;5.2;mb;;85;363;1.19;us;us70009awg;2020-05-06T16:48:43.955Z;38km NW of La Serena, Chile;earthquake;6.2;6.6;43;181;reviewed;us;us
+2020-05-06T02:54:02.955Z;6.7402;127.1232;48.61;4.7;mb;;117;1567;0.81;us;us70009av0;2020-05-06T03:09:24.040Z;81km ESE of San Ignacio, Philippines;earthquake;4.4;8.4;0.06;86;reviewed;us;us
+2020-05-06T01:43:47.880Z;1.4261;126.4696;51.18;4.7;mb;;109;1107;0.84;us;us70009atx;2020-05-06T01:56:10.040Z;122km NW of Kota Ternate, Indonesia;earthquake;6.8;9.2;95;34;reviewed;us;us
+2020-05-06T01:16:11.318Z;37.4209;141.8367;32.5;4.7;mb;;129;3004;1.46;us;us70009ate;2020-05-06T01:35:59.040Z;74km E of Namie, Japan;earthquake;7.3;5.5;65;71;reviewed;us;us
+2020-05-05T23:20:40.032Z;-15.1704;-172.9345;10;5.5;mb;;41;5.09;1.34;us;us70009arc;2020-05-06T23:22:43.519Z;122km NE of Hihifo, Tonga;earthquake;10.6;1.9;27;484;reviewed;us;us
+2020-05-05T20:25:20.329Z;-30.5883;-71.6541;31.77;4.6;mb;;147;758;0.62;us;us70009ame;2020-05-05T20:45:17.040Z;43km W of Ovalle, Chile;earthquake;3.5;5.2;103;36;reviewed;us;us
+2020-05-05T17:20:32.505Z;34.2341;25.5839;10;4.9;mb;;45;1196;0.82;us;us70009ain;2020-05-11T09:44:37.457Z;87km S of Ierapetra, Greece;earthquake;5.3;1.6;37;237;reviewed;us;us
+2020-05-05T17:19:47.076Z;-34.0857;-71.2998;59;4.6;mwr;;62;224;0.49;us;us70009aik;2020-05-06T10:58:42.288Z;43km S of Melipilla, Chile;earthquake;1.6;4.3;;;reviewed;us;guc
+2020-05-05T16:57:08.687Z;35.5483;140.0693;69.38;5;mww;;84;1773;0.49;us;us70009aif;2020-05-10T18:19:58.513Z;3km NNW of Ichihara, Japan;earthquake;5.7;5.1;78;16;reviewed;us;us
+2020-05-05T16:17:41.794Z;3.7705;-82.3991;10;4.6;mb;;158;4.7;0.62;us;us70009ahz;2020-05-05T17:03:53.040Z;South of Panama;earthquake;5.6;1.9;61;81;reviewed;us;us
+2020-05-05T16:07:29.408Z;3.4463;-82.7233;10;4.7;mb;;162;5312;0.7;us;us70009ahr;2020-05-05T16:46:23.040Z;South of Panama;earthquake;11.6;1.9;37;226;reviewed;us;us
+2020-05-05T12:40:21.858Z;-31.81;-67.4243;128.38;4.6;mb;;76;1106;0.72;us;us70009aea;2020-05-05T13:01:36.040Z;83km ESE of Caucete, Argentina;earthquake;8.5;7.8;47;137;reviewed;us;us
+2020-05-05T12:25:16.032Z;-2.0775;138.8518;36.94;4.5;mb;;65;6649;0.46;us;us70009ae2;2020-05-05T13:58:29.040Z;202km WNW of Abepura, Indonesia;earthquake;8.2;4.9;92;35;reviewed;us;us
+2020-05-05T12:02:36.799Z;13.2943;-91.12;36.07;5.2;mb;;135;1344;0.91;us;us70009adl;2020-05-05T18:10:45.290Z;76km SSW of Puerto San Jose, Guatemala;earthquake;7.2;6.9;23;614;reviewed;us;us
+2020-05-05T11:40:34.185Z;34.1194;25.6216;10;4.5;mb;;117;1312;0.51;us;us70009adb;2020-05-05T13:25:29.040Z;99km S of Ierapetra, Greece;earthquake;5.4;1.9;49;123;reviewed;us;us
+2020-05-05T11:40:33.999Z;34.1006;25.6077;10;4.6;mb;;127;1324;0.54;us;us70009ad8;2020-05-08T06:09:49.040Z;101km S of Ierapetra, Greece;earthquake;7.9;1.6;47;132;reviewed;us;us
+2020-05-05T11:03:39.377Z;13.4894;-88.3321;203.22;4.6;mb;;148;1347;0.74;us;us70009acp;2020-05-07T09:10:54.251Z;2km ESE of Chinameca, El Salvador;earthquake;7.6;8;42;171;reviewed;us;us
+2020-05-05T10:12:29.812Z;-20.1903;168.7194;10;4.7;mb;;99;1436;0.26;us;us70009ac9;2020-05-05T10:44:31.040Z;91km SW of Isangel, Vanuatu;earthquake;8.6;1.9;104;28;reviewed;us;us
+2020-05-05T08:04:46.877Z;-17.8372;-175.1596;280.97;4.9;mb;;124;4518;0.89;us;us70009aau;2020-05-05T08:20:47.040Z;153km NW of Neiafu, Tonga;earthquake;11.5;7.2;34;268;reviewed;us;us
+2020-05-04T22:32:24.644Z;11.0015;-61.0693;95.42;4.9;mb;;96;1261;1.3;us;us70009a5p;2020-05-05T16:08:59.687Z;41km WSW of Scarborough, Trinidad and Tobago;earthquake;8.9;7.5;28;405;reviewed;us;us
+2020-05-04T22:28:09.003Z;23.9017;126.3997;10;4.5;mb;;105;3145;0.81;us;us70009a5s;2020-05-04T23:11:11.040Z;150km SE of Hirara, Japan;earthquake;8;1.9;99;30;reviewed;us;us
+2020-05-04T20:52:42.640Z;2.6404;-79.8213;10;4.6;mb;;140;2751;1.29;us;us70009a3g;2020-05-04T21:27:05.040Z;136km WNW of Francisco Pizarro, Colombia;earthquake;6.1;1.8;42;166;reviewed;us;us
+2020-05-04T17:32:02.064Z;-10.2833;161.6883;77.94;4.8;mb;;59;1909;1.28;us;us700099y5;2020-05-04T17:58:57.040Z;31km NW of Kirakira, Solomon Islands;earthquake;7.8;3.3;69;65;reviewed;us;us
+2020-05-04T16:43:05.273Z;-22.4489;-174.0371;7.84;4.9;mb;;97;7.62;0.76;us;us700099x6;2020-05-04T17:18:12.040Z;155km SE of `Ohonua, Tonga;earthquake;6.9;5.5;119;25;reviewed;us;us
+2020-05-04T14:12:44.280Z;11.1246;121.9477;33.48;4.7;mb;;107;5393;0.65;us;us700099ts;2020-05-09T22:36:47.385Z;9km WSW of Lawa-an, Philippines;earthquake;9.7;5.5;58;90;reviewed;us;us
+2020-05-04T13:35:18.116Z;19.9542;145.5223;86.98;4.9;mb;;95;4694;0.69;us;us700099sm;2020-05-04T14:11:19.040Z;91km SE of Farallon de Pajaros, Northern Mariana Islands;earthquake;9.4;4.8;57;96;reviewed;us;us
+2020-05-04T13:34:32.485Z;36.3649;141.1941;33.2;4.7;mb;;126;2413;0.66;us;us700099sl;2020-05-04T19:46:04.164Z;53km E of Oarai, Japan;earthquake;7.1;5.9;0.06;84;reviewed;us;us
+2020-05-04T13:07:48.334Z;35.6605;140.8653;42.04;5.6;mww;;100;789;0.68;us;us700099s8;2020-05-06T15:30:58.430Z;8km SSE of Hasaki, Japan;earthquake;6.5;4.4;75;17;reviewed;us;us
+2020-05-04T12:36:37.047Z;33.9899;25.6196;10;4.5;mwr;;127;1427;0.84;us;us700099rz;2020-05-04T12:59:51.040Z;113km S of Ierapetra, Greece;earthquake;5.2;1.9;93;11;reviewed;us;us
+2020-05-04T07:51:24.995Z;-17.0119;-72.5575;78.31;4.6;mb;;144;2507;0.78;us;us700099nv;2020-05-04T13:05:50.500Z;46km SSE of Camana, Peru;earthquake;8.7;8.9;0.07;60;reviewed;us;us
+2020-05-04T03:03:10.780Z;31.0795;141.8965;10;5.2;mww;;93;2691;1.11;us;us700099km;2020-05-04T13:30:02.757Z;297km SE of Hachijo-jima, Japan;earthquake;7.4;1.9;98;10;reviewed;us;us
+2020-05-04T02:26:58.147Z;-20.5177;-69.2663;91.64;4.6;mwr;;52;389;1.18;us;us700099k4;2020-05-04T03:23:44.337Z;97km ESE of Iquique, Chile;earthquake;3.1;5;58;29;reviewed;us;us

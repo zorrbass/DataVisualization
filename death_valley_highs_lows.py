@@ -37,7 +37,7 @@ with open(filename) as f:
             dates.append(current_date)
             highs.append(high)
             lows.append(low)
-
+    print(dates)
 # print(highs)
 
 # PLot the high and low temperatures
